@@ -1,0 +1,595 @@
+{
+  "rules": [
+    {
+      "id": 1,
+      "question": "# I. Bối cảnh dự án",
+      "answer": "Đội ngũ Xtrader đã có thời gian dài tham gia sâu vào thị trường CFD vàng và bạc giao ngay, sở hữu nguồn lực tài chính mạnh mẽ và hệ thống kiểm soát rủi ro vững chắc. Để phát huy hơn nữa lợi thế chuyên môn của mình, Xtrader đã chính thức ra mắt 'Chương trình Tuyển dụng Nhà giao dịch Độc quyền', tìm kiếm trên toàn cầu những nhà giao dịch có kỹ năng chuyên môn và kinh nghiệm giao dịch thực tế.\n\nCổng đăng ký Đánh giá Nhà giao dịch Xtrader: \nTài khoản Chăm sóc Khách hàng Xtrader (Thanh menu phía dưới → [Đánh giá miễn phí])\n\nVới nguồn vốn độc quyền dồi dào do Xtrader cung cấp, nhà giao dịch tham gia giao dịch CFD trên thị trường vàng toàn cầu bằng chiến lược và năng lực thực thi của riêng mình, đạt được lợi nhuận ổn định trong mức rủi ro có thể kiểm soát. Xtrader sẽ thiết lập cơ chế quản lý vốn theo từng giai đoạn, hệ thống kiểm soát rủi ro nghiêm ngặt và tiêu chuẩn đánh giá hiệu suất khoa học để đảm bảo đội ngũ theo đuổi lợi nhuận dài hạn thông qua hoạt động ổn định.\n\nĐể thu hút và khích lệ những nhân tài xuất sắc, Xtrader đã xây dựng cơ chế khen thưởng đa chiều, kết hợp giữa thưởng theo hiệu suất với khích lệ dài hạn cùng cơ chế thăng tiến. Nhà giao dịch có hiệu suất cao sẽ có quyền kiểm soát lớn hơn đối với việc phân bổ vốn và tỷ lệ chia sẻ lợi nhuận cao hơn.\n\nXtrader tuân thủ nguyên tắc 'Chuyên nghiệp, ổn định và hợp tác đôi bên cùng có lợi', cam kết xây dựng một đội ngũ giao dịch độc quyền chất lượng cao trên toàn thế giới, giúp nhà giao dịch hiện thực hóa giá trị cá nhân đồng thời chia sẻ cơ hội tăng trưởng trên thị trường vàng toàn cầu."
+    },
+    {
+      "id": 2,
+      "question": "# II. Đối tượng tuyển dụng và yêu cầu tuyển chọn",
+      "answer": "1. Đối tượng: Nhà giao dịch hoặc đội nhóm có kinh nghiệm giao dịch thực tế trên thị trường tài chính.\n\n2. Yêu cầu tuyển chọn\n1) Việc tuyển chọn nhà giao dịch gồm hai giai đoạn: đánh giá mô phỏng và chia sẻ lợi nhuận tài khoản thực.\n2) Đánh giá mô phỏng gồm hai giai đoạn: bài kiểm tra sơ bộ và bài kiểm tra cuối. Nhà giao dịch vượt qua cả hai giai đoạn đánh giá sẽ được cấp một tài khoản giao dịch thực. Quy tắc của cả hai giai đoạn đánh giá là giống nhau.\n3) Quy mô vốn và tỷ lệ chia sẻ lợi nhuận của tài khoản giao dịch thực hoàn toàn dựa trên hiệu suất giao dịch của tài khoản demo của nhà giao dịch. Vốn tài khoản giao dịch thực dao động từ 1.000 USD đến 100.000 USD; tỷ lệ chia sẻ lợi nhuận giao dịch thực dao động từ 30% đến 90%.\n4) Công cụ giao dịch: Vàng giao ngay, Bạc giao ngay.\n\n## Quy tắc đánh giá mô phỏng (Giống nhau ở cả hai giai đoạn)\n1) Thời gian đánh giá: 90 ngày, tính từ giao dịch đầu tiên.\n2) Loại: Khi giá trị ròng của tài khoản giảm xuống dưới 9000, đánh giá được xem là thất bại. Hệ thống sẽ tự động đóng toàn bộ vị thế và hạn chế quyền giao dịch của tài khoản. Đánh giá này không đặt bất kỳ hạn chế nào đối với giao dịch và không bao gồm mức sụt giảm động trong ngày.\n3) Mục tiêu lợi nhuận: Giá trị tài sản ròng của tài khoản phải đạt tối thiểu 11.000 khi không có vị thế mở.\n4) Yêu cầu vị thế đã đóng: Số vị thế đã đóng phải đạt tối thiểu 30 lô tiêu chuẩn (không phải số lần giao dịch).\n5) Số ngày giao dịch tối thiểu: Tài khoản phải giao dịch tối thiểu 10 ngày giao dịch; ngày đóng vị thế được dùng làm mốc thống kê.\n6) Tiêu chí thăng hạng đánh giá: Khi tài khoản đồng thời đáp ứng các tiêu chí sau: lợi nhuận 10% + tối thiểu 10 ngày giao dịch + 30 vị thế đã đóng, thử thách được xem là thành công. Lúc này, nhà giao dịch cần liên hệ chăm sóc khách hàng và đăng ký để chuyển sang giai đoạn tài khoản tiếp theo.\n7) Thống kê số lô: Để thuận tiện cho việc thống kê, đặt mức hoa hồng 1 USD mỗi lô. Khi xem xét các giao dịch đã đóng, nếu hoa hồng đạt 30 USD trong thời gian đánh giá hợp lệ, nghĩa là đã đáp ứng yêu cầu 30 lô tiêu chuẩn.\n8) Ký quỹ: Ký quỹ cố định mỗi lô là 20.000 USD. Khối lượng mở vị thế tối đa = Vốn chủ sở hữu tài khoản / Ký quỹ mỗi lô 20.000 USD. Ví dụ, tài khoản có vốn 10.000 USD có khối lượng mở vị thế tối đa là 0,5 lô (10.000/20.000).\n9) Cập nhật quy tắc: Quy tắc đánh giá của hoạt động này sẽ được cập nhật dựa trên tình hình vận hành thực tế; nếu có thay đổi, giải thích chính thức hoặc diễn giải của chăm sóc khách hàng sẽ được ưu tiên áp dụng."
+    },
+    {
+      "id": 3,
+      "question": "# III. Chia sẻ lợi nhuận tài khoản thực",
+      "answer": "1) Không có hạn chế về số lần giao dịch, chiến lược, lệnh chốt lời và cắt lỗ, hay mức sụt giảm mỗi giao dịch trên tài khoản giao dịch thực.\n2) Quy tắc giao dịch thực giống với quy tắc đánh giá mô phỏng. Tài khoản giao dịch thực chỉ có ngưỡng cắt lỗ 10%: khi giá trị ròng theo thời gian thực của tài khoản giảm xuống dưới 90% vốn ban đầu của tài khoản, cơ chế đóng vị thế bắt buộc của hệ thống sẽ được kích hoạt, toàn bộ vị thế của tài khoản sẽ bị đóng bắt buộc và giao dịch sẽ bị hạn chế.\n3) Vốn trên tài khoản giao dịch thực dao động từ 1.000 USD đến 100.000 USD; tỷ lệ chia sẻ lợi nhuận dao động từ 30% đến 90%.\n4) Khi tài khoản giao dịch thực đạt lợi nhuận 10%, nhà giao dịch có thể đăng ký với chăm sóc khách hàng để chia sẻ lợi nhuận. Hoặc, nhà giao dịch có thể chọn không rút lợi nhuận mà thay vào đó đăng ký nâng cấp lên tài khoản giao dịch thực có vốn lớn hơn khi tổng lợi nhuận tài khoản đạt 30%-50%.\n\n## Rút lợi nhuận\n1) Để nâng cao khả năng chịu sai sót của nhà giao dịch (tăng biên độ sụt giảm), nền tảng mặc định sử dụng 10% lợi nhuận đầu tiên của tài khoản giao dịch thực làm lớp đệm an toàn. Ví dụ, tài khoản có vốn 10.000 USD sẽ có giá trị ròng 11.000 USD khi đạt lợi nhuận 1.000 USD; lúc này, tài khoản chỉ bị loại nếu lỗ 2.000 USD, qua đó tăng khả năng chịu sai sót.\n2) Khi lợi nhuận tài khoản vượt 20%, nhà giao dịch có thể đăng ký rút 10% lợi nhuận. Tức là, sau khi trừ lớp đệm an toàn 10%, cứ mỗi 10% lợi nhuận tăng thêm, nhà giao dịch có thể đăng ký rút phần chia sẻ lợi nhuận tương ứng.\n3) Nhà giao dịch cũng có thể chủ động thoát và rút toàn bộ hoặc phần chia sẻ lợi nhuận chưa tất toán còn lại trong một lần.\n\n## Ví dụ\n\nĐối với tài khoản có vốn 10.000 USD:\n\n-Khi tài khoản đạt lợi nhuận 1.000 USD (10%), nếu tiếp tục giao dịch, khoản này tạm thời không được rút; \n-Khi tài khoản đạt lợi nhuận 2.000 USD (20%), nhà giao dịch có thể đăng ký rút 1.000 USD (10%) phần chia sẻ lợi nhuận; \n-Khi nhà giao dịch chọn thoát, toàn bộ lợi nhuận chưa tất toán sẽ được rút trong một lần."
+    }
+  ],
+  "rulesPaid": [
+    {
+      "id": 1,
+      "question": "1. Bối cảnh dự án",
+      "answer": "Đội ngũ Xtrader đã có thời gian dài tham gia sâu vào thị trường CFD vàng và bạc giao ngay, sở hữu nguồn lực tài chính mạnh mẽ và hệ thống kiểm soát rủi ro vững chắc. Để phát huy hơn nữa lợi thế chuyên môn của mình, Xtrader đã chính thức ra mắt \"Chương trình Tuyển dụng Prop Trader\", tìm kiếm trên toàn cầu những nhà giao dịch có kỹ năng chuyên môn và kinh nghiệm giao dịch thực tế.\n\nVới nguồn vốn độc quyền dồi dào do Xtrader cung cấp, nhà giao dịch tham gia giao dịch CFD trên thị trường vàng toàn cầu bằng chiến lược và năng lực thực thi của riêng mình, đạt được lợi nhuận ổn định trong mức rủi ro có thể kiểm soát. Xtrader sẽ thiết lập cơ chế quản lý vốn theo từng giai đoạn, hệ thống kiểm soát rủi ro nghiêm ngặt và tiêu chuẩn đánh giá hiệu suất khoa học để đảm bảo đội ngũ theo đuổi lợi nhuận dài hạn thông qua hoạt động ổn định.\n\nXtrader tuân thủ nguyên tắc \"Chuyên nghiệp, ổn định và hợp tác đôi bên cùng có lợi\", cam kết xây dựng một đội ngũ giao dịch độc quyền chất lượng cao trên toàn thế giới, giúp nhà giao dịch hiện thực hóa giá trị cá nhân đồng thời chia sẻ cơ hội tăng trưởng trên thị trường vàng toàn cầu."
+    },
+    {
+      "id": 2,
+      "question": "2. Tổng quan đánh giá có phí",
+      "answer": "2.1 Đánh giá có phí & Vượt qua cả ba bước\nĐánh giá mô phỏng gồm hai giai đoạn: Giai đoạn 1 và Giai đoạn 2, cuối cùng là tài khoản thực với chia sẻ lợi nhuận. Đánh giá mô phỏng áp dụng cùng quy tắc cho cả hai giai đoạn. Nhà giao dịch vượt qua hai giai đoạn đánh giá mô phỏng sẽ được cấp một tài khoản giao dịch thực với số vốn bằng số vốn dùng trong đánh giá mô phỏng; tỷ lệ chia sẻ lợi nhuận của tài khoản giao dịch thực là 80%.\n\n2.2 Phí đăng ký\nĐối với tài khoản đánh giá 10.000 USD: 150 USD\nHiện đang khuyến mãi: 120 USD (theo cập nhật mới nhất)\nPhí đăng ký không được hoàn lại trong mọi trường hợp, vì vậy vui lòng thanh toán cẩn thận.\n\n2.3 Công cụ giao dịch\nVàng giao ngay (XAUUSD), Bạc giao ngay (XAGUSD)\n\n2.4 Các hành vi giao dịch bị cấm\nĐể duy trì môi trường giao dịch công bằng và khách quan, các hành vi sau bị nghiêm cấm. Nếu chúng tôi phát hiện bất kỳ vi phạm nào sẽ dẫn đến thất bại đánh giá ngay lập tức, bị loại và phí đăng ký sẽ không được hoàn lại:\n\na. Scalping hoặc giao dịch tần suất cao: chỉ các hoạt động giao dịch mà khoảng thời gian giữa lúc mở và đóng vị thế dưới 60 giây (bao gồm nhưng không giới hạn ở việc lợi dụng độ trễ báo giá, vào/ra nhanh, v.v.). Mọi chiến lược nhằm thu lợi nhuận tối thiểu trong khoảng thời gian cực ngắn đều bị xem là vi phạm.\n\nb. Giao dịch EA: Đánh giá này không hỗ trợ bất kỳ chương trình giao dịch tự động nào, bao gồm nhưng không giới hạn ở Expert Advisor (EA), script, thuật toán, công cụ đặt lệnh bán tự động, v.v.\n\nc. Tài khoản AB hoặc phòng hộ đa tài khoản: Cấm cùng một nhà giao dịch sử dụng nhiều tài khoản (hoặc trong cùng một tài khoản) để mở vị thế ngược chiều hoặc phòng hộ vị thế nhằm né tránh rủi ro hoặc thu lợi nhuận gian lận.\n\nd. Lạm dụng báo giá hoặc kinh doanh chênh lệch do độ trễ: Cấm sử dụng độ trễ báo giá của nền tảng, lỗ hổng dữ liệu, thanh khoản bất thường, v.v. để giao dịch chênh lệch giá.\n\ne. Thao túng lệnh có chủ ý hoặc đảo vị thế: Cấm giao dịch phi lý và liên tục nhằm thu hồi hoa hồng hoặc thao túng số liệu khối lượng giao dịch.\n\nf. Các hành vi lừa dối, gian lận hoặc gây rối loạn thị trường khác: Bao gồm nhưng không giới hạn ở giao dịch khống, thao túng dữ liệu, lợi dụng lỗ hổng quy tắc và gây rối loạn trật tự giao dịch bình thường. Nhà giao dịch phải tuân thủ nguyên tắc giao dịch công bằng; mọi nỗ lực lách quy tắc đánh giá hoặc gây tổn hại lợi ích của nền tảng đều bị xem là vi phạm.\n\nLưu ý: Nền tảng có quyền giải thích cuối cùng đối với các hành vi bị cấm nêu trên và quyền đưa ra phán định độc lập dựa trên đặc điểm hành vi giao dịch."
+    },
+    {
+      "id": 3,
+      "question": "3. Giai đoạn đánh giá mô phỏng",
+      "answer": "3.1 Quy tắc đánh giá mô phỏng (Vốn tài khoản: 10.000 USD / 10k)\n\n| Mục | Yêu cầu |\n| --- | --- |\n| Vốn ban đầu | 10.000 USD (10k) |\n| Thời gian đánh giá | Trong 90 ngày |\n| Mục tiêu lợi nhuận | 10%+ |\n| Yêu cầu thăng hạng | Yêu cầu vị thế đã đóng: 18 lô tiêu chuẩn + Số ngày giao dịch tối thiểu: 10 ngày giao dịch+ |\n| Loại | Vốn chủ sở hữu theo thời gian thực dưới 9.000 USD |\n| Giới hạn sụt giảm trong ngày | Không có (không hạn chế) |\n| Yêu cầu ký quỹ mỗi lô | 20.000 USD (20k) |\n| Hoa hồng mỗi lô | 30 USD/lô |\n\n3.2 Giải thích quy tắc đánh giá\n1. Thời gian đánh giá: 90 ngày, tính từ giao dịch đầu tiên. Cả hai giai đoạn mô phỏng đều giống nhau.\n2. Yêu cầu thăng hạng: Để vượt qua giai đoạn đánh giá khi đáp ứng tất cả các tiêu chí sau: lợi nhuận 10%+, tối thiểu 10 ngày giao dịch và đạt 18 lô đã đóng. Nhà giao dịch phải nhấp \"Đăng ký thăng hạng\" trong hệ thống và nhận tài khoản cho giai đoạn tiếp theo sau khi được phê duyệt.\na. Mục tiêu lợi nhuận: Vốn chủ sở hữu phải đạt trên 11.000 USD (lợi nhuận 10%) khi không có vị thế mở.\nb. Yêu cầu lô đã đóng: Tổng số lô đã đóng phải đạt 18 lô tiêu chuẩn trở lên (dựa trên khối lượng đã đóng tích lũy, không phải số lần giao dịch).\nc. Số ngày giao dịch tối thiểu: Tài khoản phải được giao dịch tối thiểu 10 ngày giao dịch (tính theo ngày đóng vị thế).\n3. Đánh giá này không đặt bất kỳ hạn chế nào về giới hạn sụt giảm động trong ngày (ví dụ: sụt giảm 5% trong ngày).\n4. Loại: Khi vốn chủ sở hữu của tài khoản giảm xuống dưới 9000, đánh giá được xem là thất bại. Hệ thống sẽ tự động đóng toàn bộ vị thế và hạn chế quyền giao dịch của tài khoản. Ngay cả sau khi đóng vị thế, nếu vốn chủ sở hữu tăng trên 9000 do biến động giá, thử thách vẫn được xem là thất bại.\n5. Hoa hồng: Giai đoạn giao dịch thực sử dụng mô hình STP (Straight Through Processing), lệnh được đưa thẳng ra thị trường. Do khác biệt về thanh khoản hoặc biến động giá, báo giá có thể khác với giá khớp lệnh cuối cùng. Để mô phỏng chi phí giao dịch thực, mức phí 30 USD mỗi lô được tính trong giai đoạn đánh giá. Không có hoa hồng ở giai đoạn giao dịch thực.\n6. Thống kê lô: Nếu hoa hồng tích lũy đạt 540 USD (18 lô * 30 USD/lô) trong thời gian đánh giá hợp lệ, được xem là đạt yêu cầu 18 lô tiêu chuẩn.\n7. Yêu cầu ký quỹ: Yêu cầu ký quỹ mỗi lô cố định ở mức 20.000 USD. Số lô mở tối đa = vốn chủ sở hữu tài khoản / yêu cầu ký quỹ 20.000 mỗi lô. Ví dụ, tài khoản có vốn 10.000 USD, số lô mở tối đa là 0,5 lô (10.000 / yêu cầu ký quỹ 20.000 mỗi lô).\n8. Cập nhật quy tắc đánh giá: Quy tắc sẽ được cập nhật dựa trên tình hình vận hành thực tế. Nếu có thay đổi, giải thích chính thức hoặc của chăm sóc khách hàng sẽ được ưu tiên áp dụng."
+    },
+    {
+      "id": 4,
+      "question": "4. Chia sẻ lợi nhuận tài khoản thực",
+      "answer": "4.1 Quy tắc tài khoản thực\n\n| Mục | Chi tiết |\n| --- | --- |\n| Vốn ban đầu | 10.000 USD |\n| Tỷ lệ chia sẻ lợi nhuận | 80% |\n| Loại | Vốn chủ sở hữu theo thời gian thực dưới 9.000 USD |\n| Giới hạn sụt giảm trong ngày | Không có (không hạn chế) |\n| Lớp đệm an toàn dự trữ | 20% |\n| Điều kiện chia sẻ lợi nhuận | Mỗi 10% lợi nhuận sau khi trừ lớp đệm an toàn 20% |\n\n4.2 Giải thích quy tắc giao dịch thực\n1. Không có hạn chế bổ sung: Tài khoản giao dịch thực không có hạn chế về số lô, chiến lược, lệnh chốt lời và cắt lỗ, hay mức sụt giảm mỗi giao dịch.\n2. Cơ chế loại: Tài khoản giao dịch thực chỉ có ngưỡng cắt lỗ 10%. Khi vốn chủ sở hữu của tài khoản giảm xuống dưới 90% vốn ban đầu (tức khi vốn chủ sở hữu của tài khoản 10.000 giảm xuống dưới 9.000), hệ thống sẽ đóng vị thế bắt buộc và hạn chế giao dịch.\n3. Lớp đệm an toàn: Để tăng khả năng chịu sai sót của nhà giao dịch, nền tảng mặc định sử dụng 20% lợi nhuận từ tài khoản giao dịch thực làm lớp đệm an toàn.\nVí dụ: Nếu tài khoản 10.000 USD đạt lợi nhuận 2.000 USD, vốn chủ sở hữu đạt 12.000 USD; lúc này cần lỗ 3.000 USD mới bị loại (tức biên độ sụt giảm đã được mở rộng).\n4. Rút lợi nhuận (khi có lãi): Khi lợi nhuận tài khoản vượt 30%, nhà giao dịch có thể đăng ký rút 10% lợi nhuận. Sau khi trừ lớp đệm an toàn 20%, cứ mỗi 10% lợi nhuận tăng thêm, nhà giao dịch có thể đăng ký rút phần chia sẻ lợi nhuận tương ứng bất cứ lúc nào khi tài khoản không có vị thế mở.\n5. Tự nguyện thoát: Khi tài khoản có lãi, nhà giao dịch có thể tự nguyện thoát và rút toàn bộ lợi nhuận chưa tất toán trong một lần.\n6. Tài khoản không hoạt động: Nếu tài khoản giao dịch thực không bị loại nhưng đang lỗ (vốn chủ sở hữu dưới 10.000 và trên 9.000) và không tiếp tục giao dịch quá 15 ngày giao dịch kể từ giao dịch gần nhất, sẽ được xem là tự động từ bỏ tài khoản giao dịch thực, và nền tảng có quyền thu hồi vốn của tài khoản."
+    },
+    {
+      "id": 5,
+      "question": "5. Thông số giao dịch",
+      "answer": "|Mục|XAUUSDnn (Vàng)|XAGUSDnn (Bạc)|\n|Quy mô hợp đồng|100 oz mỗi lô|5.000 oz mỗi lô|\n|Đơn vị báo giá|USD mỗi oz|USD mỗi oz|\n|Bước giá tối thiểu|0,01 USD/oz|0,001 USD/oz|\n|Spread|Thả nổi ~30 pip|Thả nổi|\n|Yêu cầu ký quỹ mỗi lô|20.000 USD|20.000 USD|\n|Ký quỹ phòng hộ|Theo phần (leg) lớn hơn|Theo phần (leg) lớn hơn|\n|Khoảng cách lệnh chờ|Cách giá thị trường 100 pip|Cách giá thị trường 100 pip|\n|Khối lượng tối thiểu|0,01 lô|0,01 lô|\n|Bước khối lượng|0,01 lô|0,01 lô|\n|Phí qua đêm|Long: 55 USD/lô<br/>Short: 20 USD/lô<br/>Tính gấp ba vào thứ Tư (theo nền tảng)|Long: 20 USD/lô<br/>Short: 10 USD/lô<br/>Tính gấp ba vào thứ Tư (theo nền tảng)|\n|Đóng vị thế bắt buộc|Giờ giao dịch: Vốn chủ sở hữu/Yêu cầu ký quỹ ≤80%<br/>Cuối tuần/Ngày lễ: Vốn chủ sở hữu/Yêu cầu ký quỹ ≤100%|Giờ giao dịch: Vốn chủ sở hữu/Yêu cầu ký quỹ ≤80%<br/>Cuối tuần/Ngày lễ: Vốn chủ sở hữu/Yêu cầu ký quỹ ≤100%|\n|Giờ giao dịch|T2–T5: 01:00 – 24:00<br/>T6: 01:00 – 23:30 (ngày lễ theo thông báo)|T2–T5: 01:00 – 24:00<br/>T6: 01:00 – 23:30 (ngày lễ theo thông báo)|\n|Múi giờ máy chủ|DST: GMT+3 (UTC+3)<br/>Chuẩn: GMT+2 (UTC+2)|DST: GMT+3 (UTC+3)<br/>Chuẩn: GMT+2 (UTC+2)|"
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "Làm thế nào để đăng ký đánh giá nhà giao dịch?",
+      "answer": "Bạn có thể đăng ký Đánh giá Nhà giao dịch Xtrader qua các kênh chính thức sau:\n- Trang web chính thức: https://xtrader.xwgold19.com/\n- Tài khoản Dịch vụ WeChat Xtrader: menu phía dưới → [Đánh giá miễn phí]"
+    },
+    {
+      "id": 2,
+      "question": "Quy tắc của đánh giá nhà giao dịch là gì?",
+      "answer": "Đánh giá nhà giao dịch gồm Giai đoạn 1 và Giai đoạn 2, quy tắc giống nhau ở cả hai giai đoạn. Bạn có thể tiến lên giai đoạn tiếp theo khi đáp ứng cả ba điều kiện dưới đây:\n- Lợi nhuận tích lũy ≥ 10%\n- Tổng giao dịch hoàn thành ≥ 30 lô (vị thế đã đóng)\n- Tổng ≥ 10 ngày giao dịch\nNgoài các điều kiện trên không có thêm hạn chế nào.\nChi tiết: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
+    },
+    {
+      "id": 3,
+      "question": "Tại sao tôi cần xác minh danh tính (KYC) nếu đây không phải giao dịch thực?",
+      "answer": "Xác minh danh tính giúp ngăn chặn việc tạo nhiều tài khoản, tham gia lặp lại và các vấn đề khác, đảm bảo kết quả đánh giá là xác thực, công bằng và có thể kiểm chứng. Đây cũng là cơ sở tuân thủ để cấp tài khoản thực sau này."
+    },
+    {
+      "id": 4,
+      "question": "Làm thế nào để hoàn tất xác minh danh tính (KYC)? Có hướng dẫn không?",
+      "answer": "Có. Vui lòng theo dõi Tài khoản Dịch vụ WeChat Xtrader và xem hướng dẫn KYC tại đây: https://mp.weixin.qq.com/s/27susSs-t-BDgQ34O_2WyQ"
+    },
+    {
+      "id": 5,
+      "question": "Làm thế nào để mời bạn bè tham gia đánh giá?",
+      "answer": "Vào [Hồ sơ] và chia sẻ mã mời độc quyền của bạn với bạn bè. Sau khi mời thành công, bạn có thể xem hồ sơ tại [Giới thiệu]."
+    },
+    {
+      "id": 6,
+      "question": "Nếu tôi giới thiệu một người và họ vượt qua, tôi có nhận được thưởng hoa hồng không?",
+      "answer": "Có. Nếu người bạn giới thiệu nhận được tài khoản thực thành công và tạo ra chia sẻ lợi nhuận, bạn sẽ nhận được 10% lợi nhuận của công ty làm thưởng giới thiệu."
+    },
+    {
+      "id": 7,
+      "question": "Đánh giá nhà giao dịch có mất phí không?",
+      "answer": "Không. Không có phí. Tất cả người dùng hoàn tất xác minh danh tính (KYC) đều có thể tham gia đánh giá nhà giao dịch miễn phí."
+    },
+    {
+      "id": 8,
+      "question": "Đánh giá mới và đánh giá trước đây khác nhau ở điểm nào?",
+      "answer": "Quy tắc đánh giá vẫn giữ nguyên. Điểm khác biệt là:\n- Trước đây, nếu trượt Giai đoạn 1, tài khoản giao dịch hiện tại của bạn sẽ bị đặt lại\n- Bây giờ, nếu trượt Giai đoạn 1, hệ thống sẽ cấp một tài khoản giao dịch hoàn toàn mới"
+    },
+    {
+      "id": 9,
+      "question": "Tôi không tìm thấy nhà môi giới/nhà cung cấp máy chủ 'xinwang'.",
+      "answer": "Chúng tôi khuyến nghị:\n- Tắt Wi-Fi và thử dùng dữ liệu di động\n- Hoặc tải ứng dụng giao dịch MT5 mới nhất từ trang web chính thức"
+    },
+    {
+      "id": 10,
+      "question": "Khi cài MT5 trên máy tính, một cửa sổ bật lên yêu cầu thiết lập máy chủ proxy.",
+      "answer": "Ở trường Server, nhập: xinwang. Để trống các trường khác và nhấp [OK].\nNếu vẫn không cài được, chúng tôi khuyến nghị dùng Google Chrome và tải từ trang web chính thức:\n- Trang web chính thức: www.xwgold19.com"
+    },
+    {
+      "id": 11,
+      "question": "Hiển thị ủy quyền thất bại / tôi đã đăng nhập nhưng không đặt được lệnh mới.",
+      "answer": "Vui lòng sao chép lại hoặc nhập thủ công mật khẩu giao dịch. Khoảng trắng thừa có thể bị thêm vào khi sao chép, gây ra lỗi ủy quyền, sự cố đăng nhập hoặc không đặt được lệnh."
+    },
+    {
+      "id": 12,
+      "question": "Yêu cầu 30 lô có quá cao không?",
+      "answer": "Mục tiêu cốt lõi của đánh giá là xác định những nhà giao dịch có khả năng sinh lời ổn định dài hạn. Quá ít giao dịch hoặc thời gian quá ngắn sẽ khó đánh giá đầy đủ chiến lược và kiểm soát rủi ro, cũng như xác định mức phân bổ vốn thực phù hợp sau này."
+    },
+    {
+      "id": 13,
+      "question": "Một lệnh mua có tính là 1 lô và một lệnh bán tính là 1 lô không?",
+      "answer": "“Lô” chỉ quy mô vị thế, không phải số lần giao dịch.\n- Được tính dựa trên khối lượng lô khi mở vị thế\n- Chỉ được tính sau khi đóng vị thế\n- Tất cả dữ liệu dựa trên hồ sơ vị thế đã đóng hằng ngày"
+    },
+    {
+      "id": 14,
+      "question": "Việc đánh giá có vẻ khó.",
+      "answer": "Đánh giá quả thực có thách thức, nhưng nhìn chung dễ hơn nhiều đối thủ cạnh tranh. Nhiều nhà giao dịch đã vượt qua thành công và nhận được tài khoản thực. Vì Giai đoạn 1 và Giai đoạn 2 áp dụng cùng quy tắc, nếu bạn vượt qua Giai đoạn 1 thì Giai đoạn 2 thường không phải vấn đề lớn."
+    },
+    {
+      "id": 15,
+      "question": "Có yêu cầu về lợi nhuận hằng ngày, mức sụt giảm hằng ngày hay thời gian giữ lệnh không?",
+      "answer": "Không. Bạn chỉ cần đáp ứng ba điều kiện này: lợi nhuận 10% + 30 lô + 10 ngày giao dịch. Không có hạn chế nào khác.\nChi tiết: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
+    },
+    {
+      "id": 16,
+      "question": "Đòn bẩy trong tài khoản giao dịch đánh giá là bao nhiêu?",
+      "answer": "Đánh giá sử dụng mô hình ký quỹ cố định. Vàng/Bạc: ký quỹ là 20.000 USD mỗi lô.\nĐòn bẩy = Giá trị hợp đồng / Ký quỹ = Giá × Quy mô hợp đồng / Ký quỹ. Quy mô hợp đồng là 100.\nVí dụ:\n- Giá vàng 4.000 USD → đòn bẩy khoảng 20x\n- Giá vàng 5.000 USD → đòn bẩy khoảng 25x"
+    },
+    {
+      "id": 17,
+      "question": "Cuối cùng tôi có thể nhận được bao nhiêu vốn thực? Được đánh giá thế nào?",
+      "answer": "Chúng tôi sẽ đánh giá toàn diện dữ liệu giao dịch Giai đoạn 2 của bạn, bao gồm tỷ lệ Sharpe, profit factor, tỷ suất sinh lời, tỷ lệ thắng/thua, mức sụt giảm, quy mô vị thế, v.v., để xác định mức phân bổ vốn thực cuối cùng."
+    },
+    {
+      "id": 18,
+      "question": "Tôi có thể đánh giá lại không?",
+      "answer": "Có.\n- Nếu trượt Giai đoạn 1: hệ thống tự động cấp tài khoản đánh giá mới vào mỗi cuối tuần; không cần đăng ký lại\n- Nếu trượt Giai đoạn 2: bạn có thể đánh giá lại thông qua người giới thiệu hoặc bằng cách dùng Thẻ Hồi sinh"
+    },
+    {
+      "id": 19,
+      "question": "Mức chia 30% lợi nhuận của bạn có vẻ hơi thấp!",
+      "answer": "Sau khi vượt qua đánh giá 2 giai đoạn, bạn có thể giao dịch tài khoản thực mà không cần dùng vốn của mình. Nếu giao dịch của bạn duy trì ổn định và có lãi, sau vài chu kỳ chia sẻ lợi nhuận, bạn có thể dùng phần chia sẻ lợi nhuận kiếm được từ vốn ban đầu của công ty làm lớp đệm sụt giảm để tăng tỷ lệ chia sẻ lợi nhuận:\n- Tỷ lệ vốn 10% → chia lợi nhuận 50%\n- 20% → 70%\n- 30% → 90%"
+    },
+    {
+      "id": 20,
+      "question": "Nếu tôi vượt qua đánh giá, vốn thực có thể được tăng lên không?",
+      "answer": "Có. Công ty sẽ định kỳ đánh giá các tài khoản có lợi nhuận ổn định, nhất quán và điều chỉnh mức phân bổ vốn tương ứng. Người có hiệu suất tốt sẽ có cơ hội tăng trưởng lớn hơn."
+    },
+    {
+      "id": 21,
+      "question": "Tôi sẽ nhận được bao nhiêu vốn ban đầu cho giao dịch thực?",
+      "answer": "Vốn thực ban đầu thường là 1.000–10.000 USD. Số tiền thực tế sẽ được đánh giá và điều chỉnh dần dựa trên hiệu suất giao dịch của bạn. Đối với nhà giao dịch vượt qua đánh giá, tài khoản thực ban đầu thường là 2.000–3.000 USD hoặc hơn."
+    }
+  ],
+  "company": {
+    "hero": {
+      "titleEm": "Tại sao",
+      "titleMain": "Chọn XW Gold?",
+      "cards": [
+        {
+          "parts": [
+            {
+              "text": "Sàn Vàng Hồng Kông",
+              "hl": false
+            },
+            {
+              "text": "Thành viên AA Số 019",
+              "hl": true
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "text": "Sở hữu",
+              "hl": false
+            },
+            {
+              "text": "AA",
+              "hl": true
+            },
+            {
+              "text": "giấy phép giao dịch thị trường",
+              "hl": false
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "text": "Đủ điều kiện giao dịch điện tử",
+              "hl": false
+            }
+          ]
+        }
+      ],
+      "desc": "Tận dụng vị thế trung tâm tài chính toàn cầu của Hồng Kông, chúng tôi cung cấp cho khách hàng dịch vụ giao dịch chuyên nghiệp, trọn gói cho vàng giao ngay, bạc và các sản phẩm kim loại quý khác."
+    },
+    "stats": [
+      {
+        "key": "s1",
+        "labelParts": [
+          {
+            "text": "Khách hàng đã phục vụ",
+            "hl": false
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "150, 000+",
+            "hl": true
+          }
+        ]
+      },
+      {
+        "key": "s2",
+        "labelParts": [
+          {
+            "text": "Tập trung vào",
+            "hl": false
+          },
+          {
+            "text": "Vàng",
+            "hl": true
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "Bạc",
+            "hl": true
+          },
+          {
+            "text": "Kim loại quý",
+            "hl": false
+          }
+        ]
+      },
+      {
+        "key": "s3",
+        "labelParts": [
+          {
+            "text": "Giấy phép quản lý",
+            "hl": true
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "Tuân thủ",
+            "hl": false
+          }
+        ]
+      },
+      {
+        "key": "s4",
+        "labelParts": [
+          {
+            "text": "7x24",
+            "hl": true
+          },
+          {
+            "text": "giờ",
+            "hl": false
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "Hỗ trợ đa ngôn ngữ",
+            "hl": false
+          }
+        ]
+      }
+    ],
+    "sections": {
+      "certsTitle": "Chứng nhận có thẩm quyền",
+      "contactTitle": "Liên hệ"
+    },
+    "certs": {
+      "cert1": {
+        "title": "Chứng nhận thành viên",
+        "org": "(Sàn Vàng Hồng Kông)"
+      },
+      "cert2": {
+        "title": "Đại lý kim loại quý hạng A",
+        "org": "(Hải quan Hồng Kông)"
+      },
+      "cert3": {
+        "title": "Giấy phép kinh doanh",
+        "org": "(Sàn Vàng Hồng Kông)"
+      }
+    },
+    "features": {
+      "f1": {
+        "title": "Chứng chỉ có thẩm quyền & Quản lý tuân thủ",
+        "desc": "Một nền tảng giao dịch kim loại quý lớn tại Hồng Kông với lịch sử lâu đời, chủ yếu cung cấp dịch vụ giao dịch vàng giao ngay, bạc và các kim loại quý khác.\n\nSàn giao dịch áp dụng hệ thống thành viên nghiêm ngặt và cơ chế quản lý để đảm bảo giao dịch cởi mở, công bằng và minh bạch. Là một phần quan trọng của trung tâm tài chính quốc tế, Sàn Vàng Hồng Kông cung cấp cho nhà đầu tư toàn cầu các công cụ giao dịch có tính thanh khoản cao, đa dạng cùng dịch vụ thanh toán bù trừ thuận tiện."
+      },
+      "f2": {
+        "title": "Hơn 15 năm kinh nghiệm trong dịch vụ kim loại quý",
+        "desc": "Đội ngũ Xinwang Gold có trung bình hơn 15 năm kinh nghiệm dịch vụ chuyên nghiệp trong lĩnh vực đầu tư vàng giao ngay, bạc và các kim loại quý khác.\n\nChúng tôi có hiểu biết sâu sắc về các quy tắc vận hành và đặc điểm của thị trường toàn cầu, có thể cung cấp cho nhà đầu tư phân tích chuyên nghiệp, hoạch định chiến lược và dịch vụ 1 kèm 1 để giúp khách hàng nắm bắt cơ hội, quản lý rủi ro hiệu quả và đạt được tăng trưởng ổn định, dài hạn trong môi trường thị trường biến động."
+      },
+      "f3": {
+        "title": "Nhà môi giới STP đích thực",
+        "desc": "Xinwang Gold là một nhà môi giới STP đích thực, nơi mọi lệnh giao dịch của khách hàng được kết nối trực tiếp ra thị trường toàn cầu thông qua mô hình Straight Through Processing.\n\nKhông cần can thiệp thủ công, đảm bảo định giá minh bạch, khớp lệnh nhanh và công bằng. Chúng tôi khớp giao dịch với nhiều nhà cung cấp thanh khoản hàng đầu, mang đến cho khách hàng môi trường giao dịch spread thấp, thanh khoản cao và ổn định, giúp mỗi giao dịch gần với giá thị trường thực hơn."
+      }
+    },
+    "contact": {
+      "biz": "Lĩnh vực:",
+      "email": "Email:",
+      "addressLabel": "Địa chỉ:",
+      "phone": "(+852) 53723536",
+      "emailValue": "marketing@xwgold19.com",
+      "address": "Room 1006, 10/F, Gold & Silver Commercial Building, 12-18 Mercer Street, Sheung Wan, Hong Kong"
+    }
+  },
+  "privacy": {
+    "title": "Chính sách Quyền riêng tư",
+    "intro": [
+      "Kính gửi Người dùng Xtrader APP,",
+      "Chào mừng bạn sử dụng sản phẩm và dịch vụ của chúng tôi (sau đây gọi là \"Xtrader APP\" hoặc \"chúng tôi\"). Chính sách Quyền riêng tư Xtrader APP (\"Chính sách\") được chúng tôi ban hành. Chúng tôi hiểu rõ tầm quan trọng của thông tin cá nhân đối với bạn và trân trọng sự tin tưởng bạn dành cho chúng tôi, đồng thời tuân thủ nghiêm ngặt các luật và quy định hiện hành để bảo vệ thông tin cá nhân của bạn.",
+      "Để cung cấp dịch vụ chính xác và đầy đủ, Xtrader APP sẽ xử lý thông tin cá nhân của bạn theo Chính sách này với sự thận trọng và cẩn trọng cao nhất. Trừ các trường hợp được quy định rõ trong Chính sách, Xtrader APP sẽ không tiết lộ hoặc cung cấp thông tin cá nhân của bạn cho bên thứ ba mà không có sự đồng ý bằng văn bản trước của bạn. Chúng tôi có thể cập nhật Chính sách này theo yêu cầu vận hành và pháp lý.",
+      "Trước khi sử dụng sản phẩm và dịch vụ, vui lòng đọc và hiểu đầy đủ tất cả điều khoản của Chính sách, đặc biệt chú ý các điều khoản quan trọng được in đậm. Chính sách Quyền riêng tư này là một phần không thể tách rời của Thỏa thuận Dịch vụ Xtrader APP.",
+      "Nếu bạn có bất kỳ câu hỏi, ý kiến hoặc đề xuất nào về Chính sách này, vui lòng liên hệ với chúng tôi qua thông tin liên hệ chính thức ở cuối tài liệu.",
+      "Khi bạn nhấn hoặc chọn \"Đồng ý\" trong APP và gửi xác nhận, bạn xác nhận đã đọc, hiểu và tự nguyện đồng ý với tất cả điều khoản của Chính sách này, đồng thời cho phép Xtrader APP thu thập, sử dụng, lưu trữ và tiết lộ thông tin cá nhân của bạn theo quy định tại đây."
+    ],
+    "tocTitle": "Mục lục",
+    "toc": [
+      "Phạm vi áp dụng",
+      "Cách chúng tôi thu thập thông tin cá nhân",
+      "Cách chúng tôi sử dụng thông tin cá nhân",
+      "Cách chúng tôi tiết lộ thông tin cá nhân",
+      "Cách chúng tôi sử dụng Cookie",
+      "Cách chúng tôi lưu trữ và bảo vệ thông tin cá nhân",
+      "Quyền của bạn",
+      "Cách chúng tôi bảo vệ thông tin trẻ vị thành niên",
+      "Lưu trữ dữ liệu khuôn mặt và chia sẻ bên thứ ba",
+      "Nhà cung cấp bên thứ ba và dịch vụ",
+      "Cách Chính sách này được cập nhật",
+      "Cách liên hệ với chúng tôi"
+    ],
+    "sections": [
+      {
+        "title": "1. Phạm vi áp dụng",
+        "paragraphs": [
+          "1.1 Định nghĩa Thông tin Cá nhân: Thông tin được ghi lại dưới dạng điện tử hoặc hình thức khác có thể nhận dạng hoặc liên kết với một cá nhân cụ thể, bao gồm tên, ngày sinh, giấy tờ tùy thân, thông tin sinh trắc học, email, địa chỉ, thông tin tài khoản, tình trạng tài sản, vị trí thời gian thực, v.v.",
+          "1.2 Định nghĩa Thông tin Cá nhân Nhạy cảm: Thông tin mà nếu bị rò rỉ hoặc sử dụng trái phép có thể gây tổn hại đến nhân phẩm hoặc an toàn cá nhân/tài sản, bao gồm thông tin sinh trắc học, tôn giáo, danh tính đặc biệt, thông tin y tế, tài khoản ngân hàng, hành trình di chuyển và toàn bộ thông tin cá nhân của trẻ em dưới 14 tuổi.",
+          "1.3 Ranh giới áp dụng: Chính sách này chỉ áp dụng cho sản phẩm và dịch vụ của chính Xtrader APP, không áp dụng cho sản phẩm/dịch vụ bên thứ ba do tổ chức hoặc cá nhân khác cung cấp độc lập."
+        ]
+      },
+      {
+        "title": "2. Cách chúng tôi thu thập thông tin cá nhân",
+        "paragraphs": [
+          "Trong quá trình bạn sử dụng dịch vụ Xtrader APP, chúng tôi tuân thủ nguyên tắc hợp pháp, chính đáng và cần thiết, chỉ thu thập thông tin cần thiết cho chức năng cơ bản của sản phẩm."
+        ],
+        "subsections": [
+          {
+            "title": "2.1 Đăng ký, xác minh danh tính và dịch vụ tài khoản",
+            "paragraphs": [
+              "2.1.1 Đăng ký email: Khi bạn đăng ký bằng email và mã xác minh, chúng tôi thu thập địa chỉ email của bạn.",
+              "2.1.3 Xác minh danh tính bằng nhận diện khuôn mặt: Để hoàn thành xác minh danh tính tài khoản (KYC), khôi phục tài khoản, kiểm tra bảo mật và mở khóa rủi ro, Xtrader APP cung cấp xác minh bằng khuôn mặt. Nếu bạn chọn bật tính năng này, sau khi bạn chủ động cấp quyền camera, chúng tôi tạm thời thu thập hình ảnh sinh trắc học khuôn mặt để so khớp danh tính:"
+            ],
+            "bullets": [
+              "Dữ liệu khuôn mặt chỉ dùng để so khớp thời gian thực xác nhận chủ tài khoản; ảnh gốc không được lưu trữ lâu dài trên đám mây sau xác minh;",
+              "Thông tin sinh trắc học khuôn mặt chỉ dùng cho xác minh bảo mật tài khoản Xtrader APP, không dùng cho quảng cáo hoặc tiếp thị; dữ liệu khuôn mặt chỉ được chia sẻ với nhà cung cấp dịch vụ xác minh danh tính (Alibaba Cloud) theo Mục 2.1.5 nhằm hoàn thành KYC;",
+              "Dữ liệu sinh trắc học khuôn mặt được mã hóa và lưu trữ riêng biệt, tách biệt vật lý khỏi dữ liệu nghiệp vụ thông thường."
+            ],
+            "footer": "2.1.4 Thông tin tải lên/chia sẻ tự nguyện: Nội dung và thông tin bạn chủ động chia sẻ, tải lên hoặc gửi qua APP."
+          },
+          {
+            "title": "2.1.5 Thời hạn lưu trữ dữ liệu khuôn mặt và chia sẻ bên thứ ba",
+            "paragraphs": [
+              "Khi bạn chủ động bắt đầu xác minh danh tính bằng nhận diện khuôn mặt, chúng tôi và nhà cung cấp dịch vụ xác minh danh tính được chỉ định sẽ thu thập hình ảnh khuôn mặt và dữ liệu phát hiện sống từ camera thiết bị của bạn, chỉ nhằm mục đích xác minh danh tính tài khoản (KYC)."
+            ],
+            "bullets": [
+              "Thời hạn lưu trữ của chúng tôi và lý do: Ảnh khuôn mặt gốc được xóa khỏi máy chủ của chúng tôi ngay sau khi hoàn tất so khớp thời gian thực (thường trong vài phút). Chúng tôi không lưu trữ vô thời hạn ảnh sinh trắc học khuôn mặt gốc. Chúng tôi chỉ lưu bản ghi kết quả xác minh đã mã hóa (ví dụ: trạng thái đạt/không đạt, thời gian xác minh, mã giao dịch) tối đa 5 năm kể từ ngày xác minh để tuân thủ yêu cầu lưu trữ hồ sơ AML/KYC, giải quyết tranh chấp và phòng chống gian lận. Tất cả bản ghi xác minh được xóa trong vòng 30 ngày sau khi hủy tài khoản.",
+              "Bên thứ ba nhận dữ liệu khuôn mặt: Alibaba Cloud Computing Co., Ltd. (qua SDK Xác minh Danh tính Thực / Nhận diện Khuôn mặt Cấp tài chính, bao gồm AP-FaceDetectModule và VerifyIntlUniPlugin).",
+              "Lý do chia sẻ: Chúng tôi sử dụng dịch vụ xác minh danh tính và phát hiện sống khuôn mặt được chứng nhận của Alibaba Cloud để so khớp sinh trắc học thời gian thực với thông tin giấy tờ tùy thân do chính phủ cấp. Việc thuê ngoài kỹ thuật này là cần thiết để cung cấp xác minh KYC an toàn theo tiêu chuẩn ngành.",
+              "Bên thứ ba có lưu trữ dữ liệu khuôn mặt không: Có. Trong quá trình xác minh, hình ảnh khuôn mặt của bạn được mã hóa và truyền đến máy chủ bảo mật của Alibaba Cloud để phát hiện sống và so khớp danh tính.",
+              "Thời hạn lưu trữ của bên thứ ba và lý do: Alibaba Cloud chỉ lưu trữ tạm thời ảnh khuôn mặt gốc trong thời gian cần thiết để hoàn tất xác minh và kiểm tra chống gian lận liên quan. Ảnh gốc được xóa trong vòng 24 giờ sau khi xác minh hoàn tất. Alibaba Cloud lưu nhật ký xác minh đã ẩn danh và bản ghi kiểm toán tối đa 180 ngày cho mục đích phòng chống gian lận và tuân thủ, sau đó tự động xóa. Alibaba Cloud không sử dụng dữ liệu khuôn mặt của bạn cho quảng cáo hoặc tiếp thị. Chi tiết: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html"
+            ]
+          },
+          {
+            "title": "2.2 Thiết bị, quyền và thu thập tự động",
+            "paragraphs": [
+              "Dựa trên quyền thiết bị bạn cấp khi cài đặt và sử dụng Xtrader APP, chúng tôi ghi nhận dữ liệu thiết bị: model, số serial, hệ điều hành, phiên bản client, MAC, độ phân giải, mã định danh thiết bị (IDFA, IMEI, Android ID, v.v.), dữ liệu vị trí (IP, GPS, WLAN, Bluetooth); thông tin sinh trắc học (khuôn mặt chỉ dùng cho xác minh danh tính tài khoản APP, dữ liệu gốc không lưu đầy đủ trên đám mây)."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Cách chúng tôi sử dụng thông tin cá nhân",
+        "paragraphs": [
+          "Chúng tôi sử dụng thông tin đã thu thập tuân thủ pháp luật và thỏa thuận với bạn. Nếu cần sử dụng ngoài phạm vi dưới đây, chúng tôi sẽ thông báo trước và xin sự đồng ý rõ ràng của bạn."
+        ],
+        "subsections": [
+          {
+            "title": "3.1 Mục đích sử dụng cơ bản",
+            "paragraphs": [
+              "3.1.1 Thông báo dịch vụ: Gửi thông báo sản phẩm/dịch vụ dựa trên thông tin của bạn; có thể chia sẻ dữ liệu đã ẩn danh với đối tác tuân thủ.",
+              "3.1.2 Phân tích vận hành nội bộ: Kiểm toán nội bộ, thống kê, sửa lỗi hệ thống, nghiên cứu hành vi người dùng."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Cách chúng tôi tiết lộ thông tin cá nhân",
+        "paragraphs": [
+          "Xtrader APP chỉ tiết lộ thông tin cá nhân của bạn trong các trường hợp pháp lý hoặc đã thỏa thuận sau:",
+          "4.1 Có sự đồng ý bằng văn bản trước của bạn;",
+          "4.2 Cần thiết để hoàn thành sản phẩm/dịch vụ bạn yêu cầu;",
+          "4.3 Theo yêu cầu của cơ quan hành chính, tư pháp theo văn bản chính thức;",
+          "4.4 Khi bạn vi phạm pháp luật hoặc thỏa thuận dịch vụ;",
+          "4.5 Tranh chấp sở hữu trí tuệ;",
+          "4.6 Tranh chấp giao dịch;",
+          "4.7 Tiết lộ xuyên biên giới theo quy định giám sát Hồng Kông và nước ngoài."
+        ],
+        "subsections": [
+          {
+            "title": "4.8 Các trường hợp pháp lý không cần sự đồng ý của bạn",
+            "bullets": [
+              "4.8.1 An ninh quốc gia, quốc phòng;",
+              "4.8.2 An toàn công cộng, y tế công cộng, lợi ích công cộng quan trọng;",
+              "4.8.3 Điều tra, truy tố, xét xử hình sự;",
+              "4.8.4 Bảo vệ tính mạng hoặc tài sản quan trọng khi không thể kịp thời có sự đồng ý;",
+              "4.8.5 Thông tin bạn đã công khai;",
+              "4.8.6 Thông tin công khai thu thập hợp pháp từ kênh công khai;",
+              "4.8.7 Cần thiết để ký/k thực hiện hợp đồng theo yêu cầu của bạn;",
+              "4.8.8 Đảm bảo APP/dịch vụ vận hành ổn định;",
+              "4.8.9 Báo chí hợp pháp;",
+              "4.8.10 Các trường hợp khác theo pháp luật và quy tắc nền tảng."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. Cách chúng tôi sử dụng Cookie",
+        "paragraphs": [
+          "5.1 Mục đích cơ bản: Ghi Cookie để đảm bảo đăng nhập và các chức năng khác hoạt động bình thường.",
+          "5.2 Phân tích: Cookie dùng để thống kê hiệu quả quảng bá; dữ liệu được ẩn danh.",
+          "5.3 Ràng buộc: Mọi thông tin thu qua Cookie đều tuân theo Chính sách này."
+        ]
+      },
+      {
+        "title": "6. Cách chúng tôi lưu trữ và bảo vệ thông tin cá nhân",
+        "paragraphs": [
+          "Chúng tôi áp dụng biện pháp bảo mật tiêu chuẩn ngành để bảo vệ thông tin người dùng."
+        ],
+        "subsections": [
+          {
+            "title": "6.1 Quy tắc lưu trữ",
+            "bullets": [
+              "Email đăng ký: lưu trong thời gian sử dụng bình thường; xóa ngay khi hủy tài khoản;",
+              "Ảnh xác minh khuôn mặt tạm thời: ảnh gốc được xóa khỏi máy chủ của chúng tôi ngay sau so khớp thời gian thực (thường trong vài phút); chúng tôi không lưu trữ vô thời hạn ảnh khuôn mặt gốc;",
+              "Bản ghi kết quả xác minh khuôn mặt đã mã hóa: lưu tối đa 5 năm kể từ ngày xác minh để đáp ứng yêu cầu lưu trữ hồ sơ AML/KYC; xóa trong vòng 30 ngày sau khi hủy tài khoản;",
+              "Ảnh khuôn mặt gốc của bên thứ ba (Alibaba Cloud): xóa trong vòng 24 giờ sau xác minh; nhật ký kiểm toán đã ẩn danh lưu tối đa 180 ngày, theo Mục 2.1.5."
+            ]
+          },
+          {
+            "title": "6.2 Biện pháp bảo mật",
+            "paragraphs": [
+              "6.2.1 Bảo mật tài khoản: Mật khẩu mã hóa không thể đảo ngược; khôi phục qua email đăng ký.",
+              "6.2.2 Bảo vệ backend: Dữ liệu mã hóa, cách ly; kiểm soát truy cập nội bộ nghiêm ngặt.",
+              "6.2.3 Lưu ý người dùng: Bảo vệ tài khoản và thông tin cá nhân; liên hệ hỗ trợ ngay nếu bị rò rỉ."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7. Quyền của bạn",
+        "paragraphs": [
+          "Theo pháp luật hiện hành, bạn có các quyền sau:"
+        ],
+        "subsections": [
+          {
+            "title": "7.1 Quyền thông tin cơ bản",
+            "bullets": [
+              "Truy cập và sao chép thông tin cá nhân;",
+              "Yêu cầu sửa/cập nhật thông tin không chính xác;",
+              "Hạn chế hoặc từ chối sử dụng cho tiếp thị;",
+              "Yêu cầu xóa thông tin cá nhân;",
+              "Yêu cầu giải thích bằng văn bản về quy tắc xử lý thông tin."
+            ],
+            "footer": "Liên hệ qua thông tin cuối Chính sách. Chúng tôi có thể từ chối yêu cầu có bằng chứng hợp lý về gian lận hoặc gây hại cho quyền riêng tư bên thứ ba."
+          },
+          {
+            "title": "7.2 Quyền rút lại sự đồng ý",
+            "paragraphs": [
+              "Bạn có thể rút lại sự đồng ý xử lý thông tin bất cứ lúc nào; việc rút lại không ảnh hưởng đến xử lý hợp pháp trước đó."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8. Cách chúng tôi bảo vệ thông tin trẻ vị thành niên",
+        "paragraphs": [
+          "Xtrader APP chủ yếu dành cho người dùng trưởng thành. Trẻ vị thành niên phải có sự đồng ý rõ ràng của cha mẹ hoặc người giám hộ hợp pháp trước khi sử dụng.",
+          "Nếu bạn là trẻ vị thành niên, vui lòng để người giám hộ đọc Chính sách này và chỉ sử dụng APP khi có sự đồng ý của người giám hộ.",
+          "Người giám hộ có thể liên hệ qua kênh chính thức nếu có thắc mắc về xử lý thông tin trẻ vị thành niên."
+        ]
+      },
+      {
+        "title": "9. Thu thập, thời hạn lưu trữ và chia sẻ dữ liệu khuôn mặt",
+        "paragraphs": [
+          "Xtrader APP chỉ sử dụng nhận diện khuôn mặt cho xác minh danh tính tài khoản (KYC). Phần này giải thích rõ dữ liệu khuôn mặt được thu thập, thời gian lưu trữ, lý do lưu trữ trong từng khoảng thời gian cụ thể và bên thứ ba được chia sẻ. Chúng tôi không lưu trữ vô thời hạn ảnh khuôn mặt gốc."
+        ],
+        "subsections": [
+          {
+            "title": "9.1 Dữ liệu khuôn mặt chúng tôi thu thập",
+            "bullets": [
+              "Hình ảnh khuôn mặt từ camera thiết bị khi bạn chủ động bắt đầu xác minh;",
+              "Dữ liệu phát hiện sống để xác nhận bạn có mặt trực tiếp trong quá trình xác minh;",
+              "Siêu dữ liệu kết quả xác minh (trạng thái đạt/không đạt, thời gian xác minh, mã giao dịch)."
+            ]
+          },
+          {
+            "title": "9.2 Thời hạn lưu trữ dữ liệu khuôn mặt và lý do (phía chúng tôi)",
+            "bullets": [
+              "Ảnh khuôn mặt gốc (máy chủ của chúng tôi): Xóa ngay sau khi hoàn tất so khớp thời gian thực, thường trong vài phút. Lý do: ảnh sinh trắc học gốc chỉ cần cho so khớp tức thì và không cần giữ sau khi xác minh kết thúc. Chúng tôi không lưu vô thời hạn ảnh khuôn mặt gốc.",
+              "Bản ghi kết quả xác minh đã mã hóa (máy chủ của chúng tôi): Lưu tối đa 5 năm kể từ ngày xác minh. Lý do: quy định AML/KYC tài chính yêu cầu lưu hồ sơ xác minh danh tính để giải quyết tranh chấp và chống gian lận. Xóa trong vòng 30 ngày sau khi bạn xóa tài khoản.",
+              "Dữ liệu tạm thời trên thiết bị trong phiên xác minh: Chỉ tồn tại trong phiên xác minh đang diễn ra, không lưu sau khi phiên kết thúc."
+            ]
+          },
+          {
+            "title": "9.3 Lưu trữ dữ liệu khuôn mặt bên thứ ba (Alibaba Cloud)",
+            "bullets": [
+              "Chia sẻ với: Alibaba Cloud Computing Co., Ltd. (SDK Xác minh Danh tính Thực / Nhận diện Khuôn mặt Cấp tài chính, bao gồm AP-FaceDetectModule và VerifyIntlUniPlugin).",
+              "Lý do chia sẻ: thực hiện phát hiện sống và so khớp sinh trắc học thời gian thực với thông tin giấy tờ tùy thân để hoàn thành KYC an toàn, tuân thủ.",
+              "Ảnh khuôn mặt gốc (Alibaba Cloud): Xóa trong vòng 24 giờ sau khi xác minh hoàn tất. Lý do: chỉ lưu trong thời gian tối thiểu cần thiết để hoàn thành xác minh và kiểm tra chống gian lận.",
+              "Nhật ký xác minh đã ẩn danh (Alibaba Cloud): Lưu tối đa 180 ngày, sau đó tự động xóa. Lý do: chống gian lận và tuân thủ quy định. Không dùng cho quảng cáo hoặc tiếp thị.",
+              "Chính sách Quyền riêng tư Alibaba Cloud: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "10. Nhà cung cấp bên thứ ba và dịch vụ",
+        "paragraphs": [
+          "10.1 SDK Xác minh Danh tính Thực Alibaba Cloud (Nhận diện Khuôn mặt)",
+          "Nhà phát triển: Alibaba Cloud Computing Co., Ltd.",
+          "Mục đích: Xác minh danh tính tài khoản (KYC), phát hiện sống khuôn mặt, so khớp sinh trắc học",
+          "Phạm vi thu thập: Hình ảnh khuôn mặt, dữ liệu phát hiện sống, thông tin thiết bị cần thiết cho xác minh",
+          "Cách thu thập: Thu thập khi bạn chủ động bắt đầu xác minh khuôn mặt và cấp quyền camera",
+          "Chia sẻ và lưu trữ dữ liệu khuôn mặt: Theo Mục 9, dữ liệu khuôn mặt chỉ được chia sẻ với Alibaba Cloud để xác minh; ảnh gốc xóa trong 24 giờ; nhật ký kiểm toán lưu tối đa 180 ngày",
+          "Chính sách Quyền riêng tư Alibaba Cloud: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html",
+          "10.2 Umeng+ SDK",
+          "Nhà phát triển: Beijing Ruixun Lingtong Technology Co., Ltd.",
+          "Mục đích: Thống kê APP và chống gian lận",
+          "Phạm vi thu thập: Mã định danh thiết bị, vị trí, thông tin mạng",
+          "Cách thu thập: Tự động sau khi bạn đồng ý Chính sách Quyền riêng tư",
+          "Chính sách Quyền riêng tư Umeng+: https://www.umeng.com/page/policy"
+        ]
+      },
+      {
+        "title": "11. Cách Chính sách này được cập nhật",
+        "paragraphs": [
+          "Chúng tôi có thể sửa đổi Chính sách này theo thay đổi pháp luật hoặc nhu cầu vận hành. Sau khi cập nhật, chúng tôi sẽ thông báo qua APP, thông báo web hoặc email. Việc tiếp tục sử dụng Xtrader APP được coi là chấp nhận các điều khoản mới."
+        ]
+      },
+      {
+        "title": "12. Cách liên hệ với chúng tôi",
+        "paragraphs": [
+          "Đối với câu hỏi, đề xuất hoặc yêu cầu về truy cập, sửa, xóa thông tin, rút lại sự đồng ý, bảo mật tài khoản, nhận diện khuôn mặt hoặc thay đổi email, vui lòng liên hệ:",
+          "Địa chỉ: Room 1006, Tầng 10, Gold & Silver Commercial Building, 12-18 Mercer Street, Sheung Wan, Hong Kong",
+          "Email: xtrader@xwgold19.com",
+          "Thời gian phản hồi: Trong vòng 15 ngày làm việc kể từ khi nhận yêu cầu."
+        ]
+      }
+    ]
+  },
+  "refundPolicy": [
+    {
+      "title": "I. Thỏa thuận đặc biệt về Hủy hợp đồng và Hoàn tiền",
+      "paragraphs": [
+        "Tôi xác nhận và đồng ý rằng các dịch vụ do nền tảng này cung cấp là dịch vụ số ảo. Kể từ ngày thanh toán đơn hàng thành công và dịch vụ được kích hoạt (bao gồm nhưng không giới hạn ở việc tạo tài khoản, cấp quyền và kích hoạt hệ thống giao dịch mô phỏng), dịch vụ đã được cung cấp một cách không thể đảo ngược và bắt đầu được tiêu dùng. Do đó, chính sách hủy/hoàn tiền không cần lý do trong 7 ngày không áp dụng.",
+        "Tôi xác nhận rằng:"
+      ],
+      "bullets": [
+        "1. Sau khi thanh toán thành công, bất kể tôi có thực sự đăng nhập, sử dụng hay bắt đầu giao dịch mô phỏng hay không, đơn hàng không thể bị hủy và không thể yêu cầu hoàn tiền.",
+        "2. Yêu cầu hoàn tiền vì lý do cá nhân (như từ bỏ, không vượt qua đánh giá, để tài khoản không sử dụng, thao tác nhầm, đổi ý, v.v.) có thể bị nền tảng từ chối trực tiếp.",
+        "3. Nếu tôi vi phạm Điều khoản & Điều kiện của nền tảng và các quy tắc liên quan, nền tảng có thể đóng băng tài khoản, chấm dứt dịch vụ hoặc hủy tư cách theo thỏa thuận, và mọi khoản phí đã thanh toán sẽ không được hoàn lại."
+      ]
+    },
+    {
+      "title": "II. Thực hiện có lỗi",
+      "paragraphs": [],
+      "bullets": [
+        "Nền tảng không chịu trách nhiệm hoàn tiền hoặc bồi thường cho các bất thường về dịch vụ do nguyên nhân ngoài nền tảng như thao tác không đúng của người dùng, sự cố mạng hoặc lỗi phần mềm bên thứ ba."
+      ]
+    },
+    {
+      "title": "III. Tuyên bố xác nhận",
+      "paragraphs": [
+        "Tôi đã đọc kỹ và hiểu đầy đủ chính sách hủy và hoàn tiền nêu trên, và tôi thừa nhận bản chất dịch vụ ảo của nền tảng cùng thỏa thuận rằng các dịch vụ đó không thể hủy và không thể hoàn tiền. Tôi tự nguyện chấp nhận các quy tắc này và chịu các hậu quả tương ứng.",
+        "Việc nhập “Tôi đã công nhận nội dung trên” cho biết tôi đã đọc, hiểu và đồng ý với tất cả các điều khoản của chính sách này."
+      ],
+      "bullets": []
+    }
+  ]
+}
