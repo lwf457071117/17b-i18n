@@ -1,0 +1,528 @@
+{
+  "rules": [
+    {
+      "id": 1,
+      "question": "# I. Latar Belakang Proyek",
+      "answer": "Tim Xtrader telah lama terlibat secara mendalam di pasar CFD emas dan perak spot, dengan sumber daya keuangan yang kuat serta sistem pengendalian risiko yang andal. Untuk lebih memanfaatkan keunggulan profesionalnya, Xtrader secara resmi meluncurkan 'Program Rekrutmen Proprietary Trader', mencari trader di seluruh dunia yang memiliki keterampilan profesional dan pengalaman trading nyata.\n\nPortal Pendaftaran Penilaian Trader Xtrader: \nAkun Layanan Pelanggan Xtrader (Bilah Menu Bawah → [Penilaian Gratis])\n\nDengan modal proprietary yang memadai dari Xtrader, trader berpartisipasi dalam trading CFD di pasar emas global menggunakan strategi dan kemampuan eksekusi mereka sendiri, untuk mencapai keuntungan yang stabil dengan risiko yang terkendali. Xtrader akan menetapkan mekanisme pengelolaan modal bertahap, sistem pengendalian risiko yang ketat, dan standar evaluasi kinerja yang ilmiah untuk memastikan tim mengejar imbal hasil jangka panjang melalui operasi yang stabil.\n\nUntuk menarik dan memotivasi talenta terbaik, Xtrader telah menyusun skema imbalan multidimensi yang memadukan insentif berbasis kinerja dengan insentif jangka panjang serta mekanisme promosi. Trader berkinerja tinggi akan memperoleh kendali lebih besar atas alokasi modal dan bagi hasil yang lebih tinggi.\n\nXtrader berpegang pada prinsip 'Profesionalisme, kestabilan, dan kerja sama yang saling menguntungkan', dan berkomitmen membangun tim proprietary trading berkualitas tinggi di seluruh dunia, sehingga trader dapat mewujudkan nilai pribadinya sekaligus berbagi peluang pertumbuhan di pasar emas global."
+    },
+    {
+      "id": 2,
+      "question": "# II. Target Rekrutmen dan Persyaratan Seleksi",
+      "answer": "1. Target peserta: Trader atau tim dengan pengalaman trading nyata di pasar keuangan.\n\n2. Persyaratan Seleksi\n1) Seleksi trader terdiri dari dua tahap: penilaian simulasi dan bagi hasil akun riil.\n2) Penilaian simulasi terdiri dari dua tahap: tes awal dan tes akhir. Trader yang lulus kedua tahap penilaian akan memperoleh akun trading riil. Aturan untuk kedua tahap penilaian adalah sama.\n3) Besarnya dana dan rasio bagi hasil pada akun trading riil sepenuhnya didasarkan pada kinerja trading akun demo trader. Dana akun trading riil berkisar antara USD 1.000 hingga USD 100.000; rasio bagi hasil trading riil berkisar antara 30% hingga 90%.\n4) Instrumen Trading: Emas Spot, Perak Spot.\n\n## Aturan Penilaian Simulasi (Sama untuk kedua tahap)\n1) Periode Penilaian: 90 hari, dihitung sejak transaksi pertama.\n2) Eliminasi: Ketika nilai bersih akun turun di bawah 9000, penilaian dianggap gagal. Sistem akan otomatis melikuidasi seluruh posisi dan membatasi izin trading akun. Penilaian ini tidak menetapkan batasan apa pun pada trading, dan tidak mencakup drawdown dinamis intraday.\n3) Target Keuntungan: Nilai aset bersih akun harus mencapai minimal 11.000 saat tidak ada posisi terbuka.\n4) Persyaratan Posisi Tertutup: Jumlah posisi yang ditutup harus mencapai minimal 30 lot standar (bukan jumlah transaksi/kali).\n5) Hari Trading Minimum: Akun harus melakukan trading minimal 10 hari trading; tanggal penutupan digunakan sebagai patokan statistik.\n6) Kriteria Promosi Penilaian: Ketika akun secara bersamaan memenuhi kriteria berikut: keuntungan 10% + minimal 10 hari trading + 30 posisi tertutup, tantangan dianggap berhasil. Pada saat ini, trader perlu menghubungi layanan pelanggan dan mengajukan permohonan untuk melanjutkan ke tahap akun berikutnya.\n7) Statistik Jumlah Lot: Untuk memudahkan statistik, ditetapkan komisi USD 1 per lot. Saat meninjau transaksi yang ditutup, jika komisi mencapai USD 30 dalam periode penilaian yang berlaku, berarti persyaratan jumlah lot standar sebanyak 30 telah terpenuhi.\n8) Margin: Margin tetap per lot adalah USD 20.000. Ukuran posisi maksimum yang dapat dibuka = Ekuitas akun / Margin per lot sebesar USD 20.000. Misalnya, akun dengan modal USD 10.000 memiliki ukuran posisi maksimum 0,5 lot (10.000/20.000).\n9) Pembaruan Aturan: Aturan penilaian kegiatan ini akan diperbarui berdasarkan kondisi operasional aktual; jika terjadi perubahan, penjelasan resmi atau interpretasi layanan pelanggan yang berlaku."
+    },
+    {
+      "id": 3,
+      "question": "# III. Bagi Hasil Akun Riil",
+      "answer": "1) Tidak ada batasan atas jumlah transaksi, strategi, order take-profit dan stop-loss, maupun drawdown per transaksi pada akun trading riil.\n2) Aturan trading riil sama dengan aturan penilaian simulasi. Akun trading riil hanya memiliki garis stop-loss 10%: ketika nilai bersih real-time akun turun di bawah 90% dari modal awal akun, mekanisme likuidasi paksa sistem akan dipicu, seluruh posisi akun akan dilikuidasi secara paksa, dan trading akan dibatasi.\n3) Dana pada akun trading riil berkisar antara USD 1.000 hingga USD 100.000; rasio bagi hasil berkisar antara 30% hingga 90%.\n4) Ketika akun trading riil memperoleh keuntungan 10%, trader dapat mengajukan permohonan bagi hasil kepada layanan pelanggan. Sebagai alternatif, trader dapat memilih untuk tidak menarik keuntungan dan mengajukan peningkatan ke akun trading riil dengan dana lebih besar saat total keuntungan akun mencapai 30%-50%.\n\n## Penarikan Keuntungan\n1) Untuk meningkatkan toleransi kesalahan trader (memperbesar margin drawdown), platform secara default menggunakan 10% keuntungan pertama dari akun trading riil sebagai bantalan pengaman. Misalnya, akun dengan modal USD 10.000 akan memiliki nilai bersih USD 11.000 saat memperoleh keuntungan USD 1.000; pada saat ini, akun baru akan tereliminasi jika kehilangan USD 2.000, sehingga meningkatkan toleransi kesalahan.\n2) Ketika keuntungan akun melebihi 20%, trader dapat mengajukan penarikan 10% dari keuntungan. Artinya, setelah dikurangi bantalan pengaman 10%, trader dapat mengajukan penarikan bagi hasil untuk setiap tambahan keuntungan 10%.\n3) Trader juga dapat secara proaktif keluar dan menarik seluruh atau sisa bagi hasil yang belum diselesaikan sekaligus.\n\n## Contoh\n\nUntuk akun dengan modal USD 10.000:\n\n-Ketika akun memperoleh keuntungan USD 1.000 (10%), jika trading dilanjutkan, jumlah ini tidak ditarik untuk sementara; \n-Ketika akun memperoleh keuntungan USD 2.000 (20%), trader dapat mengajukan penarikan bagi hasil sebesar USD 1.000 (10%); \n-Ketika trader memilih keluar, seluruh keuntungan yang belum diselesaikan akan ditarik sekaligus."
+    }
+  ],
+  "rulesPaid": [
+    {
+      "id": 1,
+      "question": "1. Latar Belakang Proyek",
+      "answer": "Tim Xtrader telah lama terlibat secara mendalam di pasar CFD emas dan perak spot, dengan sumber daya keuangan yang kuat serta sistem pengendalian risiko yang andal. Untuk lebih memanfaatkan keunggulan profesionalnya, Xtrader secara resmi meluncurkan \"Program Rekrutmen Prop Trader\", mencari trader dengan keterampilan profesional dan pengalaman trading nyata di seluruh dunia.\n\nDengan modal proprietary yang memadai dari Xtrader, trader berpartisipasi dalam trading CFD di pasar emas global menggunakan strategi dan kemampuan eksekusi mereka sendiri, untuk mencapai keuntungan yang stabil dengan risiko yang terkendali. Xtrader akan menetapkan mekanisme pengelolaan modal bertahap, sistem pengendalian risiko yang ketat, dan standar evaluasi kinerja yang ilmiah untuk memastikan tim mengejar imbal hasil jangka panjang melalui operasi yang stabil.\n\nXtrader berpegang pada prinsip \"Profesionalisme, kestabilan, dan kerja sama yang saling menguntungkan\", dan berkomitmen membangun tim proprietary trading berkualitas tinggi di seluruh dunia, sehingga trader dapat mewujudkan nilai pribadinya sekaligus berbagi peluang pertumbuhan di pasar emas global."
+    },
+    {
+      "id": 2,
+      "question": "2. Ikhtisar Evaluasi Berbayar",
+      "answer": "2.1 Evaluasi Berbayar & Lulus Ketiga Tahap\nPenilaian simulasi terdiri dari dua fase: Fase 1 dan Fase 2, terakhir adalah akun riil dengan bagi hasil. Penilaian simulasi menggunakan aturan yang sama untuk kedua fase. Trader yang lulus dua fase penilaian simulasi akan dialokasikan akun trading riil dengan jumlah dana yang sama seperti yang digunakan pada penilaian simulasi; rasio bagi hasil untuk akun trading riil adalah 80%.\n\n2.2 Biaya Pendaftaran\nUntuk akun evaluasi 10.000 USD: 150 USD\nSedang Promosi: 120 USD (mengikuti pembaruan terbaru)\nBiaya pendaftaran tidak dapat dikembalikan dalam keadaan apa pun, jadi mohon lakukan pembayaran dengan hati-hati.\n\n2.3 Instrumen Trading\nEmas Spot (XAUUSD), Perak Spot (XAGUSD)\n\n2.4 Aktivitas Trading yang Dilarang\nUntuk menjaga lingkungan trading yang adil dan tidak memihak, perilaku berikut sangat dilarang. Jika kami menemukan pelanggaran apa pun, hal itu akan langsung mengakibatkan kegagalan evaluasi, diskualifikasi, dan biaya pendaftaran tidak akan dikembalikan:\n\na. Scalping atau Trading Frekuensi Tinggi: mengacu pada aktivitas trading di mana selang waktu antara pembukaan dan penutupan kurang dari 60 detik (termasuk namun tidak terbatas pada memanfaatkan keterlambatan kuotasi, masuk dan keluar dengan cepat, dll.). Setiap strategi yang bertujuan memperoleh keuntungan minimal dalam selang waktu yang sangat singkat dianggap sebagai pelanggaran.\n\nb. Trading EA: Penilaian ini tidak mendukung program trading otomatis dalam bentuk apa pun, termasuk namun tidak terbatas pada Expert Advisor (EA), skrip, algoritma, alat penempatan order semi-otomatis, dll.\n\nc. Akun AB atau Hedging Multi-Akun: Dilarang bagi trader yang sama menggunakan banyak akun (atau dalam akun yang sama) untuk membuka posisi berlawanan arah atau melakukan hedging guna menghindari risiko atau memperoleh keuntungan secara curang.\n\nd. Penyalahgunaan Kuotasi atau Arbitrase Keterlambatan: Dilarang menggunakan keterlambatan kuotasi platform, celah data, likuiditas abnormal, dll. untuk trading arbitrase.\n\ne. Manipulasi Order Berniat Buruk atau Pengocokan Posisi: Dilarang melakukan trading yang tidak rasional dan berulang dengan tujuan memperoleh rabat komisi atau memanipulasi statistik volume trading.\n\nf. Perilaku Menipu, Curang, atau Mengganggu Pasar Lainnya: Termasuk namun tidak terbatas pada transaksi fiktif, manipulasi data, memanfaatkan celah aturan, dan mengganggu tatanan trading yang normal. Trader harus berpegang pada prinsip trading yang adil; setiap upaya untuk mengakali aturan evaluasi atau merugikan kepentingan platform dianggap sebagai pelanggaran.\n\nCatatan: Platform berhak atas interpretasi akhir terhadap perilaku terlarang yang disebutkan di atas dan berhak membuat penilaian secara independen berdasarkan karakteristik perilaku trading."
+    },
+    {
+      "id": 3,
+      "question": "3. Fase Evaluasi Simulasi",
+      "answer": "3.1 Aturan Evaluasi Simulasi (Modal Akun: 10.000 USD / 10k)\n\n| Item | Persyaratan |\n| --- | --- |\n| Modal Awal | 10.000 USD (10k) |\n| Periode Evaluasi | Dalam 90 hari |\n| Target Keuntungan | 10%+ |\n| Persyaratan Promosi | Persyaratan posisi tertutup: 18 lot standar + Hari trading minimum: 10 hari trading+ |\n| Eliminasi | Ekuitas real-time di bawah 9.000 USD |\n| Batas Drawdown Intraday | Tidak ada (tanpa batasan) |\n| Persyaratan Margin per Lot | 20.000 USD (20k) |\n| Komisi per Lot | 30 USD/lot |\n\n3.2 Penjelasan Aturan Evaluasi\n1. Periode Evaluasi: 90 hari, dihitung sejak transaksi pertama. Kedua fase simulasi sama.\n2. Persyaratan Promosi: Untuk lulus fase evaluasi saat semua kriteria berikut terpenuhi: keuntungan 10%+, minimal 10 hari trading, dan mencapai 18 lot tertutup. Trader harus mengklik \"Ajukan Promosi\" di sistem dan memperoleh akun untuk tahap berikutnya setelah disetujui.\na. Target Keuntungan: Ekuitas harus mencapai lebih dari 11.000 USD (keuntungan 10%) tanpa posisi terbuka.\nb. Persyaratan Lot Tertutup: Total jumlah lot tertutup harus mencapai 18 lot standar atau lebih (berdasarkan akumulasi volume tertutup, bukan jumlah transaksi).\nc. Hari Trading Minimum: Akun harus ditradingkan minimal 10 hari trading (dihitung berdasarkan tanggal penutupan).\n3. Evaluasi ini tidak menetapkan batasan apa pun pada batas drawdown dinamis intraday (mis. drawdown intraday 5%).\n4. Eliminasi: Ketika ekuitas akun turun di bawah 9000, evaluasi dianggap gagal. Sistem akan otomatis melikuidasi seluruh posisi dan membatasi izin trading akun. Bahkan setelah likuidasi, jika ekuitas naik di atas 9000 karena fluktuasi harga, tantangan tetap dianggap gagal.\n5. Komisi: Fase trading riil menggunakan model STP (Straight Through Processing), order ditempatkan langsung ke pasar. Karena perbedaan likuiditas atau fluktuasi harga, kuotasi dapat berbeda dari harga eksekusi akhir. Untuk menyimulasikan biaya trading nyata, dikenakan biaya USD 30 per lot selama fase evaluasi. Tidak ada komisi pada fase trading riil.\n6. Statistik Lot: Jika akumulasi komisi mencapai 540 USD (18 lot * 30 USD/lot) dalam periode evaluasi yang berlaku, hal itu dianggap memenuhi persyaratan 18 lot standar.\n7. Persyaratan Margin: Persyaratan margin per lot ditetapkan tetap pada 20.000 USD. Jumlah lot terbuka maksimum = ekuitas akun / persyaratan margin 20.000 per lot. Misalnya, akun dengan modal 10.000 USD, jumlah lot terbuka maksimum adalah 0,5 lot (10.000 / persyaratan margin 20.000 per lot).\n8. Pembaruan Aturan Evaluasi: Aturan akan diperbarui berdasarkan kondisi operasional aktual. Jika terjadi perubahan, penjelasan resmi atau layanan pelanggan yang berlaku."
+    },
+    {
+      "id": 4,
+      "question": "4. Bagi Hasil Akun Riil",
+      "answer": "4.1 Aturan Akun Riil\n\n| Item | Detail |\n| --- | --- |\n| Modal Awal | 10.000 USD |\n| Rasio Bagi Hasil | 80% |\n| Eliminasi | Ekuitas real-time di bawah 9.000 USD |\n| Batas Drawdown Intraday | Tidak ada (tanpa batasan) |\n| Bantalan Pengaman yang Dicadangkan | 20% |\n| Syarat Bagi Hasil | Setiap keuntungan 10% setelah dikurangi bantalan pengaman 20% |\n\n4.2 Penjelasan Aturan Trading Riil\n1. Tanpa Batasan Tambahan: Akun trading riil tidak memiliki batasan pada jumlah lot, strategi, order take-profit dan stop-loss, maupun drawdown per transaksi.\n2. Mekanisme Eliminasi: Akun trading riil hanya memiliki level stop-loss 10%. Ketika ekuitas akun turun di bawah 90% dari modal awal (yaitu ketika ekuitas akun 10.000 turun di bawah 9.000), sistem akan melakukan likuidasi paksa dan membatasi trading.\n3. Bantalan Pengaman: Untuk meningkatkan toleransi kesalahan trader, platform secara default menggunakan 20% keuntungan dari akun trading riil sebagai bantalan pengaman.\nMisalnya: Jika akun dengan 10.000 USD memperoleh keuntungan 2.000 USD, ekuitasnya mencapai 12.000 USD; kini akun perlu kehilangan 3.000 USD untuk tereliminasi (yaitu drawdown telah diperbesar).\n4. Penarikan Keuntungan (Saat Untung): Ketika keuntungan akun melebihi 30%, trader dapat mengajukan penarikan 10% dari keuntungan. Setelah dikurangi bantalan pengaman 20%, untuk setiap tambahan keuntungan 10%, trader dapat mengajukan penarikan bagi hasil yang sesuai kapan saja saat tidak ada posisi terbuka di akun.\n5. Keluar Secara Sukarela: Ketika akun dalam keadaan untung, trader dapat keluar secara sukarela dan menarik seluruh keuntungan yang belum diselesaikan sekaligus.\n6. Akun Tidak Aktif: Jika akun trading riil tidak tereliminasi tetapi dalam keadaan rugi (ekuitas di bawah 10.000 dan di atas 9.000), dan tidak melanjutkan trading selama lebih dari 15 hari trading sejak transaksi terakhir, akun akan dianggap secara otomatis melepaskan akun trading riil, dan platform berhak menghapus dana akun tersebut."
+    },
+    {
+      "id": 5,
+      "question": "5. Spesifikasi Trading",
+      "answer": "|Item|XAUUSDnn (Emas)|XAGUSDnn (Perak)|\n|Ukuran Kontrak|100 oz per lot|5.000 oz per lot|\n|Satuan Kuotasi|USD per oz|USD per oz|\n|Tick Minimum|0,01 USD/oz|0,001 USD/oz|\n|Spread|Mengambang ~30 pip|Mengambang|\n|Persyaratan Margin per Lot|20.000 USD|20.000 USD|\n|Margin Hedging|Berdasarkan sisi (leg) yang lebih besar|Berdasarkan sisi (leg) yang lebih besar|\n|Jarak Pending Order|100 pip dari harga pasar|100 pip dari harga pasar|\n|Ukuran Volume Minimum|0,01 lot|0,01 lot|\n|Kelipatan|0,01 lot|0,01 lot|\n|Swap Menginap|Long: 55 USD/lot<br/>Short: 20 USD/lot<br/>Dikenakan tiga kali lipat pada hari Rabu (mengikuti platform)|Long: 20 USD/lot<br/>Short: 10 USD/lot<br/>Dikenakan tiga kali lipat pada hari Rabu (mengikuti platform)|\n|Likuidasi Paksa|Jam trading: Ekuitas/Persyaratan Margin ≤80%<br/>Akhir pekan/Hari libur: Ekuitas/Persyaratan Margin ≤100%|Jam trading: Ekuitas/Persyaratan Margin ≤80%<br/>Akhir pekan/Hari libur: Ekuitas/Persyaratan Margin ≤100%|\n|Jam Trading|Sen–Kam: 01:00 – 24:00<br/>Jum: 01:00 – 23:30 (hari libur mengikuti pemberitahuan)|Sen–Kam: 01:00 – 24:00<br/>Jum: 01:00 – 23:30 (hari libur mengikuti pemberitahuan)|\n|Zona Waktu Server|DST: GMT+3 (UTC+3)<br/>Standar: GMT+2 (UTC+2)|DST: GMT+3 (UTC+3)<br/>Standar: GMT+2 (UTC+2)|"
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "Bagaimana cara mendaftar evaluasi trader?",
+      "answer": "Anda dapat mendaftar Evaluasi Trader Xtrader melalui saluran resmi berikut:\n- Situs web resmi: https://xtrader.xwgold19.com/\n- Akun Layanan WeChat Xtrader: menu bawah → [Evaluasi Gratis]"
+    },
+    {
+      "id": 2,
+      "question": "Apa saja aturan evaluasi trader?",
+      "answer": "Evaluasi trader terdiri dari Tahap 1 dan Tahap 2, dan aturannya sama untuk kedua tahap. Anda dapat melaju ke tahap berikutnya setelah memenuhi ketiga syarat di bawah ini:\n- Keuntungan kumulatif ≥ 10%\n- Total transaksi selesai ≥ 30 lot (posisi tertutup)\n- Total ≥ 10 hari trading\nTidak ada batasan tambahan selain yang disebutkan di atas.\nUntuk detail: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
+    },
+    {
+      "id": 3,
+      "question": "Mengapa saya perlu verifikasi identitas (KYC) jika ini bukan trading riil?",
+      "answer": "Verifikasi identitas membantu mencegah akun ganda, partisipasi berulang, dan masalah lainnya, sehingga hasil evaluasi bersifat asli, adil, dan dapat diverifikasi. Hal ini juga menjadi dasar kepatuhan untuk penerbitan akun riil di kemudian hari."
+    },
+    {
+      "id": 4,
+      "question": "Bagaimana cara menyelesaikan verifikasi identitas (KYC)? Apakah ada panduan?",
+      "answer": "Ya. Silakan ikuti Akun Layanan WeChat Xtrader dan lihat panduan KYC di sini: https://mp.weixin.qq.com/s/27susSs-t-BDgQ34O_2WyQ"
+    },
+    {
+      "id": 5,
+      "question": "Bagaimana cara mengundang teman untuk ikut evaluasi?",
+      "answer": "Buka [Profil] dan bagikan kode undangan eksklusif Anda kepada teman. Setelah undangan berhasil, Anda dapat melihat catatannya di [Referal]."
+    },
+    {
+      "id": 6,
+      "question": "Jika saya mereferensikan seseorang dan ia lulus, apakah saya mendapat imbalan komisi?",
+      "answer": "Ya. Jika teman yang Anda referensikan berhasil memperoleh akun riil dan menghasilkan bagi hasil, Anda akan menerima 10% dari keuntungan perusahaan sebagai imbalan referal."
+    },
+    {
+      "id": 7,
+      "question": "Apakah evaluasi trader berbayar?",
+      "answer": "Tidak. Tidak ada biaya. Semua pengguna yang menyelesaikan verifikasi identitas (KYC) dapat mengikuti evaluasi trader secara gratis."
+    },
+    {
+      "id": 8,
+      "question": "Apa perbedaan antara evaluasi baru dan yang sebelumnya?",
+      "answer": "Aturan evaluasi tetap sama. Perbedaannya:\n- Sebelumnya, jika gagal di Tahap 1, akun trading Anda yang ada akan direset\n- Sekarang, jika gagal di Tahap 1, sistem akan menerbitkan akun trading yang benar-benar baru"
+    },
+    {
+      "id": 9,
+      "question": "Saya tidak dapat menemukan broker/penyedia server 'xinwang'.",
+      "answer": "Kami menyarankan:\n- Matikan Wi-Fi dan coba gunakan data seluler\n- Atau unduh aplikasi trading MT5 terbaru dari situs web resmi"
+    },
+    {
+      "id": 10,
+      "question": "Saat menginstal MT5 di komputer, muncul jendela yang meminta pengaturan server proxy.",
+      "answer": "Pada kolom Server, masukkan: xinwang. Biarkan kolom lain kosong dan klik [OK].\nJika masih tidak dapat menginstalnya, kami menyarankan menggunakan Google Chrome dan mengunduh dari situs web resmi:\n- Situs web resmi: www.xwgold19.com"
+    },
+    {
+      "id": 11,
+      "question": "Muncul otorisasi gagal / saya sudah login tetapi tidak bisa membuat order baru.",
+      "answer": "Silakan salin ulang atau masukkan kata sandi trading Anda secara manual. Spasi tambahan dapat ikut tersalin saat menyalin, yang dapat menyebabkan kegagalan otorisasi, masalah login, atau ketidakmampuan membuat order."
+    },
+    {
+      "id": 12,
+      "question": "Apakah persyaratan 30 lot terlalu tinggi?",
+      "answer": "Tujuan utama evaluasi adalah mengidentifikasi trader dengan profitabilitas jangka panjang yang stabil. Terlalu sedikit transaksi atau periode yang terlalu singkat menyulitkan penilaian menyeluruh atas strategi dan pengendalian risiko, serta penentuan alokasi modal riil yang sesuai di kemudian hari."
+    },
+    {
+      "id": 13,
+      "question": "Apakah satu beli dihitung 1 lot dan satu jual dihitung 1 lot?",
+      "answer": "“Lot” mengacu pada ukuran posisi, bukan jumlah transaksi.\n- Dihitung berdasarkan ukuran lot saat membuka posisi\n- Hanya dihitung setelah posisi ditutup\n- Semua data didasarkan pada catatan posisi tertutup harian"
+    },
+    {
+      "id": 14,
+      "question": "Evaluasi ini tampak sulit.",
+      "answer": "Evaluasi ini memang menantang, tetapi secara keseluruhan lebih mudah dibandingkan banyak kompetitor. Banyak trader telah berhasil lulus dan memperoleh akun riil. Karena Tahap 1 dan Tahap 2 menggunakan aturan yang sama, jika Anda lulus Tahap 1, Tahap 2 biasanya bukan masalah besar."
+    },
+    {
+      "id": 15,
+      "question": "Apakah ada persyaratan keuntungan harian, drawdown harian, atau lama menahan posisi?",
+      "answer": "Tidak. Anda hanya perlu memenuhi tiga syarat ini: keuntungan 10% + 30 lot + 10 hari trading. Tidak ada batasan lain.\nUntuk detail: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
+    },
+    {
+      "id": 16,
+      "question": "Berapa leverage pada akun trading evaluasi?",
+      "answer": "Evaluasi menggunakan model margin tetap. Emas/Perak: margin sebesar USD 20.000 per lot.\nLeverage = Nilai kontrak / Margin = Harga × Ukuran kontrak / Margin. Ukuran kontrak adalah 100.\nContoh:\n- Harga emas USD 4.000 → leverage sekitar 20x\n- Harga emas USD 5.000 → leverage sekitar 25x"
+    },
+    {
+      "id": 17,
+      "question": "Berapa modal riil yang akhirnya bisa saya peroleh? Bagaimana penilaiannya?",
+      "answer": "Kami akan mengevaluasi secara menyeluruh data trading Tahap 2 Anda, termasuk rasio Sharpe, profit factor, imbal hasil, rasio menang/kalah, drawdown, penentuan ukuran posisi, dll., untuk menentukan alokasi modal riil akhir."
+    },
+    {
+      "id": 18,
+      "question": "Apakah saya bisa mengulang evaluasi?",
+      "answer": "Ya.\n- Jika gagal di Tahap 1: sistem otomatis menerbitkan akun evaluasi baru setiap akhir pekan; tidak perlu mendaftar lagi\n- Jika gagal di Tahap 2: Anda dapat mengulang melalui perujuk (referrer) atau dengan menggunakan Kartu Revive"
+    },
+    {
+      "id": 19,
+      "question": "Bagi hasil 30% Anda terasa agak rendah!",
+      "answer": "Setelah lulus evaluasi 2 tahap, Anda dapat melakukan trading di akun riil tanpa menggunakan modal sendiri. Jika trading Anda tetap stabil dan menguntungkan, setelah beberapa siklus bagi hasil Anda dapat menggunakan bagi hasil yang diperoleh dari modal awal perusahaan sebagai bantalan drawdown untuk meningkatkan rasio bagi hasil:\n- Rasio pendanaan 10% → bagi hasil 50%\n- 20% → 70%\n- 30% → 90%"
+    },
+    {
+      "id": 20,
+      "question": "Jika saya lulus evaluasi, apakah modal riil bisa ditingkatkan?",
+      "answer": "Ya. Perusahaan akan secara berkala mengevaluasi akun dengan keuntungan yang konsisten dan stabil serta menyesuaikan alokasi modalnya. Trader berkinerja kuat akan memiliki peluang pertumbuhan yang lebih besar."
+    },
+    {
+      "id": 21,
+      "question": "Berapa modal awal yang akan saya terima untuk trading riil?",
+      "answer": "Modal riil awal biasanya USD 1.000–10.000. Jumlah aktual akan dievaluasi dan disesuaikan secara bertahap berdasarkan kinerja trading Anda. Bagi trader yang lulus evaluasi, akun riil awal sering kali USD 2.000–3.000 atau lebih."
+    }
+  ],
+  "company": {
+    "hero": {
+      "titleEm": "Mengapa",
+      "titleMain": "Memilih XW Gold?",
+      "cards": [
+        {
+          "parts": [
+            { "text": "Bursa Emas Hong Kong", "hl": false },
+            { "text": "Anggota AA No.019", "hl": true }
+          ]
+        },
+        {
+          "parts": [
+            { "text": "Memegang", "hl": false },
+            { "text": "AA", "hl": true },
+            { "text": "lisensi trading pasar", "hl": false }
+          ]
+        },
+        {
+          "parts": [
+            { "text": "Memenuhi syarat untuk trading elektronik", "hl": false }
+          ]
+        }
+      ],
+      "desc": "Memanfaatkan status Hong Kong sebagai pusat keuangan global, kami menyediakan layanan trading profesional satu atap bagi klien untuk produk emas spot, perak, dan logam mulia lainnya."
+    },
+    "stats": [
+      {
+        "key": "s1",
+        "labelParts": [{ "text": "Klien yang dilayani", "hl": false }],
+        "valueParts": [{ "text": "150, 000+", "hl": true }]
+      },
+      {
+        "key": "s2",
+        "labelParts": [
+          { "text": "Fokus pada", "hl": false },
+          { "text": "Emas", "hl": true }
+        ],
+        "valueParts": [
+          { "text": "Perak", "hl": true },
+          { "text": "Logam mulia", "hl": false }
+        ]
+      },
+      {
+        "key": "s3",
+        "labelParts": [{ "text": "Lisensi regulasi", "hl": true }],
+        "valueParts": [{ "text": "Patuh", "hl": false }]
+      },
+      {
+        "key": "s4",
+        "labelParts": [
+          { "text": "7x24", "hl": true },
+          { "text": "jam", "hl": false }
+        ],
+        "valueParts": [{ "text": "Dukungan multibahasa", "hl": false }]
+      }
+    ],
+    "sections": {
+      "certsTitle": "Sertifikat Otoritatif",
+      "contactTitle": "Kontak"
+    },
+    "certs": {
+      "cert1": { "title": "Sertifikat Keanggotaan", "org": "(Bursa Emas Hong Kong)" },
+      "cert2": { "title": "Dealer Logam Mulia Kelas A", "org": "(Bea Cukai Hong Kong)" },
+      "cert3": { "title": "Izin Usaha", "org": "(Bursa Emas Hong Kong)" }
+    },
+    "features": {
+      "f1": {
+        "title": "Kualifikasi Otoritatif & Regulasi yang Patuh",
+        "desc": "Platform trading logam mulia terkemuka di Hong Kong dengan sejarah panjang, terutama menawarkan layanan trading emas spot, perak, dan logam mulia lainnya.\n\nBursa menerapkan sistem keanggotaan yang ketat dan mekanisme regulasi untuk memastikan trading yang terbuka, adil, dan transparan. Sebagai bagian penting dari pusat keuangan internasional, Bursa Emas Hong Kong menyediakan instrumen trading yang sangat likuid dan beragam serta layanan penyelesaian yang praktis bagi investor global."
+      },
+      "f2": {
+        "title": "Pengalaman 15+ tahun dalam layanan logam mulia",
+        "desc": "Tim Xinwang Gold memiliki rata-rata lebih dari 15 tahun pengalaman layanan profesional di bidang investasi emas spot, perak, dan logam mulia lainnya.\n\nKami memiliki pemahaman mendalam tentang aturan operasional pasar global dan karakteristik pasar, serta dapat menyediakan analisis profesional, perencanaan strategi, dan layanan satu lawan satu bagi investor untuk membantu klien menangkap peluang, mengelola risiko secara efektif, dan mencapai pertumbuhan yang stabil dalam jangka panjang di lingkungan pasar yang fluktuatif."
+      },
+      "f3": {
+        "title": "Broker STP Sejati",
+        "desc": "Xinwang Gold adalah broker STP sejati, di mana semua order trading klien terhubung langsung ke pasar global melalui model Straight Through Processing.\n\nTanpa intervensi manusia, sehingga memastikan penetapan harga yang transparan, eksekusi yang cepat, dan keadilan. Kami mencocokkan transaksi dengan beberapa penyedia likuiditas papan atas, menawarkan klien lingkungan trading dengan spread rendah, likuiditas tinggi, dan stabil, sehingga setiap transaksi lebih dekat dengan harga pasar yang sebenarnya."
+      }
+    },
+    "contact": {
+      "biz": "Bisnis:",
+      "email": "Email:",
+      "addressLabel": "Alamat:",
+      "phone": "(+852) 53723536",
+      "emailValue": "marketing@xwgold19.com",
+      "address": "Room 1006, 10/F, Gold & Silver Commercial Building, 12-18 Mercer Street, Sheung Wan, Hong Kong"
+    }
+  },
+  "privacy": {
+    "title": "Kebijakan Privasi",
+    "intro": [
+      "Pengguna APP Xtrader yang terhormat,",
+      "Selamat datang di produk dan layanan kami (selanjutnya disebut \"APP Xtrader\" atau \"kami\"). Kebijakan Privasi APP Xtrader ini (\"Kebijakan\") ditetapkan oleh kami. Kami sepenuhnya memahami pentingnya informasi pribadi bagi Anda dan menghargai kepercayaan yang Anda berikan kepada kami. Kami akan mematuhi secara ketat hukum dan peraturan yang berlaku serta menerapkan langkah-langkah keamanan yang andal untuk menjaga informasi pribadi Anda tetap aman dan terkendali.",
+      "Untuk memberikan layanan yang akurat dan menyeluruh, APP Xtrader akan memproses informasi pribadi Anda sesuai dengan Kebijakan Privasi ini dengan kehati-hatian dan kecermatan. Kecuali sebagaimana dinyatakan secara tegas dalam Kebijakan ini, APP Xtrader tidak akan mengungkapkan atau memberikan informasi pribadi Anda kepada pihak ketiga tanpa persetujuan tertulis Anda terlebih dahulu. Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu berdasarkan kebutuhan operasional dan regulasi.",
+      "Sebelum menggunakan produk dan layanan kami, harap baca dan pahami sepenuhnya semua ketentuan Kebijakan ini, dengan memberikan perhatian khusus pada ketentuan penting yang dicetak tebal. Pastikan Anda sepenuhnya memahami dan menyetujui semua aturan sebelum menggunakan. Kebijakan Privasi ini merupakan bagian tak terpisahkan dari Ketentuan Layanan APP Xtrader. Kebijakan ini menjelaskan dengan jelas bagaimana kami mengumpulkan, menggunakan, menyimpan, dan mengungkapkan informasi pribadi saat Anda menggunakan APP Xtrader, serta menetapkan hak-hak informasi Anda. Ketentuan penting yang berkaitan dengan hak informasi pribadi dicetak tebal.",
+      "Jika Anda memiliki pertanyaan, komentar, atau saran terkait Kebijakan ini, silakan hubungi kami menggunakan detail kontak resmi di akhir dokumen ini.",
+      "Dengan mengklik atau mencentang \"Setuju\" di APP dan mengirimkan konfirmasi Anda, Anda menyatakan bahwa Anda telah membaca, memahami sepenuhnya, dan secara sukarela menyetujui semua ketentuan Kebijakan ini, serta memberi wewenang kepada APP Xtrader untuk mengumpulkan, menggunakan, menyimpan, dan mengungkapkan informasi pribadi Anda sebagaimana dijelaskan di sini."
+    ],
+    "tocTitle": "Daftar Isi",
+    "toc": [
+      "Ruang Lingkup Penerapan",
+      "Cara Kami Mengumpulkan Informasi Pribadi Anda",
+      "Cara Kami Menggunakan Informasi Pribadi Anda",
+      "Cara Kami Mengungkapkan Informasi Pribadi Anda",
+      "Cara Kami Menggunakan Cookie",
+      "Cara Kami Menyimpan dan Melindungi Informasi Pribadi Anda",
+      "Hak-Hak Anda",
+      "Cara Kami Melindungi Informasi Anak di Bawah Umur",
+      "Penyimpanan Data Wajah dan Berbagi dengan Pihak Ketiga",
+      "Penyedia Pihak Ketiga dan Layanannya",
+      "Cara Kebijakan Ini Diperbarui",
+      "Cara Menghubungi Kami"
+    ],
+    "sections": [
+      {
+        "title": "1. Ruang Lingkup Penerapan",
+        "paragraphs": [
+          "1.1 Definisi Informasi Pribadi: Informasi yang dicatat secara elektronik atau dengan cara lain yang dapat mengidentifikasi atau dikaitkan dengan orang perorangan tertentu, termasuk nama, tanggal lahir, dokumen identitas (KTP, paspor, dll.), informasi biometrik, alamat email, alamat tempat tinggal, informasi akun, kondisi keuangan, lokasi real-time, dan data sejenis.",
+          "1.2 Definisi Informasi Pribadi Sensitif: Informasi yang, jika bocor atau digunakan secara melawan hukum, kemungkinan besar dapat merugikan martabat pribadi atau membahayakan keselamatan diri atau harta benda, termasuk informasi biometrik, keyakinan agama, identitas khusus, informasi kesehatan dan medis, rekening bank, pelacakan lokasi, dan seluruh informasi pribadi anak di bawah usia 14 tahun.",
+          "1.3 Batas Ruang Lingkup: Kebijakan ini hanya berlaku untuk produk dan layanan milik APP Xtrader sendiri, bukan untuk produk atau layanan pihak ketiga yang disediakan secara independen oleh entitas atau individu lain. Jika Anda menggunakan layanan platform pihak ketiga, pemrosesan informasi diatur oleh kebijakan privasi pihak ketiga tersebut. Anda harus membaca ketentuan privasi pihak ketiga secara terpisah. Tanggung jawab hukum yang timbul dari pengumpulan atau pengungkapan tanpa izin oleh pihak ketiga sepenuhnya ditanggung oleh pihak ketiga tersebut."
+        ]
+      },
+      {
+        "title": "2. Cara Kami Mengumpulkan Informasi Pribadi Anda",
+        "paragraphs": [
+          "Saat Anda menggunakan layanan APP Xtrader, kami mematuhi secara ketat prinsip keabsahan, kewajaran, dan keperluan, dengan hanya mengumpulkan informasi yang diperlukan untuk fungsi dasar produk."
+        ],
+        "subsections": [
+          {
+            "title": "2.1 Pendaftaran, Verifikasi Identitas, dan Layanan Akun",
+            "paragraphs": [
+              "2.1.1 Pendaftaran Email: Saat Anda mendaftar menggunakan email dan kode verifikasi email, kami mengumpulkan alamat email Anda. Anda dapat melengkapi profil secara opsional. Informasi tersebut diperlukan untuk pendaftaran akun dan keamanan login.",
+              "2.1.3 Verifikasi Identitas Pengenalan Wajah: Untuk menyelesaikan verifikasi identitas akun (KYC), pemulihan akun, pemeriksaan keamanan, dan pembukaan kunci risiko akun, APP Xtrader menyediakan verifikasi pengenalan wajah. Jika Anda memilih untuk mengaktifkan verifikasi wajah, setelah Anda secara aktif memberi izin akses kamera, kami akan sementara mengumpulkan gambar biometrik wajah Anda untuk pencocokan identitas:"
+            ],
+            "bullets": [
+              "Data wajah hanya digunakan untuk pencocokan real-time guna memastikan identitas pemilik akun; gambar wajah asli tidak disimpan dalam jangka panjang di cloud setelah verifikasi;",
+              "Informasi biometrik wajah hanya digunakan untuk verifikasi keamanan akun APP Xtrader, bukan untuk iklan atau pemasaran; data wajah hanya dibagikan dengan penyedia layanan verifikasi identitas kami (Alibaba Cloud) sebagaimana dijelaskan dalam Bagian 2.1.5 semata-mata untuk menyelesaikan verifikasi KYC;",
+              "Data biometrik wajah disimpan secara terpisah dengan enkripsi dan diisolasi secara fisik dari data bisnis biasa."
+            ],
+            "footer": "2.1.4 Informasi yang Diunggah dan Dibagikan Pengguna: Konten dan informasi yang Anda bagikan, unggah, kirim, simpan, atau kirimkan secara aktif melalui layanan APP kepada pihak ketiga."
+          },
+          {
+            "title": "2.1.5 Periode Penyimpanan Data Wajah dan Berbagi dengan Pihak Ketiga",
+            "paragraphs": [
+              "Saat Anda secara aktif memulai verifikasi identitas pengenalan wajah, kami dan penyedia layanan verifikasi identitas yang kami tunjuk mengumpulkan gambar wajah dan data deteksi keaslian (liveness) dari kamera perangkat Anda semata-mata untuk tujuan verifikasi identitas akun (KYC)."
+            ],
+            "bullets": [
+              "Periode dan alasan penyimpanan kami: Gambar wajah asli dihapus dari server kami segera setelah verifikasi real-time selesai (biasanya dalam hitungan menit setelah verifikasi berakhir). Kami tidak menyimpan gambar biometrik wajah mentah tanpa batas waktu. Kami hanya menyimpan catatan hasil verifikasi terenkripsi (mis. status lulus/gagal, stempel waktu verifikasi, ID transaksi) hingga 5 tahun sejak tanggal verifikasi untuk mematuhi persyaratan arsip regulasi anti pencucian uang (AML) dan kenali pelanggan Anda (KYC), menyelesaikan sengketa, dan mencegah penipuan. Semua catatan verifikasi dihapus dalam 30 hari setelah penghapusan akun. Kami menyimpan catatan ini selama periode tersebut karena peraturan keuangan yang berlaku mewajibkan jejak audit verifikasi identitas.",
+              "Pihak ketiga yang kepadanya kami membagikan data wajah: Alibaba Cloud Computing Co., Ltd. (melalui Real Person Certification / SDK Pengenalan Wajah tingkat Finansial, termasuk AP-FaceDetectModule dan VerifyIntlUniPlugin).",
+              "Alasan berbagi: Kami menggunakan layanan verifikasi identitas tersertifikasi dan deteksi keaslian wajah dari Alibaba Cloud untuk melakukan pencocokan biometrik real-time terhadap informasi identitas resmi Anda yang diterbitkan pemerintah. Pengalihdayaan teknis ini diperlukan untuk menyediakan verifikasi KYC yang aman dan berstandar industri, yang tidak dapat diselesaikan sepenuhnya di perangkat Anda.",
+              "Apakah pihak ketiga menyimpan data wajah: Ya. Selama verifikasi, gambar wajah Anda dienkripsi dan ditransmisikan ke server aman Alibaba Cloud untuk deteksi keaslian dan pencocokan identitas.",
+              "Periode dan alasan penyimpanan pihak ketiga: Alibaba Cloud menyimpan gambar wajah mentah untuk sementara hanya selama periode yang diperlukan untuk menyelesaikan verifikasi dan pemeriksaan anti penipuan terkait. Gambar wajah asli dihapus dalam 24 jam setelah verifikasi selesai. Alibaba Cloud menyimpan log verifikasi yang telah dide-identifikasi dan catatan audit untuk pencegahan penipuan dan kepatuhan regulasi tidak lebih dari 180 hari, setelah itu otomatis dihapus. Alibaba Cloud tidak menggunakan data wajah Anda untuk iklan atau pemasaran. Untuk detail, lihat Kebijakan Privasi Alibaba Cloud: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html"
+            ]
+          },
+          {
+            "title": "2.2 Pengumpulan Otomatis Perangkat, Izin, dan Sistem",
+            "paragraphs": [
+              "Berdasarkan izin perangkat yang Anda berikan saat menginstal dan menggunakan APP Xtrader, kami menerima dan mencatat data terkait perangkat: model perangkat, nomor seri, OS dan versinya, versi klien, daftar perangkat lunak yang terinstal, alamat MAC, resolusi layar, nama paket, pengaturan sistem, karakteristik perangkat keras/perangkat lunak; nomor seri SIM, pengidentifikasi perangkat unik (IDFA, IDFV, ADID, IMEI, MEID, Android ID, IMS, SSID); data terkait lokasi (alamat IP, GPS, titik akses WLAN, Bluetooth, data sensor menara seluler); informasi biometrik (wajah hanya digunakan untuk verifikasi identitas akun APP; data biometrik mentah tetap berada di perangkat lokal Anda yang diizinkan dan tidak sepenuhnya disimpan di cloud)."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Cara Kami Menggunakan Informasi Pribadi Anda",
+        "paragraphs": [
+          "Kami menggunakan informasi yang dikumpulkan secara ketat sesuai dengan hukum, peraturan, dan perjanjian kami dengan Anda. Jika kami perlu menggunakan informasi di luar ruang lingkup di bawah ini, kami akan menjelaskannya terlebih dahulu dan memperoleh persetujuan tegas Anda."
+        ],
+        "subsections": [
+          {
+            "title": "3.1 Penggunaan Dasar Informasi Pribadi",
+            "paragraphs": [
+              "3.1.1 Notifikasi Layanan: Mengirimkan notifikasi produk dan layanan berdasarkan informasi Anda; kami dapat membagikan data yang telah dide-identifikasi kepada mitra yang patuh untuk informasi layanan terkait, tanpa konten yang mengidentifikasi Anda. Notifikasi dan peringatan keamanan terkait juga dikirim ke email terdaftar Anda.",
+              "3.1.2 Operasi Internal: Menggunakan informasi pribadi untuk audit internal, statistik, pemecahan masalah sistem, dan riset perilaku pengguna."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Cara Kami Mengungkapkan Informasi Pribadi Anda",
+        "paragraphs": [
+          "APP Xtrader akan mengungkapkan informasi pribadi Anda seluruhnya atau sebagian hanya dalam skenario yang sah atau disepakati berikut:",
+          "4.1 Dengan persetujuan tertulis tegas Anda sebelumnya kepada pihak ketiga;",
+          "4.2 Bila diperlukan untuk memenuhi produk atau layanan yang Anda minta, dengan membagikannya kepada penyedia layanan mitra; juga dapat digunakan untuk rekomendasi lanjutan dan pemasaran;",
+          "4.3 Sebagaimana diwajibkan oleh hukum, peraturan, atau dokumen resmi dari otoritas administratif atau peradilan;",
+          "4.4 Ketika Anda melanggar hukum atau perjanjian platform, bekerja sama dengan penegak hukum; untuk mencegah penipuan dan melindungi platform, pengguna, serta keselamatan publik;",
+          "4.5 Sengketa kekayaan intelektual: mengungkapkan informasi kontak dasar atas permintaan yang wajar dari pihak yang dituduh;",
+          "4.6 Sengketa transaksi: memberikan email kontak pihak lain bila diminta untuk pemenuhan atau penyelesaian sengketa;",
+          "4.7 Pengungkapan lintas batas: Anda setuju bahwa kami dapat menyerahkan data bisnis dan pribadi kepada regulator dan otoritas pemerintah berdasarkan persyaratan regulasi Hong Kong dan luar negeri."
+        ],
+        "subsections": [
+          {
+            "title": "4.8 Skenario Hukum yang Tidak Memerlukan Otorisasi Anda",
+            "bullets": [
+              "4.8.1 Keamanan atau pertahanan nasional;",
+              "4.8.2 Keselamatan publik, kesehatan publik, atau kepentingan publik yang besar;",
+              "4.8.3 Penyelidikan, penuntutan, persidangan, atau penegakan pidana;",
+              "4.8.4 Melindungi nyawa atau harta benda penting Anda atau orang lain ketika persetujuan tidak dapat diperoleh tepat waktu;",
+              "4.8.5 Informasi pribadi yang telah Anda ungkapkan kepada publik;",
+              "4.8.6 Informasi publik yang diperoleh secara sah dari saluran publik yang legal;",
+              "4.8.7 Diperlukan untuk menandatangani atau melaksanakan kontrak atas permintaan Anda;",
+              "4.8.8 Memastikan operasi APP/layanan yang stabil dan menangani kegagalan sistem atau risiko keamanan;",
+              "4.8.9 Diperlukan untuk pemberitaan berita yang sah;",
+              "4.8.10 Skenario pengungkapan lain yang patuh berdasarkan hukum, peraturan, atau aturan platform."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. Cara Kami Menggunakan Cookie",
+        "paragraphs": [
+          "5.1 Penggunaan Dasar Cookie: Jika Anda tidak menolak Cookie, kami menuliskan pengidentifikasi Cookie ke perangkat Anda untuk mencatat penggunaan APP/web, guna memastikan login dan fungsi lainnya; Cookie mendukung pemeriksaan keamanan, pemecahan masalah, pengisian formulir otomatis, mengingat login, dan mengingat pencarian.",
+          "5.2 Analitik: APP Xtrader menyimpan Cookie untuk statistik efektivitas promosi dan pelacakan halaman; data Cookie telah dide-identifikasi dan tidak dapat mengidentifikasi satu individu.",
+          "5.3 Data Cookie: Semua informasi yang dikumpulkan melalui Cookie tunduk pada Kebijakan Privasi ini."
+        ]
+      },
+      {
+        "title": "6. Cara Kami Menyimpan dan Melindungi Informasi Pribadi Anda",
+        "paragraphs": [
+          "Kami menerapkan langkah-langkah keamanan berstandar industri untuk melindungi informasi pengguna dari akses, pengungkapan, perubahan, kerusakan, atau kehilangan tanpa izin, serta secara berkala meningkatkan teknologi keamanan. Internet tidak dapat sepenuhnya aman; harap berhati-hati saat mengirimkan data pribadi sensitif."
+        ],
+        "subsections": [
+          {
+            "title": "6.1 Aturan Penyimpanan",
+            "paragraphs": [
+              "Kami menyimpan informasi pribadi hanya selama periode yang diwajibkan oleh hukum dan untuk memenuhi tujuan layanan. Aturan penyimpanan inti:"
+            ],
+            "bullets": [
+              "Email terdaftar: disimpan selama Anda menggunakan APP Xtrader secara normal; dihapus segera setelah penghapusan akun;",
+              "Gambar verifikasi wajah sementara: gambar wajah asli dihapus dari server kami segera setelah pencocokan real-time (biasanya dalam hitungan menit); kami tidak menyimpan gambar wajah mentah tanpa batas waktu;",
+              "Catatan hasil verifikasi wajah terenkripsi: disimpan hingga 5 tahun sejak tanggal verifikasi untuk memenuhi persyaratan arsip regulasi AML/KYC, penyelesaian sengketa, dan pencegahan penipuan; dihapus dalam 30 hari setelah penghapusan akun;",
+              "Gambar wajah mentah pihak ketiga (Alibaba Cloud): dihapus dalam 24 jam setelah verifikasi; log audit pihak ketiga yang telah dide-identifikasi disimpan tidak lebih dari 180 hari, sebagaimana dijelaskan dalam Bagian 2.1.5."
+            ]
+          },
+          {
+            "title": "6.2 Langkah-Langkah Keamanan",
+            "paragraphs": [
+              "6.2.1 Keamanan Akun: Semua akun memiliki mekanisme keamanan; kata sandi dienkripsi secara tidak dapat dibalik; pemulihan dan verifikasi bergantung pada email terdaftar. Harap jaga akses akun, kata sandi, dan email Anda.",
+              "6.2.2 Perlindungan Backend: Data pelanggan dienkripsi dan diisolasi; kerahasiaan karyawan yang ketat; akses tanpa izin dilarang; firewall dan autentikasi berlapis diterapkan.",
+              "6.2.3 Kewaspadaan Pengguna: Komunikasi daring tak terhindarkan dapat mengungkapkan email atau alamat; berikan hanya bila diperlukan. Segera hubungi layanan pelanggan jika akun, kata sandi, atau informasi pribadi disusupi."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7. Hak-Hak Anda",
+        "paragraphs": [
+          "Anda harus memastikan semua informasi pribadi yang dikirimkan benar dan akurat. Kami akan membantu menjaga kelengkapannya dan mendukung pembaruan. Sesuai dengan hukum yang berlaku, Anda memiliki hak berikut:"
+        ],
+        "subsections": [
+          {
+            "title": "7.1 Hak Informasi Dasar",
+            "bullets": [
+              "Mengakses dan menyalin informasi pribadi yang kami simpan tentang Anda;",
+              "Meminta koreksi atau pembaruan informasi yang tidak akurat atau tidak valid (termasuk email terdaftar);",
+              "Membatasi atau menolak penggunaan informasi Anda untuk pemasaran;",
+              "Meminta penghapusan informasi pribadi Anda;",
+              "Meminta penjelasan tertulis tentang aturan pemrosesan informasi pribadi kami."
+            ],
+            "footer": "Hubungi kami menggunakan detail di akhir Kebijakan ini. Kami dapat menolak permintaan jika terdapat bukti yang wajar atas penipuan, ketidakmungkinan, atau kerugian terhadap privasi pihak ketiga, dengan disertai alasan."
+          },
+          {
+            "title": "7.2 Hak untuk Menarik Persetujuan",
+            "paragraphs": [
+              "Anda dapat menarik persetujuan pemrosesan informasi kapan saja. Penarikan tidak memengaruhi pemrosesan yang sah sebelum penarikan atau pemrosesan berdasarkan dasar hukum lainnya."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8. Cara Kami Melindungi Informasi Anak di Bawah Umur",
+        "paragraphs": [
+          "Produk dan layanan APP Xtrader terutama ditujukan untuk pengguna dewasa. Anak di bawah umur tidak boleh membuka akun atau melakukan transaksi keuangan secara mandiri. Anak di bawah umur harus memperoleh persetujuan tegas dari orang tua atau wali sah sebelum menggunakan. Kami memproses data anak di bawah umur dengan kepatuhan ketat terhadap hukum yang berlaku.",
+          "Jika Anda anak di bawah umur, mintalah wali Anda membaca Kebijakan ini dan gunakan APP serta kirimkan informasi pribadi hanya dengan persetujuan wali. Jika wali Anda tidak setuju, hentikan penggunaan layanan dan hubungi kami.",
+          "Wali yang memiliki pertanyaan tentang pemrosesan informasi anak di bawah umur dapat menghubungi kami melalui saluran resmi yang tercantum di akhir Kebijakan ini."
+        ]
+      },
+      {
+        "title": "9. Pengumpulan Data Wajah, Periode Penyimpanan, dan Berbagi dengan Pihak Ketiga",
+        "paragraphs": [
+          "APP Xtrader menggunakan pengenalan wajah semata-mata untuk verifikasi identitas akun (KYC). Bagian ini menjelaskan dengan jelas data wajah apa yang kami kumpulkan, berapa lama kami menyimpannya, mengapa kami menyimpannya untuk setiap periode tertentu, dan dengan siapa kami membagikannya. Kami tidak menyimpan data wajah mentah tanpa batas waktu."
+        ],
+        "subsections": [
+          {
+            "title": "9.1 Data Wajah Apa yang Kami Kumpulkan",
+            "bullets": [
+              "Gambar wajah yang ditangkap oleh kamera perangkat Anda saat Anda secara aktif memulai verifikasi wajah;",
+              "Data deteksi keaslian (liveness) yang digunakan untuk memastikan Anda hadir secara fisik selama verifikasi;",
+              "Metadata hasil verifikasi (status lulus/gagal, stempel waktu verifikasi, ID transaksi)."
+            ]
+          },
+          {
+            "title": "9.2 Berapa Lama Kami Menyimpan Data Wajah dan Alasannya",
+            "bullets": [
+              "Gambar wajah mentah (server kami): Dihapus segera setelah verifikasi real-time selesai, biasanya dalam hitungan menit. Alasan: gambar biometrik mentah hanya diperlukan untuk pencocokan identitas seketika dan tidak diperlukan setelahnya. Kami tidak pernah menyimpan gambar wajah mentah tanpa batas waktu.",
+              "Catatan hasil verifikasi terenkripsi (server kami): Disimpan hingga 5 tahun sejak tanggal verifikasi. Alasan: peraturan keuangan AML/KYC yang berlaku mewajibkan jejak audit verifikasi identitas untuk penyelesaian sengketa dan pencegahan penipuan. Semua catatan tersebut dihapus dalam 30 hari setelah Anda menghapus akun.",
+              "Data sementara selama sesi verifikasi aktif di perangkat Anda: Disimpan hanya selama sesi tersebut berlangsung dan tidak dipertahankan setelah verifikasi berakhir."
+            ]
+          },
+          {
+            "title": "9.3 Penyimpanan Data Wajah Pihak Ketiga (Alibaba Cloud)",
+            "bullets": [
+              "Dibagikan kepada: Alibaba Cloud Computing Co., Ltd. (Real Person Certification / SDK Pengenalan Wajah tingkat Finansial, termasuk AP-FaceDetectModule dan VerifyIntlUniPlugin).",
+              "Alasan berbagi: untuk melakukan deteksi keaslian tersertifikasi dan pencocokan biometrik real-time terhadap informasi identitas resmi Anda yang diterbitkan pemerintah guna verifikasi KYC yang aman dan patuh.",
+              "Gambar wajah mentah (Alibaba Cloud): Dihapus dalam 24 jam setelah verifikasi selesai. Alasan: disimpan hanya selama periode minimum yang diperlukan untuk menyelesaikan verifikasi dan pemeriksaan anti penipuan terkait.",
+              "Log verifikasi yang dide-identifikasi dan catatan audit (Alibaba Cloud): Disimpan tidak lebih dari 180 hari, lalu otomatis dihapus. Alasan: pencegahan penipuan dan kepatuhan regulasi. Alibaba Cloud tidak menggunakan data wajah Anda untuk iklan atau pemasaran.",
+              "Kebijakan Privasi Alibaba Cloud: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "10. Penyedia Pihak Ketiga dan Layanannya",
+        "paragraphs": [
+          "10.1 SDK Real Person Certification Alibaba Cloud (Pengenalan Wajah)",
+          "Pengembang: Alibaba Cloud Computing Co., Ltd.",
+          "Tujuan: Verifikasi identitas akun (KYC), deteksi keaslian wajah, dan pencocokan identitas biometrik",
+          "Data yang Dikumpulkan: Gambar wajah, data deteksi keaslian, informasi perangkat yang diperlukan untuk verifikasi",
+          "Metode Pengumpulan: Dikumpulkan saat Anda secara aktif memulai verifikasi wajah dan memberi izin akses kamera",
+          "Berbagi dan Penyimpanan Data Wajah: Sebagaimana dirinci dalam Bagian 9, data wajah dibagikan kepada Alibaba Cloud hanya untuk verifikasi; gambar asli dihapus dalam 24 jam; log audit disimpan hingga 180 hari",
+          "Kebijakan Privasi Alibaba Cloud: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html",
+          "10.2 SDK Umeng+",
+          "Pengembang: Beijing Ruixun Lingtong Technology Co., Ltd.",
+          "Tujuan: Statistik APP dan pengendalian risiko anti penipuan",
+          "Data yang Dikumpulkan: Pengidentifikasi perangkat, lokasi, informasi jaringan",
+          "Metode Pengumpulan: Pengumpulan otomatis setelah Anda menyetujui Kebijakan Privasi ini",
+          "Kebijakan Privasi Resmi Umeng+: https://www.umeng.com/page/policy"
+        ]
+      },
+      {
+        "title": "11. Cara Kebijakan Ini Diperbarui",
+        "paragraphs": [
+          "Kami dapat merevisi Kebijakan Privasi ini dari waktu ke waktu karena perubahan hukum, regulasi, atau operasional. Setelah pembaruan, kami akan memberi tahu pengguna melalui dialog dalam aplikasi, pengumuman, pemberitahuan web, atau email terdaftar. Penggunaan APP Xtrader yang berkelanjutan merupakan penerimaan atas ketentuan yang diperbarui. Kami menyarankan untuk meninjau versi terbaru secara berkala."
+        ]
+      },
+      {
+        "title": "12. Cara Menghubungi Kami",
+        "paragraphs": [
+          "Untuk pertanyaan, komentar, saran, atau permintaan terkait akses informasi, koreksi, penghapusan, penarikan persetujuan, keamanan akun, pengenalan wajah, atau perubahan email, hubungi kami:",
+          "Alamat: Room 1006, 10/F, Gold & Silver Commercial Building, 12-18 Mercer Street, Sheung Wan, Hong Kong",
+          "Email: xtrader@xwgold19.com",
+          "Waktu Respons: Kami akan merespons dalam 15 hari kerja sejak menerima pertanyaan atau permintaan Anda."
+        ]
+      }
+    ]
+  },
+  "refundPolicy": [
+    {
+      "title": "I. Perjanjian Khusus tentang Pembatalan Kontrak dan Pengembalian Dana",
+      "paragraphs": [
+        "Dengan ini saya menyatakan dan menyetujui bahwa layanan yang disediakan oleh platform ini adalah layanan digital virtual. Sejak tanggal pembayaran pesanan berhasil dan layanan diaktifkan (termasuk namun tidak terbatas pada pembuatan akun, pemberian izin, dan pengaktifan sistem trading simulasi), layanan telah disampaikan secara tidak dapat dibatalkan dan mulai dikonsumsi. Oleh karena itu, kebijakan pembatalan/pengembalian dana tanpa alasan dalam 7 hari tidak berlaku.",
+        "Saya menyatakan bahwa:"
+      ],
+      "bullets": [
+        "1. Setelah pembayaran berhasil, terlepas dari apakah saya benar-benar login, menggunakan, atau memulai trading simulasi, pesanan tidak dapat dibatalkan dan tidak ada pengembalian dana yang dapat diminta.",
+        "2. Permintaan pengembalian dana yang diajukan karena alasan pribadi (seperti menyerah, gagal dalam penilaian, membiarkan akun tidak digunakan, kesalahan operasional, berubah pikiran, dll.) dapat langsung ditolak oleh platform.",
+        "3. Jika saya melanggar Syarat dan Ketentuan platform serta aturan terkait, platform dapat membekukan akun, menghentikan layanan, atau membatalkan kelayakan sesuai dengan perjanjian, dan tidak ada biaya yang telah dibayarkan yang akan dikembalikan."
+      ]
+    },
+    {
+      "title": "II. Pelaksanaan yang Cacat",
+      "paragraphs": [],
+      "bullets": [
+        "Platform tidak bertanggung jawab atas pengembalian dana atau kompensasi untuk anomali layanan yang disebabkan oleh alasan di luar platform seperti pengoperasian pengguna yang tidak tepat, masalah jaringan, atau kegagalan perangkat lunak pihak ketiga."
+      ]
+    },
+    {
+      "title": "III. Pernyataan Pengakuan",
+      "paragraphs": [
+        "Saya telah membaca dengan saksama dan memahami sepenuhnya kebijakan pembatalan dan pengembalian dana di atas, dan saya mengakui sifat layanan virtual platform serta perjanjian bahwa layanan tersebut tidak dapat dibatalkan dan tidak dapat dikembalikan dananya. Saya secara sukarela menerima aturan ini dan menanggung konsekuensi yang sesuai.",
+        "Memasukkan “Saya telah memahami konten di atas” menunjukkan bahwa saya telah membaca, memahami, dan menyetujui semua ketentuan kebijakan ini."
+      ],
+      "bullets": []
+    }
+  ]
+}
