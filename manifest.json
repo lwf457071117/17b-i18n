@@ -1,0 +1,21 @@
+{
+  "version": "2026-06-30",
+  "languages": [
+    {
+      "code": "vi-VN",
+      "label": "Tiếng Việt",
+      "version": "1",
+      "uniLocale": "vi",
+      "bucket": "vi",
+      "fallback": "en-US"
+    },
+    {
+      "code": "id-ID",
+      "label": "Bahasa Indonesia",
+      "version": "1",
+      "uniLocale": "en",
+      "bucket": "en",
+      "fallback": "en-US"
+    }
+  ]
+}
