@@ -1,0 +1,595 @@
+{
+  "rules": [
+    {
+      "id": 1,
+      "question": "# I. Project Background",
+      "answer": "The Xtrader team has long been deeply involved in the spot gold and silver CFD markets, possessing strong financial resources and a robust risk control system. To further leverage its professional advantages, it has officially launched the 'Proprietary Trader Recruitment Program,' seeking traders worldwide with professional skills and practical trading experience.\n\nXtrader Trader Assessment Registration Portal: \nXtrader Customer Service Account (Bottom Menu Bar → [Free Assessment])\n\nWith ample proprietary capital provided by Xtrader, traders participate in CFD trading in the global gold market using their own strategies and execution capabilities, achieving stable profits under controllable risk. Xtrader will establish a phased capital management mechanism, a strict risk control system, and scientific performance evaluation standards to ensure the team pursues long-term returns through stable operations.\n\nTo attract and motivate the outstanding talent, Xtrader has established a multi-faceted reward scheme that combines performance-based with long-term incentives along with a promotion mechanism. High-performing traders will gain greater control over capital allocation and higher profit sharing.\n\nXtrader adheres to the principles of 'Professionalism, stability, and win-win cooperation' and is committed to building a high-caliber worldwide proprietary trading team, enabling traders to realize their personal value while sharing the growth opportunities in the global gold market."
+    },
+    {
+      "id": 2,
+      "question": "# II. Recruitment targets and selection requirements",
+      "answer": "1. Target audience: Traders or teams with real-time trading experience in the financial markets.\n\n2. Selection Requirements\n1) Trader selection involves of two stages: simulated assessment and real account profit sharing.\n2) The simulated assessment consists of two stages: a preliminary test and a final test. Traders who pass both stages of assessments will be assigned a live trading account. The rules for both stages of assessments are identical.\n3) The size of the funds and the profit sharing ratio in a live trading account are entirely based on the trading performance of the trader's demo account. Live trading account funds range from USD 1,000 to USD 100,000; live trading profit sharing ratios range from 30% to 90%.\n4) Trading Instruments: Spot Gold, Spot Silver.\n\n## Simulated Assessment Rules (Same for both stages)\n1) Assessment Period: 90 days, starting from the first trade.\n2) Elimination: When the account's net value falls below 9000, the assessment is considered a failure. The system will automatically liquidate all positions and restrict the account's trading permissions. This assessment does not impose any restrictions on trading, and does not include intraday dynamic drawdowns.\n3) Profit Target: The account's net asset value must reach at least 11,000 when there are no open positions.\n4) Closed Position Requirement: The number of closed positions must reach at least 30 standard lots (not the number of trades/times).\n5) Minimum Trading Days: The account must have traded for a minimum of 10 trading days; the closing date is used as the statistical benchmark.\n6) Assessment Promotion Criterion: When the account simultaneously meets the following criteria: 10% profit + minimum 10 trading days + 30 closed positions, the challenge is considered successful. At this point, the trader needs to consult customer service and apply to proceed to the next stage of the account.\n7) Lot Count Statistics: For ease of statistics, a commission of USD 1 per lot is set. When reviewing closed trades, if the commission reaches USD 30 within the valid assessment period, it means the standard lot count requirement of 30 has been met.\n8) Margin: The fixed margin per lot is USD 20,000. Maximum opening position size = Account equity / Margin per lot of USD 20,000. For example, an account with USD 10,000 in capital has a maximum opening position size of 0.5 lots (10,000/20,000).\n9) Rule Updates: The assessment rules for this activity will be updated based on actual operational conditions; in case of any changes, the official explanation or customer service interpretation shall prevail."
+    },
+    {
+      "id": 3,
+      "question": "# III. Real Account Profit Sharing",
+      "answer": "1) There are no restrictions on the number of trades, strategies, profit-taking and stop-loss orders, or drawdown per trade in real trading accounts.\n2) The rules for real trading are the same as those for the simulation assessment. Real trading accounts only have a 10% stop-loss line: when the account's real-time net value falls below 90% of the account's initial capital, the system's forced liquidation mechanism will be triggered, all of the account's positions will be forcibly liquidated, and trading will be restricted.\n3) The funds in the real trading account range from USD 1,000 to USD 100,000; the profit sharing ratio ranges from 30% to 90%.\n4) When the real trading account profits by 10%, the trader can apply to customer service for sharing of the profits. Alternatively, the trader can choose not to withdraw the profits and instead apply to upgrade to a real trading account with more funds when the total account profit reaches 30%-50%.\n\n## Profit Extraction\n1) To improve traders' fault tolerance (increase drawdown margin), the platform defaults to using the first 10% of real trading account's profit as a safety cushion. For example, an account with USD 10,000 in capital will have a net value of USD 11,000 when it makes a profit of USD 1,000; at this point, the account will only be eliminated if it loses USD 2,000, thus increasing the fault tolerance.\n2) When the account profit exceeds 20%, the trader can apply to withdraw 10% of the profit. That is, after deducting the 10% safety cushion, the trader can apply to withdraw the profit share for every additional 10% profit.\n3) Traders may also proactively exit and withdraw all or any remaining unsettled profit share in one lump sum.\n\n## Example\n\nFor an account with USD 10,000 in capital:\n\n-When the account profits USD 1,000 (10%), if trading continues, this amount will not be withdrawn temporarily; \n-When the account profits USD 2,000 (20%), the trader can apply to withdraw USD 1,000 (10%) of the profit share; \n-When the trader chooses to exit, all unsettled profits will be withdrawn in one lump sum."
+    }
+  ],
+  "rulesPaid": [
+    {
+      "id": 1,
+      "question": "1. Project Background",
+      "answer": "The Xtrader team has long been deeply involved in the spot gold and silver CFD market, possessing strong financial resources and a robust risk control system. To further leverage its professional advantages, Xtrader has officially launched the \"Prop Trader Recruitment Program,\" seeking traders with professional skills and practical trading experience globally.\n\nWith ample proprietary capital provided by Xtrader, traders participate in CFD trading in the global gold market using their own strategies and execution capabilities, achieving stable profits under controllable risk. Xtrader will establish a phased capital management mechanism, a strict risk control system, and scientific performance evaluation standards to ensure the team pursues long-term returns through stable operations.\n\nXtrader adheres to the principles of \"Professionalism, stability, and win-win cooperation\" and is committed to building a high-caliber worldwide proprietary trading team, enabling traders to realize their personal value while sharing the growth opportunities in the global gold market."
+    },
+    {
+      "id": 2,
+      "question": "2. Paid Evaluation Overview",
+      "answer": "2.1 Paid Evaluation & Passed all Three-Steps\nThe simulation assessment consists of two phases: Phase 1 and Phase 2, Last is Live account with profit sharing. The simulation assessment follows the same rules for both phases. Traders who pass the two phases of simulated evaluations will be allocated a live trading account with the same amount of funds as those used in the simulated evaluations; the profit sharing ratio for the live trading account will be 80%.\n\n2.2 Registration Fee\nFor 10,000 USD evaluation account: 150 USD\nNow in Promotion: 120 USD (subject to latest updates)\nRegistration fees are non-refundable under any circumstances, so please be sure to pay carefully.\n\n2.3 Trading Instruments\nSpot Gold (XAUUSD), Spot Silver (XAGUSD)\n\n2.4 Prohibited Trading Activities\nTo maintain a fair and impartial trading environment, the following behaviors are strictly prohibited. If we find out any violation will result in immediately evaluation failure, disqualification, and the registration fee will not be refunded:\n\na.Scalping or High-Frequency Trading: refers to trading activities where the time interval between opening and closing is less than 60 seconds (including but not limited to exploiting quote delays, rapid entry and exit, etc.). Any strategy that aims to obtain minimal profits with extremely short time interval is considered a violation.\n\nb. EA Trading: This assessment does not support any kind of automated trading program, including but not limited to Expert Advisors (EAs), scripts, algorithms, semi-automatic order placement tools, etc.\n\nc.AB Accounts or Multiple-Account Hedging: It is prohibited for the same trader to use multiple accounts (or within the same account) to open positions in the opposite direction or hedge positions in order to avoid risks or fraudulently obtain profits.\n\nd. Abuse of Quotes or Delayed Arbitrage: It is prohibited to use platform quote delays, data vulnerabilities, abnormal liquidity, etc. for arbitrage trading.\n\ne.Malicious Order Manipulation or Position Shuffling: Irrational and frequent trading for the purpose of obtaining commission rebates or manipulating trading volume statistics is prohibited.\n\nf.Other Deceptive, Fraudulent, or Market-Disrupting Behaviors: Include, but are not limited to, fictitious transactions, data manipulation, exploiting loopholes in rules, and disrupting normal trading order. Traders must adhere to the principles of fair trading; any attempt to circumvent evaluation rules or harm the platform's interests is considered a violation.\n\nNote: The platform reserves the right of final interpretation of the above-mentioned prohibited behaviors and the right to make independent judgments based on trading behavior characteristics."
+    },
+    {
+      "id": 3,
+      "question": "3. Simulation Evaluation Phase",
+      "answer": "3.1 Simulation Evaluation Rules (Account Capital: 10,000 USD / 10k)\n\n| Item | Requirement |\n| --- | --- |\n| Initial Capital | 10,000 USD (10k) |\n| Evaluation Period | Within 90 days |\n| Profit Target | 10%+ |\n| Promotion Requirements | Closed position requirement: 18 standard lots + Minimum trading days: 10 trading days+ |\n| Elimination | Real-time equity below 9,000 USD |\n| Intraday Drawdown Limit | None (no restrictions) |\n| Margin Requirement per Lot | 20,000 USD (20k) |\n| Commission per Lot | 30 USD/lot |\n\n3.2 Evaluation Rule Explanations\n1. Evaluation Period: 90 days, calculated from the first trade. Both simulation phases are the same.\n2. Promotion Requirements: To pass the evaluation phase when all the following criteria are met: 10%+ profit, at least 10 trading days, and achieve 18 closed lots. Traders must click \"Apply to Promote\" in the system and obtain the account for the next stage upon approval.\na. Profit Target: Equity must reach more than 11,000 USD (10% profit) without any open positions.\nb. Closed Lot Requirement: Total number of closed lots must reach 18 standard lots or more (based on the accumulative closed volume, not the number of trades).\nc. Minimum of Trading Days: The account must be traded for at least 10 trading days (counted by the closing date).\n3. This evaluation does not set any restrictions on intraday dynamic drawdown limits (e.g., 5% intraday drawdown).\n4. Elimination: When the account's equity falls below 9000, the evaluation is considered a failure. The system will automatically liquidate all positions and restrict the account's trading permissions. Even after the liquidation, if the equity rises above 9000 due to price fluctuations, the challenge is still considered a failure.\n5. Commission: The live trading phase is using the STP (Straight Through Processing) model, orders placed directly into the market. Due to differences in liquidity or price fluctuations, the quote may differ from the final execution price. To simulate real trading costs, a fee of USD 30 per lot is charged during the evaluation phase. There are no commission in the live trading phase.\n6. Lot Statistics: If the accumulated commission reaches 540 USD (18 lots * 30 USD/lot) within the valid evaluation period, it is considered to achieve the requirement of 18 standard lots.\n7. Margin Requirement: The margin requirement per lot is fixed at 20,000 USD. Maximum number of open lots = account equity / margin requirement of 20,000 per lot. For example, an account with 10,000 USD in capital, the maximum number of open lots is 0.5 lots (10,000 / margin requirement of 20,000 per lot).\n8. Evaluation Rule Updates: Rules will be updated based on actual operational conditions. In case of any changes, the official or customer service explanation shall prevail."
+    },
+    {
+      "id": 4,
+      "question": "4. Live Account Profit Sharing",
+      "answer": "4.1 Live Account Rules\n\n| Item | Details |\n| --- | --- |\n| Initial Capital | 10,000 USD |\n| Profit Sharing Ratio | 80% |\n| Elimination | Real-time equity below 9,000 USD |\n| Intraday Drawdown Limit | None (no restrictions) |\n| Reserved Safety Buffer | 20% |\n| Profit Sharing Conditions | Every 10% profit after deducting 20% safety buffer |\n\n4.2 Live Trading Rule Explanations\n1. No Extra Restrictions: Live trading accounts have no restrictions on the number of lots, strategies, profit-taking and stop-loss orders, or drawdown per trade.\n2. Elimination Mechanism: Live trading accounts only have a 10% stop-loss level. When the account's equity falls below 90% of the initial capital (i.e., when the equity of a 10,000 account falls below 9,000), the system will force liquidation and restrict trading.\n3. Safety Buffer: To increase the fault tolerance of traders, the platform defaults to using 20% of the profits from live trading accounts as a safety buffer.\nFor example: If an account with 10,000 USD has a profit of 2,000 USD, its equity reaches 12,000 USD; now it needs to lose 3,000 USD to be eliminated (i.e., the drawdown has expanded).\n4. Profit Withdrawal (Profitable): When the account profit exceeds 30%, the trader can apply to withdraw 10% of the profit. After deducting the 20% safety buffer, for every additional 10% profit, the trader can apply to withdraw the corresponding profit sharing at any time when there are no open positions in the account.\n5. Voluntary Exit: When the account is profitable, the trader can voluntarily exit and withdraw all unsettled profits at once.\n6. Dormant Account: If a live trading account is not eliminated but is at a loss (equity below 10,000 and above 9,000), and has not continued trading for more than 15 trading days since the last transaction, it will be deemed as automatically abandoning the live trading account, and the platform has the right to clear the account funds."
+    },
+    {
+      "id": 5,
+      "question": "5. Trading Specifications",
+      "answer": "|Item|XAUUSDnn (Gold)|XAGUSDnn (Silver)|\n|Contract Size|100 oz per lot|5,000 oz per lot|\n|Quotation Unit|USD per oz|USD per oz|\n|Minimum Tick|0.01 USD/oz|0.001 USD/oz|\n|Spread|Floating ~30 pips|Floating|\n|Margin Requirement per Lot|20,000 USD|20,000 USD|\n|Hedged Margin|Based on the larger legs|Based on the larger legs|\n|Pending Order Distance|100 pips away from market price|100 pips away from market price|\n|Minimum Volume Size|0.01 lot|0.01 lot|\n|Stepping|0.01 lot|0.01 lot|\n|Overnight Swap|Long: 55 USD/lot<br/>Short: 20 USD/lot<br/>Triple charge on Wednesday (subject to the platform)|Long: 20 USD/lot<br/>Short: 10 USD/lot<br/>Triple charge on Wednesday (subject to the platform)|\n|Forced Liquidation|Trading hours: Equity/Margin Requirement ≤80%<br/>Weekend/Holiday: Equity/Margin Requirement ≤100%|Trading hours: Equity/Margin Requirement ≤80%<br/>Weekend/Holiday: Equity/Margin Requirement ≤100%|\n|Trading Hours|Mon–Thu: 01:00 – 24:00<br/>Fri: 01:00 – 23:30 (holidays subject to notice)|Mon–Thu: 01:00 – 24:00<br/>Fri: 01:00 – 23:30 (holidays subject to notice)|\n|Server Timezone|DST: GMT+3 (UTC+3)<br/>Standard: GMT+2 (UTC+2)|DST: GMT+3 (UTC+3)<br/>Standard: GMT+2 (UTC+2)|"
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "How do I sign up for the trader evaluation?",
+      "answer": "You can sign up for the Xtrader Trader Evaluation via the following official channels:\n- Official website: https://xtrader.xwgold19.com/\n- Xtrader WeChat Service Account: bottom menu → [Free Evaluation]"
+    },
+    {
+      "id": 2,
+      "question": "What are the rules of the trader evaluation?",
+      "answer": "The trader evaluation consists of Stage 1 and Stage 2, and the rules are the same for both stages. You can advance to the next stage once you meet all three conditions below:\n- Cumulative profit ≥ 10%\n- Total trades completed ≥ 30 lots (closed positions)\n- Total ≥ 10 trading days\nThere are no additional restrictions beyond the above.\nFor details: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
+    },
+    {
+      "id": 3,
+      "question": "Why do I need identity verification (KYC) if this is not live trading?",
+      "answer": "Identity verification helps prevent multiple accounts, repeated participation, and other issues, ensuring that evaluation results are authentic, fair, and verifiable. It also provides the compliance basis for issuing a live account later."
+    },
+    {
+      "id": 4,
+      "question": "How do I complete identity verification (KYC)? Is there a tutorial?",
+      "answer": "Yes. Please follow the Xtrader WeChat Service Account and view the KYC tutorial here: https://mp.weixin.qq.com/s/27susSs-t-BDgQ34O_2WyQ"
+    },
+    {
+      "id": 5,
+      "question": "How can I invite friends to join the evaluation?",
+      "answer": "Go to [Profile] and share your exclusive invitation code with your friends. After a successful invitation, you can view the records under [Referral]."
+    },
+    {
+      "id": 6,
+      "question": "If I refer someone and they pass, will I receive a commission reward?",
+      "answer": "Yes. If the friend you referred successfully receives a live account and generates profit sharing, you will receive 10% of the company's profit as a referral reward."
+    },
+    {
+      "id": 7,
+      "question": "Is the trader evaluation paid?",
+      "answer": "No. There is no fee. All users who complete identity verification (KYC) can participate in the trader evaluation for free."
+    },
+    {
+      "id": 8,
+      "question": "What's the difference between the new evaluation and the previous one?",
+      "answer": "The evaluation rules remain the same. The difference is:\n- Previously, if you failed Stage 1, your existing trading account would be reset\n- Now, if you fail Stage 1, the system will issue a brand-new trading account"
+    },
+    {
+      "id": 9,
+      "question": "I can't find the broker/server provider 'xinwang'.",
+      "answer": "We recommend:\n- Turn off Wi-Fi and try using mobile data\n- Or download the latest MT5 trading app from the official website"
+    },
+    {
+      "id": 10,
+      "question": "When installing MT5 on my computer, a pop-up asks for proxy server settings.",
+      "answer": "In the Server field, enter: xinwang. Leave the other fields blank and click [OK].\nIf you still can't install it, we recommend using Google Chrome and downloading from the official website:\n- Official website: www.xwgold19.com"
+    },
+    {
+      "id": 11,
+      "question": "It shows authorization failed / I logged in but can't place a new order.",
+      "answer": "Please copy again or manually enter your trading password. Extra spaces may be added when copying, which can cause authorization failures, login issues, or inability to place orders."
+    },
+    {
+      "id": 12,
+      "question": "Is the requirement of 30 lots too high?",
+      "answer": "The core goal of the evaluation is to identify traders with long-term, stable profitability. Too few trades or too short a period makes it difficult to fully assess strategy and risk control, as well as determine the appropriate live capital allocation later."
+    },
+    {
+      "id": 13,
+      "question": "Does one buy count as 1 lot and one sell count as 1 lot?",
+      "answer": "A “lot” refers to position size, not the number of trades.\n- It is calculated based on the lot size when opening a position\n- It is counted only after the position is closed\n- All data is based on daily closed-position records"
+    },
+    {
+      "id": 14,
+      "question": "The evaluation seems difficult.",
+      "answer": "The evaluation is indeed challenging, but overall it is less difficult than many competitors. Many traders have successfully passed and obtained live accounts. Since Stage 1 and Stage 2 follow the same rules, if you pass Stage 1, Stage 2 is usually not a big issue."
+    },
+    {
+      "id": 15,
+      "question": "Are there requirements for daily profit, daily drawdown, or holding time?",
+      "answer": "No. You only need to meet these three conditions: 10% profit + 30 lots + 10 trading days. There are no other restrictions.\nFor details: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
+    },
+    {
+      "id": 16,
+      "question": "What is the leverage in the evaluation trading account?",
+      "answer": "The evaluation uses a fixed-margin model. Gold/Silver: margin is USD 20,000 per lot.\nLeverage = Contract value / Margin = Price × Contract size / Margin. The contract size is 100.\nExamples:\n- Gold price USD 4,000 → leverage about 20x\n- Gold price USD 5,000 → leverage about 25x"
+    },
+    {
+      "id": 17,
+      "question": "How much live capital can I get in the end? How is it evaluated?",
+      "answer": "We will comprehensively evaluate your Stage 2 trading data, including Sharpe ratio, profit factor, returns, win/loss ratio, drawdown, position sizing, etc., to determine the final live capital allocation."
+    },
+    {
+      "id": 18,
+      "question": "Can I retake the evaluation?",
+      "answer": "Yes.\n- If you fail Stage 1: the system automatically issues a new evaluation account every weekend; no need to sign up again\n- If you fail Stage 2: you can retake via a referrer or by using a Revive Card"
+    },
+    {
+      "id": 19,
+      "question": "Your 30% profit split seems a bit low!",
+      "answer": "After passing the 2-stage evaluation, you can trade a live account without using your own capital. If your trading remains stable and profitable, after several profit-sharing cycles you can use the profit share earned from the company's starting capital as drawdown buffer to increase the profit split ratio:\n- Funding ratio 10% → profit split 50%\n- 20% → 70%\n- 30% → 90%"
+    },
+    {
+      "id": 20,
+      "question": "If I pass the evaluation, can the live capital be increased?",
+      "answer": "Yes. The company will periodically evaluate accounts with consistent and stable profits and adjust the capital allocation accordingly. Strong performers will have greater growth opportunities."
+    },
+    {
+      "id": 21,
+      "question": "How much initial capital will I receive for live trading?",
+      "answer": "The initial live capital is typically USD 1,000–10,000. The actual amount will be evaluated and adjusted gradually based on your trading performance. For traders who pass the evaluation, the initial live account is often USD 2,000–3,000 or more."
+    }
+  ],
+  "company": {
+    "hero": {
+      "titleEm": "Why",
+      "titleMain": "Choose XW Gold?",
+      "cards": [
+        {
+          "parts": [
+            {
+              "text": "Hong Kong Gold Exchange",
+              "hl": false
+            },
+            {
+              "text": "AA Member No.019",
+              "hl": true
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "text": "Holding",
+              "hl": false
+            },
+            {
+              "text": "AA",
+              "hl": true
+            },
+            {
+              "text": "market trading license",
+              "hl": false
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "text": "Qualified for electronic trading",
+              "hl": false
+            }
+          ]
+        }
+      ],
+      "desc": "Leveraging Hong Kong’s status as a global financial hub, we provide clients with one-stop, professional trading services for spot gold, silver, and other precious metals products."
+    },
+    "stats": [
+      {
+        "key": "s1",
+        "labelParts": [
+          {
+            "text": "Clients served",
+            "hl": false
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "150, 000+",
+            "hl": true
+          }
+        ]
+      },
+      {
+        "key": "s2",
+        "labelParts": [
+          {
+            "text": "Focus on",
+            "hl": false
+          },
+          {
+            "text": "Gold",
+            "hl": true
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "Silver",
+            "hl": true
+          },
+          {
+            "text": "Precious metals",
+            "hl": false
+          }
+        ]
+      },
+      {
+        "key": "s3",
+        "labelParts": [
+          {
+            "text": "Regulatory license",
+            "hl": true
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "Compliant",
+            "hl": false
+          }
+        ]
+      },
+      {
+        "key": "s4",
+        "labelParts": [
+          {
+            "text": "7x24",
+            "hl": true
+          },
+          {
+            "text": "hours",
+            "hl": false
+          }
+        ],
+        "valueParts": [
+          {
+            "text": "Multilingual support",
+            "hl": false
+          }
+        ]
+      }
+    ],
+    "sections": {
+      "certsTitle": "Authoritative Certificates",
+      "contactTitle": "Contact"
+    },
+    "certs": {
+      "cert1": {
+        "title": "Membership Certificate",
+        "org": "(Hong Kong Gold Exchange)"
+      },
+      "cert2": {
+        "title": "Class A Precious Metals Dealer",
+        "org": "(Hong Kong Customs)"
+      },
+      "cert3": {
+        "title": "Business License",
+        "org": "(Hong Kong Gold Exchange)"
+      }
+    },
+    "features": {
+      "f1": {
+        "title": "Authoritative Qualifications & Compliant Regulation",
+        "desc": "A major precious metals trading platform in Hong Kong with a long history, primarily offering spot gold, silver and other precious metals trading services.\n\nThe exchange implements a strict membership system and regulatory mechanisms to ensure that trading is open, fair, and transparent. As an important part of an international financial center, the Hong Kong Gold Exchange provides global investors with highly liquid and diversified trading instruments and convenient settlement services."
+      },
+      "f2": {
+        "title": "15+ years of experience in precious metals services",
+        "desc": "Xinwang Gold's team has an average of over 15 years of professional service experience in the field of spot gold, silver, and other precious metals investment.\n\nWe have a deep understanding of global market operating rules and market characteristics, and can provide investors with professional analysis, strategy planning and 1-on-1 services to help clients seize opportunities, effectively manage risks and achieve long-term steady growth in a volatile market environment."
+      },
+      "f3": {
+        "title": "Genuine STP Brokers",
+        "desc": "Xinwang Gold is a true STP broker, where all client trading orders are directly connected to the global market through the Straight Through Processing model.\n\nNo human intervention is required, ensuring transparent pricing, rapid execution, and fairness. We match trades with multiple top-tier liquidity providers, offering clients a low-spread, high-liquidity, and stable trading environment, making every trade closer to the true market price."
+      }
+    },
+    "contact": {
+      "biz": "Business:",
+      "email": "Email:",
+      "addressLabel": "Address:",
+      "phone": "(+852) 53723536",
+      "emailValue": "marketing@xwgold19.com",
+      "address": "Room 1006, 10/F, Gold & Silver Commercial Building, 12-18 Mercer Street, Sheung Wan, Hong Kong"
+    }
+  },
+  "privacy": {
+    "title": "Chính sách Quyền riêng tư",
+    "intro": [
+      "Kính gửi Người dùng Xtrader APP,",
+      "Chào mừng bạn sử dụng sản phẩm và dịch vụ của chúng tôi (sau đây gọi là \"Xtrader APP\" hoặc \"chúng tôi\"). Chính sách Quyền riêng tư Xtrader APP (\"Chính sách\") được chúng tôi ban hành. Chúng tôi hiểu rõ tầm quan trọng của thông tin cá nhân đối với bạn và trân trọng sự tin tưởng bạn dành cho chúng tôi, đồng thời tuân thủ nghiêm ngặt các luật và quy định hiện hành để bảo vệ thông tin cá nhân của bạn.",
+      "Để cung cấp dịch vụ chính xác và đầy đủ, Xtrader APP sẽ xử lý thông tin cá nhân của bạn theo Chính sách này với sự thận trọng và cẩn trọng cao nhất. Trừ các trường hợp được quy định rõ trong Chính sách, Xtrader APP sẽ không tiết lộ hoặc cung cấp thông tin cá nhân của bạn cho bên thứ ba mà không có sự đồng ý bằng văn bản trước của bạn. Chúng tôi có thể cập nhật Chính sách này theo yêu cầu vận hành và pháp lý.",
+      "Trước khi sử dụng sản phẩm và dịch vụ, vui lòng đọc và hiểu đầy đủ tất cả điều khoản của Chính sách, đặc biệt chú ý các điều khoản quan trọng được in đậm. Chính sách Quyền riêng tư này là một phần không thể tách rời của Thỏa thuận Dịch vụ Xtrader APP.",
+      "Nếu bạn có bất kỳ câu hỏi, ý kiến hoặc đề xuất nào về Chính sách này, vui lòng liên hệ với chúng tôi qua thông tin liên hệ chính thức ở cuối tài liệu.",
+      "Khi bạn nhấn hoặc chọn \"Đồng ý\" trong APP và gửi xác nhận, bạn xác nhận đã đọc, hiểu và tự nguyện đồng ý với tất cả điều khoản của Chính sách này, đồng thời cho phép Xtrader APP thu thập, sử dụng, lưu trữ và tiết lộ thông tin cá nhân của bạn theo quy định tại đây."
+    ],
+    "tocTitle": "Mục lục",
+    "toc": [
+      "Phạm vi áp dụng",
+      "Cách chúng tôi thu thập thông tin cá nhân",
+      "Cách chúng tôi sử dụng thông tin cá nhân",
+      "Cách chúng tôi tiết lộ thông tin cá nhân",
+      "Cách chúng tôi sử dụng Cookie",
+      "Cách chúng tôi lưu trữ và bảo vệ thông tin cá nhân",
+      "Quyền của bạn",
+      "Cách chúng tôi bảo vệ thông tin trẻ vị thành niên",
+      "Lưu trữ dữ liệu khuôn mặt và chia sẻ bên thứ ba",
+      "Nhà cung cấp bên thứ ba và dịch vụ",
+      "Cách Chính sách này được cập nhật",
+      "Cách liên hệ với chúng tôi"
+    ],
+    "sections": [
+      {
+        "title": "1. Phạm vi áp dụng",
+        "paragraphs": [
+          "1.1 Định nghĩa Thông tin Cá nhân: Thông tin được ghi lại dưới dạng điện tử hoặc hình thức khác có thể nhận dạng hoặc liên kết với một cá nhân cụ thể, bao gồm tên, ngày sinh, giấy tờ tùy thân, thông tin sinh trắc học, email, địa chỉ, thông tin tài khoản, tình trạng tài sản, vị trí thời gian thực, v.v.",
+          "1.2 Định nghĩa Thông tin Cá nhân Nhạy cảm: Thông tin mà nếu bị rò rỉ hoặc sử dụng trái phép có thể gây tổn hại đến nhân phẩm hoặc an toàn cá nhân/tài sản, bao gồm thông tin sinh trắc học, tôn giáo, danh tính đặc biệt, thông tin y tế, tài khoản ngân hàng, hành trình di chuyển và toàn bộ thông tin cá nhân của trẻ em dưới 14 tuổi.",
+          "1.3 Ranh giới áp dụng: Chính sách này chỉ áp dụng cho sản phẩm và dịch vụ của chính Xtrader APP, không áp dụng cho sản phẩm/dịch vụ bên thứ ba do tổ chức hoặc cá nhân khác cung cấp độc lập."
+        ]
+      },
+      {
+        "title": "2. Cách chúng tôi thu thập thông tin cá nhân",
+        "paragraphs": [
+          "Trong quá trình bạn sử dụng dịch vụ Xtrader APP, chúng tôi tuân thủ nguyên tắc hợp pháp, chính đáng và cần thiết, chỉ thu thập thông tin cần thiết cho chức năng cơ bản của sản phẩm."
+        ],
+        "subsections": [
+          {
+            "title": "2.1 Đăng ký, xác minh danh tính và dịch vụ tài khoản",
+            "paragraphs": [
+              "2.1.1 Đăng ký email: Khi bạn đăng ký bằng email và mã xác minh, chúng tôi thu thập địa chỉ email của bạn.",
+              "2.1.3 Xác minh danh tính bằng nhận diện khuôn mặt: Để hoàn thành xác minh danh tính tài khoản (KYC), khôi phục tài khoản, kiểm tra bảo mật và mở khóa rủi ro, Xtrader APP cung cấp xác minh bằng khuôn mặt. Nếu bạn chọn bật tính năng này, sau khi bạn chủ động cấp quyền camera, chúng tôi tạm thời thu thập hình ảnh sinh trắc học khuôn mặt để so khớp danh tính:"
+            ],
+            "bullets": [
+              "Dữ liệu khuôn mặt chỉ dùng để so khớp thời gian thực xác nhận chủ tài khoản; ảnh gốc không được lưu trữ lâu dài trên đám mây sau xác minh;",
+              "Thông tin sinh trắc học khuôn mặt chỉ dùng cho xác minh bảo mật tài khoản Xtrader APP, không dùng cho quảng cáo hoặc tiếp thị; dữ liệu khuôn mặt chỉ được chia sẻ với nhà cung cấp dịch vụ xác minh danh tính (Alibaba Cloud) theo Mục 2.1.5 nhằm hoàn thành KYC;",
+              "Dữ liệu sinh trắc học khuôn mặt được mã hóa và lưu trữ riêng biệt, tách biệt vật lý khỏi dữ liệu nghiệp vụ thông thường."
+            ],
+            "footer": "2.1.4 Thông tin tải lên/chia sẻ tự nguyện: Nội dung và thông tin bạn chủ động chia sẻ, tải lên hoặc gửi qua APP."
+          },
+          {
+            "title": "2.1.5 Thời hạn lưu trữ dữ liệu khuôn mặt và chia sẻ bên thứ ba",
+            "paragraphs": [
+              "Khi bạn chủ động bắt đầu xác minh danh tính bằng nhận diện khuôn mặt, chúng tôi và nhà cung cấp dịch vụ xác minh danh tính được chỉ định sẽ thu thập hình ảnh khuôn mặt và dữ liệu phát hiện sống từ camera thiết bị của bạn, chỉ nhằm mục đích xác minh danh tính tài khoản (KYC)."
+            ],
+            "bullets": [
+              "Thời hạn lưu trữ của chúng tôi và lý do: Ảnh khuôn mặt gốc được xóa khỏi máy chủ của chúng tôi ngay sau khi hoàn tất so khớp thời gian thực (thường trong vài phút). Chúng tôi không lưu trữ vô thời hạn ảnh sinh trắc học khuôn mặt gốc. Chúng tôi chỉ lưu bản ghi kết quả xác minh đã mã hóa (ví dụ: trạng thái đạt/không đạt, thời gian xác minh, mã giao dịch) tối đa 5 năm kể từ ngày xác minh để tuân thủ yêu cầu lưu trữ hồ sơ AML/KYC, giải quyết tranh chấp và phòng chống gian lận. Tất cả bản ghi xác minh được xóa trong vòng 30 ngày sau khi hủy tài khoản.",
+              "Bên thứ ba nhận dữ liệu khuôn mặt: Alibaba Cloud Computing Co., Ltd. (qua SDK Xác minh Danh tính Thực / Nhận diện Khuôn mặt Cấp tài chính, bao gồm AP-FaceDetectModule và VerifyIntlUniPlugin).",
+              "Lý do chia sẻ: Chúng tôi sử dụng dịch vụ xác minh danh tính và phát hiện sống khuôn mặt được chứng nhận của Alibaba Cloud để so khớp sinh trắc học thời gian thực với thông tin giấy tờ tùy thân do chính phủ cấp. Việc thuê ngoài kỹ thuật này là cần thiết để cung cấp xác minh KYC an toàn theo tiêu chuẩn ngành.",
+              "Bên thứ ba có lưu trữ dữ liệu khuôn mặt không: Có. Trong quá trình xác minh, hình ảnh khuôn mặt của bạn được mã hóa và truyền đến máy chủ bảo mật của Alibaba Cloud để phát hiện sống và so khớp danh tính.",
+              "Thời hạn lưu trữ của bên thứ ba và lý do: Alibaba Cloud chỉ lưu trữ tạm thời ảnh khuôn mặt gốc trong thời gian cần thiết để hoàn tất xác minh và kiểm tra chống gian lận liên quan. Ảnh gốc được xóa trong vòng 24 giờ sau khi xác minh hoàn tất. Alibaba Cloud lưu nhật ký xác minh đã ẩn danh và bản ghi kiểm toán tối đa 180 ngày cho mục đích phòng chống gian lận và tuân thủ, sau đó tự động xóa. Alibaba Cloud không sử dụng dữ liệu khuôn mặt của bạn cho quảng cáo hoặc tiếp thị. Chi tiết: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html"
+            ]
+          },
+          {
+            "title": "2.2 Thiết bị, quyền và thu thập tự động",
+            "paragraphs": [
+              "Dựa trên quyền thiết bị bạn cấp khi cài đặt và sử dụng Xtrader APP, chúng tôi ghi nhận dữ liệu thiết bị: model, số serial, hệ điều hành, phiên bản client, MAC, độ phân giải, mã định danh thiết bị (IDFA, IMEI, Android ID, v.v.), dữ liệu vị trí (IP, GPS, WLAN, Bluetooth); thông tin sinh trắc học (khuôn mặt chỉ dùng cho xác minh danh tính tài khoản APP, dữ liệu gốc không lưu đầy đủ trên đám mây)."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Cách chúng tôi sử dụng thông tin cá nhân",
+        "paragraphs": [
+          "Chúng tôi sử dụng thông tin đã thu thập tuân thủ pháp luật và thỏa thuận với bạn. Nếu cần sử dụng ngoài phạm vi dưới đây, chúng tôi sẽ thông báo trước và xin sự đồng ý rõ ràng của bạn."
+        ],
+        "subsections": [
+          {
+            "title": "3.1 Mục đích sử dụng cơ bản",
+            "paragraphs": [
+              "3.1.1 Thông báo dịch vụ: Gửi thông báo sản phẩm/dịch vụ dựa trên thông tin của bạn; có thể chia sẻ dữ liệu đã ẩn danh với đối tác tuân thủ.",
+              "3.1.2 Phân tích vận hành nội bộ: Kiểm toán nội bộ, thống kê, sửa lỗi hệ thống, nghiên cứu hành vi người dùng."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Cách chúng tôi tiết lộ thông tin cá nhân",
+        "paragraphs": [
+          "Xtrader APP chỉ tiết lộ thông tin cá nhân của bạn trong các trường hợp pháp lý hoặc đã thỏa thuận sau:",
+          "4.1 Có sự đồng ý bằng văn bản trước của bạn;",
+          "4.2 Cần thiết để hoàn thành sản phẩm/dịch vụ bạn yêu cầu;",
+          "4.3 Theo yêu cầu của cơ quan hành chính, tư pháp theo văn bản chính thức;",
+          "4.4 Khi bạn vi phạm pháp luật hoặc thỏa thuận dịch vụ;",
+          "4.5 Tranh chấp sở hữu trí tuệ;",
+          "4.6 Tranh chấp giao dịch;",
+          "4.7 Tiết lộ xuyên biên giới theo quy định giám sát Hồng Kông và nước ngoài."
+        ],
+        "subsections": [
+          {
+            "title": "4.8 Các trường hợp pháp lý không cần sự đồng ý của bạn",
+            "bullets": [
+              "4.8.1 An ninh quốc gia, quốc phòng;",
+              "4.8.2 An toàn công cộng, y tế công cộng, lợi ích công cộng quan trọng;",
+              "4.8.3 Điều tra, truy tố, xét xử hình sự;",
+              "4.8.4 Bảo vệ tính mạng hoặc tài sản quan trọng khi không thể kịp thời có sự đồng ý;",
+              "4.8.5 Thông tin bạn đã công khai;",
+              "4.8.6 Thông tin công khai thu thập hợp pháp từ kênh công khai;",
+              "4.8.7 Cần thiết để ký/k thực hiện hợp đồng theo yêu cầu của bạn;",
+              "4.8.8 Đảm bảo APP/dịch vụ vận hành ổn định;",
+              "4.8.9 Báo chí hợp pháp;",
+              "4.8.10 Các trường hợp khác theo pháp luật và quy tắc nền tảng."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. Cách chúng tôi sử dụng Cookie",
+        "paragraphs": [
+          "5.1 Mục đích cơ bản: Ghi Cookie để đảm bảo đăng nhập và các chức năng khác hoạt động bình thường.",
+          "5.2 Phân tích: Cookie dùng để thống kê hiệu quả quảng bá; dữ liệu được ẩn danh.",
+          "5.3 Ràng buộc: Mọi thông tin thu qua Cookie đều tuân theo Chính sách này."
+        ]
+      },
+      {
+        "title": "6. Cách chúng tôi lưu trữ và bảo vệ thông tin cá nhân",
+        "paragraphs": [
+          "Chúng tôi áp dụng biện pháp bảo mật tiêu chuẩn ngành để bảo vệ thông tin người dùng."
+        ],
+        "subsections": [
+          {
+            "title": "6.1 Quy tắc lưu trữ",
+            "bullets": [
+              "Email đăng ký: lưu trong thời gian sử dụng bình thường; xóa ngay khi hủy tài khoản;",
+              "Ảnh xác minh khuôn mặt tạm thời: ảnh gốc được xóa khỏi máy chủ của chúng tôi ngay sau so khớp thời gian thực (thường trong vài phút); chúng tôi không lưu trữ vô thời hạn ảnh khuôn mặt gốc;",
+              "Bản ghi kết quả xác minh khuôn mặt đã mã hóa: lưu tối đa 5 năm kể từ ngày xác minh để đáp ứng yêu cầu lưu trữ hồ sơ AML/KYC; xóa trong vòng 30 ngày sau khi hủy tài khoản;",
+              "Ảnh khuôn mặt gốc của bên thứ ba (Alibaba Cloud): xóa trong vòng 24 giờ sau xác minh; nhật ký kiểm toán đã ẩn danh lưu tối đa 180 ngày, theo Mục 2.1.5."
+            ]
+          },
+          {
+            "title": "6.2 Biện pháp bảo mật",
+            "paragraphs": [
+              "6.2.1 Bảo mật tài khoản: Mật khẩu mã hóa không thể đảo ngược; khôi phục qua email đăng ký.",
+              "6.2.2 Bảo vệ backend: Dữ liệu mã hóa, cách ly; kiểm soát truy cập nội bộ nghiêm ngặt.",
+              "6.2.3 Lưu ý người dùng: Bảo vệ tài khoản và thông tin cá nhân; liên hệ hỗ trợ ngay nếu bị rò rỉ."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7. Quyền của bạn",
+        "paragraphs": [
+          "Theo pháp luật hiện hành, bạn có các quyền sau:"
+        ],
+        "subsections": [
+          {
+            "title": "7.1 Quyền thông tin cơ bản",
+            "bullets": [
+              "Truy cập và sao chép thông tin cá nhân;",
+              "Yêu cầu sửa/cập nhật thông tin không chính xác;",
+              "Hạn chế hoặc từ chối sử dụng cho tiếp thị;",
+              "Yêu cầu xóa thông tin cá nhân;",
+              "Yêu cầu giải thích bằng văn bản về quy tắc xử lý thông tin."
+            ],
+            "footer": "Liên hệ qua thông tin cuối Chính sách. Chúng tôi có thể từ chối yêu cầu có bằng chứng hợp lý về gian lận hoặc gây hại cho quyền riêng tư bên thứ ba."
+          },
+          {
+            "title": "7.2 Quyền rút lại sự đồng ý",
+            "paragraphs": [
+              "Bạn có thể rút lại sự đồng ý xử lý thông tin bất cứ lúc nào; việc rút lại không ảnh hưởng đến xử lý hợp pháp trước đó."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8. Cách chúng tôi bảo vệ thông tin trẻ vị thành niên",
+        "paragraphs": [
+          "Xtrader APP chủ yếu dành cho người dùng trưởng thành. Trẻ vị thành niên phải có sự đồng ý rõ ràng của cha mẹ hoặc người giám hộ hợp pháp trước khi sử dụng.",
+          "Nếu bạn là trẻ vị thành niên, vui lòng để người giám hộ đọc Chính sách này và chỉ sử dụng APP khi có sự đồng ý của người giám hộ.",
+          "Người giám hộ có thể liên hệ qua kênh chính thức nếu có thắc mắc về xử lý thông tin trẻ vị thành niên."
+        ]
+      },
+      {
+        "title": "9. Thu thập, thời hạn lưu trữ và chia sẻ dữ liệu khuôn mặt",
+        "paragraphs": [
+          "Xtrader APP chỉ sử dụng nhận diện khuôn mặt cho xác minh danh tính tài khoản (KYC). Phần này giải thích rõ dữ liệu khuôn mặt được thu thập, thời gian lưu trữ, lý do lưu trữ trong từng khoảng thời gian cụ thể và bên thứ ba được chia sẻ. Chúng tôi không lưu trữ vô thời hạn ảnh khuôn mặt gốc."
+        ],
+        "subsections": [
+          {
+            "title": "9.1 Dữ liệu khuôn mặt chúng tôi thu thập",
+            "bullets": [
+              "Hình ảnh khuôn mặt từ camera thiết bị khi bạn chủ động bắt đầu xác minh;",
+              "Dữ liệu phát hiện sống để xác nhận bạn có mặt trực tiếp trong quá trình xác minh;",
+              "Siêu dữ liệu kết quả xác minh (trạng thái đạt/không đạt, thời gian xác minh, mã giao dịch)."
+            ]
+          },
+          {
+            "title": "9.2 Thời hạn lưu trữ dữ liệu khuôn mặt và lý do (phía chúng tôi)",
+            "bullets": [
+              "Ảnh khuôn mặt gốc (máy chủ của chúng tôi): Xóa ngay sau khi hoàn tất so khớp thời gian thực, thường trong vài phút. Lý do: ảnh sinh trắc học gốc chỉ cần cho so khớp tức thì và không cần giữ sau khi xác minh kết thúc. Chúng tôi không lưu vô thời hạn ảnh khuôn mặt gốc.",
+              "Bản ghi kết quả xác minh đã mã hóa (máy chủ của chúng tôi): Lưu tối đa 5 năm kể từ ngày xác minh. Lý do: quy định AML/KYC tài chính yêu cầu lưu hồ sơ xác minh danh tính để giải quyết tranh chấp và chống gian lận. Xóa trong vòng 30 ngày sau khi bạn xóa tài khoản.",
+              "Dữ liệu tạm thời trên thiết bị trong phiên xác minh: Chỉ tồn tại trong phiên xác minh đang diễn ra, không lưu sau khi phiên kết thúc."
+            ]
+          },
+          {
+            "title": "9.3 Lưu trữ dữ liệu khuôn mặt bên thứ ba (Alibaba Cloud)",
+            "bullets": [
+              "Chia sẻ với: Alibaba Cloud Computing Co., Ltd. (SDK Xác minh Danh tính Thực / Nhận diện Khuôn mặt Cấp tài chính, bao gồm AP-FaceDetectModule và VerifyIntlUniPlugin).",
+              "Lý do chia sẻ: thực hiện phát hiện sống và so khớp sinh trắc học thời gian thực với thông tin giấy tờ tùy thân để hoàn thành KYC an toàn, tuân thủ.",
+              "Ảnh khuôn mặt gốc (Alibaba Cloud): Xóa trong vòng 24 giờ sau khi xác minh hoàn tất. Lý do: chỉ lưu trong thời gian tối thiểu cần thiết để hoàn thành xác minh và kiểm tra chống gian lận.",
+              "Nhật ký xác minh đã ẩn danh (Alibaba Cloud): Lưu tối đa 180 ngày, sau đó tự động xóa. Lý do: chống gian lận và tuân thủ quy định. Không dùng cho quảng cáo hoặc tiếp thị.",
+              "Chính sách Quyền riêng tư Alibaba Cloud: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "10. Nhà cung cấp bên thứ ba và dịch vụ",
+        "paragraphs": [
+          "10.1 SDK Xác minh Danh tính Thực Alibaba Cloud (Nhận diện Khuôn mặt)",
+          "Nhà phát triển: Alibaba Cloud Computing Co., Ltd.",
+          "Mục đích: Xác minh danh tính tài khoản (KYC), phát hiện sống khuôn mặt, so khớp sinh trắc học",
+          "Phạm vi thu thập: Hình ảnh khuôn mặt, dữ liệu phát hiện sống, thông tin thiết bị cần thiết cho xác minh",
+          "Cách thu thập: Thu thập khi bạn chủ động bắt đầu xác minh khuôn mặt và cấp quyền camera",
+          "Chia sẻ và lưu trữ dữ liệu khuôn mặt: Theo Mục 9, dữ liệu khuôn mặt chỉ được chia sẻ với Alibaba Cloud để xác minh; ảnh gốc xóa trong 24 giờ; nhật ký kiểm toán lưu tối đa 180 ngày",
+          "Chính sách Quyền riêng tư Alibaba Cloud: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202107281509_18386.html",
+          "10.2 Umeng+ SDK",
+          "Nhà phát triển: Beijing Ruixun Lingtong Technology Co., Ltd.",
+          "Mục đích: Thống kê APP và chống gian lận",
+          "Phạm vi thu thập: Mã định danh thiết bị, vị trí, thông tin mạng",
+          "Cách thu thập: Tự động sau khi bạn đồng ý Chính sách Quyền riêng tư",
+          "Chính sách Quyền riêng tư Umeng+: https://www.umeng.com/page/policy"
+        ]
+      },
+      {
+        "title": "11. Cách Chính sách này được cập nhật",
+        "paragraphs": [
+          "Chúng tôi có thể sửa đổi Chính sách này theo thay đổi pháp luật hoặc nhu cầu vận hành. Sau khi cập nhật, chúng tôi sẽ thông báo qua APP, thông báo web hoặc email. Việc tiếp tục sử dụng Xtrader APP được coi là chấp nhận các điều khoản mới."
+        ]
+      },
+      {
+        "title": "12. Cách liên hệ với chúng tôi",
+        "paragraphs": [
+          "Đối với câu hỏi, đề xuất hoặc yêu cầu về truy cập, sửa, xóa thông tin, rút lại sự đồng ý, bảo mật tài khoản, nhận diện khuôn mặt hoặc thay đổi email, vui lòng liên hệ:",
+          "Địa chỉ: Room 1006, Tầng 10, Gold & Silver Commercial Building, 12-18 Mercer Street, Sheung Wan, Hong Kong",
+          "Email: xtrader@xwgold19.com",
+          "Thời gian phản hồi: Trong vòng 15 ngày làm việc kể từ khi nhận yêu cầu."
+        ]
+      }
+    ]
+  },
+  "refundPolicy": [
+    {
+      "title": "I. Special Agreement on Contract Cancellation and Refunds",
+      "paragraphs": [
+        "I hereby acknowledge and agree that the services provided by this platform are virtual digital services. From the date the order payment is successful and the service is activated (including but not limited to account creation, permission granting, and activation of the simulated trading system), the service has been irreversibly delivered and begins to be consumed. Therefore, the 7-day no-reason cancellation/refund policy does not apply.",
+        "I confirm that:"
+      ],
+      "bullets": [
+        "1. After successful payment, regardless of whether I actually log in, use, or start simulated trading, the order cannot be cancelled and no refund can be requested.",
+        "2. Refund requests made for personal reasons (such as giving up, failing the assessment, leaving the account unused, operational mistakes, change of mind, etc.) may be directly rejected by the platform.",
+        "3. If I violate the platform’s Terms and Conditions and related rules, the platform may freeze the account, terminate the service, or cancel eligibility in accordance with the agreement, and no paid fees will be refunded."
+      ]
+    },
+    {
+      "title": "II. Defective Performance",
+      "paragraphs": [],
+      "bullets": [
+        "The platform shall not be responsible for refunds or compensation for service abnormalities caused by non-platform reasons such as improper user operation, network issues, or third-party software failures."
+      ]
+    },
+    {
+      "title": "III. Acknowledgement Statement",
+      "paragraphs": [
+        "I have carefully read and fully understood the above cancellation and refund policy, and I acknowledge the nature of the platform’s virtual services and the agreement that they are non-cancellable and non-refundable. I voluntarily accept these rules and bear the corresponding consequences.",
+        "Entering “I have acknowledged the above content” indicates that I have read, understood, and agreed to all terms of this policy."
+      ],
+      "bullets": []
+    }
+  ]
+}
