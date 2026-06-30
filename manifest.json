@@ -1,10 +1,10 @@
 {
-  "version": "2026-06-30",
+  "version": "2026-06-30b",
   "languages": [
     {
       "code": "vi-VN",
       "label": "Tiếng Việt",
-      "version": "1",
+      "version": "2",
       "uniLocale": "vi",
       "bucket": "vi",
       "fallback": "en-US"

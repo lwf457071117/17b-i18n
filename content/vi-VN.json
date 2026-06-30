@@ -2,167 +2,167 @@
   "rules": [
     {
       "id": 1,
-      "question": "# I. Project Background",
-      "answer": "The Xtrader team has long been deeply involved in the spot gold and silver CFD markets, possessing strong financial resources and a robust risk control system. To further leverage its professional advantages, it has officially launched the 'Proprietary Trader Recruitment Program,' seeking traders worldwide with professional skills and practical trading experience.\n\nXtrader Trader Assessment Registration Portal: \nXtrader Customer Service Account (Bottom Menu Bar → [Free Assessment])\n\nWith ample proprietary capital provided by Xtrader, traders participate in CFD trading in the global gold market using their own strategies and execution capabilities, achieving stable profits under controllable risk. Xtrader will establish a phased capital management mechanism, a strict risk control system, and scientific performance evaluation standards to ensure the team pursues long-term returns through stable operations.\n\nTo attract and motivate the outstanding talent, Xtrader has established a multi-faceted reward scheme that combines performance-based with long-term incentives along with a promotion mechanism. High-performing traders will gain greater control over capital allocation and higher profit sharing.\n\nXtrader adheres to the principles of 'Professionalism, stability, and win-win cooperation' and is committed to building a high-caliber worldwide proprietary trading team, enabling traders to realize their personal value while sharing the growth opportunities in the global gold market."
+      "question": "# I. Bối cảnh dự án",
+      "answer": "Đội ngũ Xtrader đã có thời gian dài tham gia sâu vào thị trường CFD vàng và bạc giao ngay, sở hữu nguồn lực tài chính mạnh mẽ và hệ thống kiểm soát rủi ro vững chắc. Để phát huy hơn nữa lợi thế chuyên môn của mình, Xtrader đã chính thức ra mắt 'Chương trình Tuyển dụng Nhà giao dịch Độc quyền', tìm kiếm trên toàn cầu những nhà giao dịch có kỹ năng chuyên môn và kinh nghiệm giao dịch thực tế.\n\nCổng đăng ký Đánh giá Nhà giao dịch Xtrader: \nTài khoản Chăm sóc Khách hàng Xtrader (Thanh menu phía dưới → [Đánh giá miễn phí])\n\nVới nguồn vốn độc quyền dồi dào do Xtrader cung cấp, nhà giao dịch tham gia giao dịch CFD trên thị trường vàng toàn cầu bằng chiến lược và năng lực thực thi của riêng mình, đạt được lợi nhuận ổn định trong mức rủi ro có thể kiểm soát. Xtrader sẽ thiết lập cơ chế quản lý vốn theo từng giai đoạn, hệ thống kiểm soát rủi ro nghiêm ngặt và tiêu chuẩn đánh giá hiệu suất khoa học để đảm bảo đội ngũ theo đuổi lợi nhuận dài hạn thông qua hoạt động ổn định.\n\nĐể thu hút và khích lệ những nhân tài xuất sắc, Xtrader đã xây dựng cơ chế khen thưởng đa chiều, kết hợp giữa thưởng theo hiệu suất với khích lệ dài hạn cùng cơ chế thăng tiến. Nhà giao dịch có hiệu suất cao sẽ có quyền kiểm soát lớn hơn đối với việc phân bổ vốn và tỷ lệ chia sẻ lợi nhuận cao hơn.\n\nXtrader tuân thủ nguyên tắc 'Chuyên nghiệp, ổn định và hợp tác đôi bên cùng có lợi', cam kết xây dựng một đội ngũ giao dịch độc quyền chất lượng cao trên toàn thế giới, giúp nhà giao dịch hiện thực hóa giá trị cá nhân đồng thời chia sẻ cơ hội tăng trưởng trên thị trường vàng toàn cầu."
     },
     {
       "id": 2,
-      "question": "# II. Recruitment targets and selection requirements",
-      "answer": "1. Target audience: Traders or teams with real-time trading experience in the financial markets.\n\n2. Selection Requirements\n1) Trader selection involves of two stages: simulated assessment and real account profit sharing.\n2) The simulated assessment consists of two stages: a preliminary test and a final test. Traders who pass both stages of assessments will be assigned a live trading account. The rules for both stages of assessments are identical.\n3) The size of the funds and the profit sharing ratio in a live trading account are entirely based on the trading performance of the trader's demo account. Live trading account funds range from USD 1,000 to USD 100,000; live trading profit sharing ratios range from 30% to 90%.\n4) Trading Instruments: Spot Gold, Spot Silver.\n\n## Simulated Assessment Rules (Same for both stages)\n1) Assessment Period: 90 days, starting from the first trade.\n2) Elimination: When the account's net value falls below 9000, the assessment is considered a failure. The system will automatically liquidate all positions and restrict the account's trading permissions. This assessment does not impose any restrictions on trading, and does not include intraday dynamic drawdowns.\n3) Profit Target: The account's net asset value must reach at least 11,000 when there are no open positions.\n4) Closed Position Requirement: The number of closed positions must reach at least 30 standard lots (not the number of trades/times).\n5) Minimum Trading Days: The account must have traded for a minimum of 10 trading days; the closing date is used as the statistical benchmark.\n6) Assessment Promotion Criterion: When the account simultaneously meets the following criteria: 10% profit + minimum 10 trading days + 30 closed positions, the challenge is considered successful. At this point, the trader needs to consult customer service and apply to proceed to the next stage of the account.\n7) Lot Count Statistics: For ease of statistics, a commission of USD 1 per lot is set. When reviewing closed trades, if the commission reaches USD 30 within the valid assessment period, it means the standard lot count requirement of 30 has been met.\n8) Margin: The fixed margin per lot is USD 20,000. Maximum opening position size = Account equity / Margin per lot of USD 20,000. For example, an account with USD 10,000 in capital has a maximum opening position size of 0.5 lots (10,000/20,000).\n9) Rule Updates: The assessment rules for this activity will be updated based on actual operational conditions; in case of any changes, the official explanation or customer service interpretation shall prevail."
+      "question": "# II. Đối tượng tuyển dụng và yêu cầu tuyển chọn",
+      "answer": "1. Đối tượng: Nhà giao dịch hoặc đội nhóm có kinh nghiệm giao dịch thực tế trên thị trường tài chính.\n\n2. Yêu cầu tuyển chọn\n1) Việc tuyển chọn nhà giao dịch gồm hai giai đoạn: đánh giá mô phỏng và chia sẻ lợi nhuận tài khoản thực.\n2) Đánh giá mô phỏng gồm hai giai đoạn: bài kiểm tra sơ bộ và bài kiểm tra cuối. Nhà giao dịch vượt qua cả hai giai đoạn đánh giá sẽ được cấp một tài khoản giao dịch thực. Quy tắc của cả hai giai đoạn đánh giá là giống nhau.\n3) Quy mô vốn và tỷ lệ chia sẻ lợi nhuận của tài khoản giao dịch thực hoàn toàn dựa trên hiệu suất giao dịch của tài khoản demo của nhà giao dịch. Vốn tài khoản giao dịch thực dao động từ 1.000 USD đến 100.000 USD; tỷ lệ chia sẻ lợi nhuận giao dịch thực dao động từ 30% đến 90%.\n4) Công cụ giao dịch: Vàng giao ngay, Bạc giao ngay.\n\n## Quy tắc đánh giá mô phỏng (Giống nhau ở cả hai giai đoạn)\n1) Thời gian đánh giá: 90 ngày, tính từ giao dịch đầu tiên.\n2) Loại: Khi giá trị ròng của tài khoản giảm xuống dưới 9000, đánh giá được xem là thất bại. Hệ thống sẽ tự động đóng toàn bộ vị thế và hạn chế quyền giao dịch của tài khoản. Đánh giá này không đặt bất kỳ hạn chế nào đối với giao dịch và không bao gồm mức sụt giảm động trong ngày.\n3) Mục tiêu lợi nhuận: Giá trị tài sản ròng của tài khoản phải đạt tối thiểu 11.000 khi không có vị thế mở.\n4) Yêu cầu vị thế đã đóng: Số vị thế đã đóng phải đạt tối thiểu 30 lô tiêu chuẩn (không phải số lần giao dịch).\n5) Số ngày giao dịch tối thiểu: Tài khoản phải giao dịch tối thiểu 10 ngày giao dịch; ngày đóng vị thế được dùng làm mốc thống kê.\n6) Tiêu chí thăng hạng đánh giá: Khi tài khoản đồng thời đáp ứng các tiêu chí sau: lợi nhuận 10% + tối thiểu 10 ngày giao dịch + 30 vị thế đã đóng, thử thách được xem là thành công. Lúc này, nhà giao dịch cần liên hệ chăm sóc khách hàng và đăng ký để chuyển sang giai đoạn tài khoản tiếp theo.\n7) Thống kê số lô: Để thuận tiện cho việc thống kê, đặt mức hoa hồng 1 USD mỗi lô. Khi xem xét các giao dịch đã đóng, nếu hoa hồng đạt 30 USD trong thời gian đánh giá hợp lệ, nghĩa là đã đáp ứng yêu cầu 30 lô tiêu chuẩn.\n8) Ký quỹ: Ký quỹ cố định mỗi lô là 20.000 USD. Khối lượng mở vị thế tối đa = Vốn chủ sở hữu tài khoản / Ký quỹ mỗi lô 20.000 USD. Ví dụ, tài khoản có vốn 10.000 USD có khối lượng mở vị thế tối đa là 0,5 lô (10.000/20.000).\n9) Cập nhật quy tắc: Quy tắc đánh giá của hoạt động này sẽ được cập nhật dựa trên tình hình vận hành thực tế; nếu có thay đổi, giải thích chính thức hoặc diễn giải của chăm sóc khách hàng sẽ được ưu tiên áp dụng."
     },
     {
       "id": 3,
-      "question": "# III. Real Account Profit Sharing",
-      "answer": "1) There are no restrictions on the number of trades, strategies, profit-taking and stop-loss orders, or drawdown per trade in real trading accounts.\n2) The rules for real trading are the same as those for the simulation assessment. Real trading accounts only have a 10% stop-loss line: when the account's real-time net value falls below 90% of the account's initial capital, the system's forced liquidation mechanism will be triggered, all of the account's positions will be forcibly liquidated, and trading will be restricted.\n3) The funds in the real trading account range from USD 1,000 to USD 100,000; the profit sharing ratio ranges from 30% to 90%.\n4) When the real trading account profits by 10%, the trader can apply to customer service for sharing of the profits. Alternatively, the trader can choose not to withdraw the profits and instead apply to upgrade to a real trading account with more funds when the total account profit reaches 30%-50%.\n\n## Profit Extraction\n1) To improve traders' fault tolerance (increase drawdown margin), the platform defaults to using the first 10% of real trading account's profit as a safety cushion. For example, an account with USD 10,000 in capital will have a net value of USD 11,000 when it makes a profit of USD 1,000; at this point, the account will only be eliminated if it loses USD 2,000, thus increasing the fault tolerance.\n2) When the account profit exceeds 20%, the trader can apply to withdraw 10% of the profit. That is, after deducting the 10% safety cushion, the trader can apply to withdraw the profit share for every additional 10% profit.\n3) Traders may also proactively exit and withdraw all or any remaining unsettled profit share in one lump sum.\n\n## Example\n\nFor an account with USD 10,000 in capital:\n\n-When the account profits USD 1,000 (10%), if trading continues, this amount will not be withdrawn temporarily; \n-When the account profits USD 2,000 (20%), the trader can apply to withdraw USD 1,000 (10%) of the profit share; \n-When the trader chooses to exit, all unsettled profits will be withdrawn in one lump sum."
+      "question": "# III. Chia sẻ lợi nhuận tài khoản thực",
+      "answer": "1) Không có hạn chế về số lần giao dịch, chiến lược, lệnh chốt lời và cắt lỗ, hay mức sụt giảm mỗi giao dịch trên tài khoản giao dịch thực.\n2) Quy tắc giao dịch thực giống với quy tắc đánh giá mô phỏng. Tài khoản giao dịch thực chỉ có ngưỡng cắt lỗ 10%: khi giá trị ròng theo thời gian thực của tài khoản giảm xuống dưới 90% vốn ban đầu của tài khoản, cơ chế đóng vị thế bắt buộc của hệ thống sẽ được kích hoạt, toàn bộ vị thế của tài khoản sẽ bị đóng bắt buộc và giao dịch sẽ bị hạn chế.\n3) Vốn trên tài khoản giao dịch thực dao động từ 1.000 USD đến 100.000 USD; tỷ lệ chia sẻ lợi nhuận dao động từ 30% đến 90%.\n4) Khi tài khoản giao dịch thực đạt lợi nhuận 10%, nhà giao dịch có thể đăng ký với chăm sóc khách hàng để chia sẻ lợi nhuận. Hoặc, nhà giao dịch có thể chọn không rút lợi nhuận mà thay vào đó đăng ký nâng cấp lên tài khoản giao dịch thực có vốn lớn hơn khi tổng lợi nhuận tài khoản đạt 30%-50%.\n\n## Rút lợi nhuận\n1) Để nâng cao khả năng chịu sai sót của nhà giao dịch (tăng biên độ sụt giảm), nền tảng mặc định sử dụng 10% lợi nhuận đầu tiên của tài khoản giao dịch thực làm lớp đệm an toàn. Ví dụ, tài khoản có vốn 10.000 USD sẽ có giá trị ròng 11.000 USD khi đạt lợi nhuận 1.000 USD; lúc này, tài khoản chỉ bị loại nếu lỗ 2.000 USD, qua đó tăng khả năng chịu sai sót.\n2) Khi lợi nhuận tài khoản vượt 20%, nhà giao dịch có thể đăng ký rút 10% lợi nhuận. Tức là, sau khi trừ lớp đệm an toàn 10%, cứ mỗi 10% lợi nhuận tăng thêm, nhà giao dịch có thể đăng ký rút phần chia sẻ lợi nhuận tương ứng.\n3) Nhà giao dịch cũng có thể chủ động thoát và rút toàn bộ hoặc phần chia sẻ lợi nhuận chưa tất toán còn lại trong một lần.\n\n## Ví dụ\n\nĐối với tài khoản có vốn 10.000 USD:\n\n-Khi tài khoản đạt lợi nhuận 1.000 USD (10%), nếu tiếp tục giao dịch, khoản này tạm thời không được rút; \n-Khi tài khoản đạt lợi nhuận 2.000 USD (20%), nhà giao dịch có thể đăng ký rút 1.000 USD (10%) phần chia sẻ lợi nhuận; \n-Khi nhà giao dịch chọn thoát, toàn bộ lợi nhuận chưa tất toán sẽ được rút trong một lần."
     }
   ],
   "rulesPaid": [
     {
       "id": 1,
-      "question": "1. Project Background",
-      "answer": "The Xtrader team has long been deeply involved in the spot gold and silver CFD market, possessing strong financial resources and a robust risk control system. To further leverage its professional advantages, Xtrader has officially launched the \"Prop Trader Recruitment Program,\" seeking traders with professional skills and practical trading experience globally.\n\nWith ample proprietary capital provided by Xtrader, traders participate in CFD trading in the global gold market using their own strategies and execution capabilities, achieving stable profits under controllable risk. Xtrader will establish a phased capital management mechanism, a strict risk control system, and scientific performance evaluation standards to ensure the team pursues long-term returns through stable operations.\n\nXtrader adheres to the principles of \"Professionalism, stability, and win-win cooperation\" and is committed to building a high-caliber worldwide proprietary trading team, enabling traders to realize their personal value while sharing the growth opportunities in the global gold market."
+      "question": "1. Bối cảnh dự án",
+      "answer": "Đội ngũ Xtrader đã có thời gian dài tham gia sâu vào thị trường CFD vàng và bạc giao ngay, sở hữu nguồn lực tài chính mạnh mẽ và hệ thống kiểm soát rủi ro vững chắc. Để phát huy hơn nữa lợi thế chuyên môn của mình, Xtrader đã chính thức ra mắt \"Chương trình Tuyển dụng Prop Trader\", tìm kiếm trên toàn cầu những nhà giao dịch có kỹ năng chuyên môn và kinh nghiệm giao dịch thực tế.\n\nVới nguồn vốn độc quyền dồi dào do Xtrader cung cấp, nhà giao dịch tham gia giao dịch CFD trên thị trường vàng toàn cầu bằng chiến lược và năng lực thực thi của riêng mình, đạt được lợi nhuận ổn định trong mức rủi ro có thể kiểm soát. Xtrader sẽ thiết lập cơ chế quản lý vốn theo từng giai đoạn, hệ thống kiểm soát rủi ro nghiêm ngặt và tiêu chuẩn đánh giá hiệu suất khoa học để đảm bảo đội ngũ theo đuổi lợi nhuận dài hạn thông qua hoạt động ổn định.\n\nXtrader tuân thủ nguyên tắc \"Chuyên nghiệp, ổn định và hợp tác đôi bên cùng có lợi\", cam kết xây dựng một đội ngũ giao dịch độc quyền chất lượng cao trên toàn thế giới, giúp nhà giao dịch hiện thực hóa giá trị cá nhân đồng thời chia sẻ cơ hội tăng trưởng trên thị trường vàng toàn cầu."
     },
     {
       "id": 2,
-      "question": "2. Paid Evaluation Overview",
-      "answer": "2.1 Paid Evaluation & Passed all Three-Steps\nThe simulation assessment consists of two phases: Phase 1 and Phase 2, Last is Live account with profit sharing. The simulation assessment follows the same rules for both phases. Traders who pass the two phases of simulated evaluations will be allocated a live trading account with the same amount of funds as those used in the simulated evaluations; the profit sharing ratio for the live trading account will be 80%.\n\n2.2 Registration Fee\nFor 10,000 USD evaluation account: 150 USD\nNow in Promotion: 120 USD (subject to latest updates)\nRegistration fees are non-refundable under any circumstances, so please be sure to pay carefully.\n\n2.3 Trading Instruments\nSpot Gold (XAUUSD), Spot Silver (XAGUSD)\n\n2.4 Prohibited Trading Activities\nTo maintain a fair and impartial trading environment, the following behaviors are strictly prohibited. If we find out any violation will result in immediately evaluation failure, disqualification, and the registration fee will not be refunded:\n\na.Scalping or High-Frequency Trading: refers to trading activities where the time interval between opening and closing is less than 60 seconds (including but not limited to exploiting quote delays, rapid entry and exit, etc.). Any strategy that aims to obtain minimal profits with extremely short time interval is considered a violation.\n\nb. EA Trading: This assessment does not support any kind of automated trading program, including but not limited to Expert Advisors (EAs), scripts, algorithms, semi-automatic order placement tools, etc.\n\nc.AB Accounts or Multiple-Account Hedging: It is prohibited for the same trader to use multiple accounts (or within the same account) to open positions in the opposite direction or hedge positions in order to avoid risks or fraudulently obtain profits.\n\nd. Abuse of Quotes or Delayed Arbitrage: It is prohibited to use platform quote delays, data vulnerabilities, abnormal liquidity, etc. for arbitrage trading.\n\ne.Malicious Order Manipulation or Position Shuffling: Irrational and frequent trading for the purpose of obtaining commission rebates or manipulating trading volume statistics is prohibited.\n\nf.Other Deceptive, Fraudulent, or Market-Disrupting Behaviors: Include, but are not limited to, fictitious transactions, data manipulation, exploiting loopholes in rules, and disrupting normal trading order. Traders must adhere to the principles of fair trading; any attempt to circumvent evaluation rules or harm the platform's interests is considered a violation.\n\nNote: The platform reserves the right of final interpretation of the above-mentioned prohibited behaviors and the right to make independent judgments based on trading behavior characteristics."
+      "question": "2. Tổng quan đánh giá có phí",
+      "answer": "2.1 Đánh giá có phí & Vượt qua cả ba bước\nĐánh giá mô phỏng gồm hai giai đoạn: Giai đoạn 1 và Giai đoạn 2, cuối cùng là tài khoản thực với chia sẻ lợi nhuận. Đánh giá mô phỏng áp dụng cùng quy tắc cho cả hai giai đoạn. Nhà giao dịch vượt qua hai giai đoạn đánh giá mô phỏng sẽ được cấp một tài khoản giao dịch thực với số vốn bằng số vốn dùng trong đánh giá mô phỏng; tỷ lệ chia sẻ lợi nhuận của tài khoản giao dịch thực là 80%.\n\n2.2 Phí đăng ký\nĐối với tài khoản đánh giá 10.000 USD: 150 USD\nHiện đang khuyến mãi: 120 USD (theo cập nhật mới nhất)\nPhí đăng ký không được hoàn lại trong mọi trường hợp, vì vậy vui lòng thanh toán cẩn thận.\n\n2.3 Công cụ giao dịch\nVàng giao ngay (XAUUSD), Bạc giao ngay (XAGUSD)\n\n2.4 Các hành vi giao dịch bị cấm\nĐể duy trì môi trường giao dịch công bằng và khách quan, các hành vi sau bị nghiêm cấm. Nếu chúng tôi phát hiện bất kỳ vi phạm nào sẽ dẫn đến thất bại đánh giá ngay lập tức, bị loại và phí đăng ký sẽ không được hoàn lại:\n\na. Scalping hoặc giao dịch tần suất cao: chỉ các hoạt động giao dịch mà khoảng thời gian giữa lúc mở và đóng vị thế dưới 60 giây (bao gồm nhưng không giới hạn ở việc lợi dụng độ trễ báo giá, vào/ra nhanh, v.v.). Mọi chiến lược nhằm thu lợi nhuận tối thiểu trong khoảng thời gian cực ngắn đều bị xem là vi phạm.\n\nb. Giao dịch EA: Đánh giá này không hỗ trợ bất kỳ chương trình giao dịch tự động nào, bao gồm nhưng không giới hạn ở Expert Advisor (EA), script, thuật toán, công cụ đặt lệnh bán tự động, v.v.\n\nc. Tài khoản AB hoặc phòng hộ đa tài khoản: Cấm cùng một nhà giao dịch sử dụng nhiều tài khoản (hoặc trong cùng một tài khoản) để mở vị thế ngược chiều hoặc phòng hộ vị thế nhằm né tránh rủi ro hoặc thu lợi nhuận gian lận.\n\nd. Lạm dụng báo giá hoặc kinh doanh chênh lệch do độ trễ: Cấm sử dụng độ trễ báo giá của nền tảng, lỗ hổng dữ liệu, thanh khoản bất thường, v.v. để giao dịch chênh lệch giá.\n\ne. Thao túng lệnh có chủ ý hoặc đảo vị thế: Cấm giao dịch phi lý và liên tục nhằm thu hồi hoa hồng hoặc thao túng số liệu khối lượng giao dịch.\n\nf. Các hành vi lừa dối, gian lận hoặc gây rối loạn thị trường khác: Bao gồm nhưng không giới hạn ở giao dịch khống, thao túng dữ liệu, lợi dụng lỗ hổng quy tắc và gây rối loạn trật tự giao dịch bình thường. Nhà giao dịch phải tuân thủ nguyên tắc giao dịch công bằng; mọi nỗ lực lách quy tắc đánh giá hoặc gây tổn hại lợi ích của nền tảng đều bị xem là vi phạm.\n\nLưu ý: Nền tảng có quyền giải thích cuối cùng đối với các hành vi bị cấm nêu trên và quyền đưa ra phán định độc lập dựa trên đặc điểm hành vi giao dịch."
     },
     {
       "id": 3,
-      "question": "3. Simulation Evaluation Phase",
-      "answer": "3.1 Simulation Evaluation Rules (Account Capital: 10,000 USD / 10k)\n\n| Item | Requirement |\n| --- | --- |\n| Initial Capital | 10,000 USD (10k) |\n| Evaluation Period | Within 90 days |\n| Profit Target | 10%+ |\n| Promotion Requirements | Closed position requirement: 18 standard lots + Minimum trading days: 10 trading days+ |\n| Elimination | Real-time equity below 9,000 USD |\n| Intraday Drawdown Limit | None (no restrictions) |\n| Margin Requirement per Lot | 20,000 USD (20k) |\n| Commission per Lot | 30 USD/lot |\n\n3.2 Evaluation Rule Explanations\n1. Evaluation Period: 90 days, calculated from the first trade. Both simulation phases are the same.\n2. Promotion Requirements: To pass the evaluation phase when all the following criteria are met: 10%+ profit, at least 10 trading days, and achieve 18 closed lots. Traders must click \"Apply to Promote\" in the system and obtain the account for the next stage upon approval.\na. Profit Target: Equity must reach more than 11,000 USD (10% profit) without any open positions.\nb. Closed Lot Requirement: Total number of closed lots must reach 18 standard lots or more (based on the accumulative closed volume, not the number of trades).\nc. Minimum of Trading Days: The account must be traded for at least 10 trading days (counted by the closing date).\n3. This evaluation does not set any restrictions on intraday dynamic drawdown limits (e.g., 5% intraday drawdown).\n4. Elimination: When the account's equity falls below 9000, the evaluation is considered a failure. The system will automatically liquidate all positions and restrict the account's trading permissions. Even after the liquidation, if the equity rises above 9000 due to price fluctuations, the challenge is still considered a failure.\n5. Commission: The live trading phase is using the STP (Straight Through Processing) model, orders placed directly into the market. Due to differences in liquidity or price fluctuations, the quote may differ from the final execution price. To simulate real trading costs, a fee of USD 30 per lot is charged during the evaluation phase. There are no commission in the live trading phase.\n6. Lot Statistics: If the accumulated commission reaches 540 USD (18 lots * 30 USD/lot) within the valid evaluation period, it is considered to achieve the requirement of 18 standard lots.\n7. Margin Requirement: The margin requirement per lot is fixed at 20,000 USD. Maximum number of open lots = account equity / margin requirement of 20,000 per lot. For example, an account with 10,000 USD in capital, the maximum number of open lots is 0.5 lots (10,000 / margin requirement of 20,000 per lot).\n8. Evaluation Rule Updates: Rules will be updated based on actual operational conditions. In case of any changes, the official or customer service explanation shall prevail."
+      "question": "3. Giai đoạn đánh giá mô phỏng",
+      "answer": "3.1 Quy tắc đánh giá mô phỏng (Vốn tài khoản: 10.000 USD / 10k)\n\n| Mục | Yêu cầu |\n| --- | --- |\n| Vốn ban đầu | 10.000 USD (10k) |\n| Thời gian đánh giá | Trong 90 ngày |\n| Mục tiêu lợi nhuận | 10%+ |\n| Yêu cầu thăng hạng | Yêu cầu vị thế đã đóng: 18 lô tiêu chuẩn + Số ngày giao dịch tối thiểu: 10 ngày giao dịch+ |\n| Loại | Vốn chủ sở hữu theo thời gian thực dưới 9.000 USD |\n| Giới hạn sụt giảm trong ngày | Không có (không hạn chế) |\n| Yêu cầu ký quỹ mỗi lô | 20.000 USD (20k) |\n| Hoa hồng mỗi lô | 30 USD/lô |\n\n3.2 Giải thích quy tắc đánh giá\n1. Thời gian đánh giá: 90 ngày, tính từ giao dịch đầu tiên. Cả hai giai đoạn mô phỏng đều giống nhau.\n2. Yêu cầu thăng hạng: Để vượt qua giai đoạn đánh giá khi đáp ứng tất cả các tiêu chí sau: lợi nhuận 10%+, tối thiểu 10 ngày giao dịch và đạt 18 lô đã đóng. Nhà giao dịch phải nhấp \"Đăng ký thăng hạng\" trong hệ thống và nhận tài khoản cho giai đoạn tiếp theo sau khi được phê duyệt.\na. Mục tiêu lợi nhuận: Vốn chủ sở hữu phải đạt trên 11.000 USD (lợi nhuận 10%) khi không có vị thế mở.\nb. Yêu cầu lô đã đóng: Tổng số lô đã đóng phải đạt 18 lô tiêu chuẩn trở lên (dựa trên khối lượng đã đóng tích lũy, không phải số lần giao dịch).\nc. Số ngày giao dịch tối thiểu: Tài khoản phải được giao dịch tối thiểu 10 ngày giao dịch (tính theo ngày đóng vị thế).\n3. Đánh giá này không đặt bất kỳ hạn chế nào về giới hạn sụt giảm động trong ngày (ví dụ: sụt giảm 5% trong ngày).\n4. Loại: Khi vốn chủ sở hữu của tài khoản giảm xuống dưới 9000, đánh giá được xem là thất bại. Hệ thống sẽ tự động đóng toàn bộ vị thế và hạn chế quyền giao dịch của tài khoản. Ngay cả sau khi đóng vị thế, nếu vốn chủ sở hữu tăng trên 9000 do biến động giá, thử thách vẫn được xem là thất bại.\n5. Hoa hồng: Giai đoạn giao dịch thực sử dụng mô hình STP (Straight Through Processing), lệnh được đưa thẳng ra thị trường. Do khác biệt về thanh khoản hoặc biến động giá, báo giá có thể khác với giá khớp lệnh cuối cùng. Để mô phỏng chi phí giao dịch thực, mức phí 30 USD mỗi lô được tính trong giai đoạn đánh giá. Không có hoa hồng ở giai đoạn giao dịch thực.\n6. Thống kê lô: Nếu hoa hồng tích lũy đạt 540 USD (18 lô * 30 USD/lô) trong thời gian đánh giá hợp lệ, được xem là đạt yêu cầu 18 lô tiêu chuẩn.\n7. Yêu cầu ký quỹ: Yêu cầu ký quỹ mỗi lô cố định ở mức 20.000 USD. Số lô mở tối đa = vốn chủ sở hữu tài khoản / yêu cầu ký quỹ 20.000 mỗi lô. Ví dụ, tài khoản có vốn 10.000 USD, số lô mở tối đa là 0,5 lô (10.000 / yêu cầu ký quỹ 20.000 mỗi lô).\n8. Cập nhật quy tắc đánh giá: Quy tắc sẽ được cập nhật dựa trên tình hình vận hành thực tế. Nếu có thay đổi, giải thích chính thức hoặc của chăm sóc khách hàng sẽ được ưu tiên áp dụng."
     },
     {
       "id": 4,
-      "question": "4. Live Account Profit Sharing",
-      "answer": "4.1 Live Account Rules\n\n| Item | Details |\n| --- | --- |\n| Initial Capital | 10,000 USD |\n| Profit Sharing Ratio | 80% |\n| Elimination | Real-time equity below 9,000 USD |\n| Intraday Drawdown Limit | None (no restrictions) |\n| Reserved Safety Buffer | 20% |\n| Profit Sharing Conditions | Every 10% profit after deducting 20% safety buffer |\n\n4.2 Live Trading Rule Explanations\n1. No Extra Restrictions: Live trading accounts have no restrictions on the number of lots, strategies, profit-taking and stop-loss orders, or drawdown per trade.\n2. Elimination Mechanism: Live trading accounts only have a 10% stop-loss level. When the account's equity falls below 90% of the initial capital (i.e., when the equity of a 10,000 account falls below 9,000), the system will force liquidation and restrict trading.\n3. Safety Buffer: To increase the fault tolerance of traders, the platform defaults to using 20% of the profits from live trading accounts as a safety buffer.\nFor example: If an account with 10,000 USD has a profit of 2,000 USD, its equity reaches 12,000 USD; now it needs to lose 3,000 USD to be eliminated (i.e., the drawdown has expanded).\n4. Profit Withdrawal (Profitable): When the account profit exceeds 30%, the trader can apply to withdraw 10% of the profit. After deducting the 20% safety buffer, for every additional 10% profit, the trader can apply to withdraw the corresponding profit sharing at any time when there are no open positions in the account.\n5. Voluntary Exit: When the account is profitable, the trader can voluntarily exit and withdraw all unsettled profits at once.\n6. Dormant Account: If a live trading account is not eliminated but is at a loss (equity below 10,000 and above 9,000), and has not continued trading for more than 15 trading days since the last transaction, it will be deemed as automatically abandoning the live trading account, and the platform has the right to clear the account funds."
+      "question": "4. Chia sẻ lợi nhuận tài khoản thực",
+      "answer": "4.1 Quy tắc tài khoản thực\n\n| Mục | Chi tiết |\n| --- | --- |\n| Vốn ban đầu | 10.000 USD |\n| Tỷ lệ chia sẻ lợi nhuận | 80% |\n| Loại | Vốn chủ sở hữu theo thời gian thực dưới 9.000 USD |\n| Giới hạn sụt giảm trong ngày | Không có (không hạn chế) |\n| Lớp đệm an toàn dự trữ | 20% |\n| Điều kiện chia sẻ lợi nhuận | Mỗi 10% lợi nhuận sau khi trừ lớp đệm an toàn 20% |\n\n4.2 Giải thích quy tắc giao dịch thực\n1. Không có hạn chế bổ sung: Tài khoản giao dịch thực không có hạn chế về số lô, chiến lược, lệnh chốt lời và cắt lỗ, hay mức sụt giảm mỗi giao dịch.\n2. Cơ chế loại: Tài khoản giao dịch thực chỉ có ngưỡng cắt lỗ 10%. Khi vốn chủ sở hữu của tài khoản giảm xuống dưới 90% vốn ban đầu (tức khi vốn chủ sở hữu của tài khoản 10.000 giảm xuống dưới 9.000), hệ thống sẽ đóng vị thế bắt buộc và hạn chế giao dịch.\n3. Lớp đệm an toàn: Để tăng khả năng chịu sai sót của nhà giao dịch, nền tảng mặc định sử dụng 20% lợi nhuận từ tài khoản giao dịch thực làm lớp đệm an toàn.\nVí dụ: Nếu tài khoản 10.000 USD đạt lợi nhuận 2.000 USD, vốn chủ sở hữu đạt 12.000 USD; lúc này cần lỗ 3.000 USD mới bị loại (tức biên độ sụt giảm đã được mở rộng).\n4. Rút lợi nhuận (khi có lãi): Khi lợi nhuận tài khoản vượt 30%, nhà giao dịch có thể đăng ký rút 10% lợi nhuận. Sau khi trừ lớp đệm an toàn 20%, cứ mỗi 10% lợi nhuận tăng thêm, nhà giao dịch có thể đăng ký rút phần chia sẻ lợi nhuận tương ứng bất cứ lúc nào khi tài khoản không có vị thế mở.\n5. Tự nguyện thoát: Khi tài khoản có lãi, nhà giao dịch có thể tự nguyện thoát và rút toàn bộ lợi nhuận chưa tất toán trong một lần.\n6. Tài khoản không hoạt động: Nếu tài khoản giao dịch thực không bị loại nhưng đang lỗ (vốn chủ sở hữu dưới 10.000 và trên 9.000) và không tiếp tục giao dịch quá 15 ngày giao dịch kể từ giao dịch gần nhất, sẽ được xem là tự động từ bỏ tài khoản giao dịch thực, và nền tảng có quyền thu hồi vốn của tài khoản."
     },
     {
       "id": 5,
-      "question": "5. Trading Specifications",
-      "answer": "|Item|XAUUSDnn (Gold)|XAGUSDnn (Silver)|\n|Contract Size|100 oz per lot|5,000 oz per lot|\n|Quotation Unit|USD per oz|USD per oz|\n|Minimum Tick|0.01 USD/oz|0.001 USD/oz|\n|Spread|Floating ~30 pips|Floating|\n|Margin Requirement per Lot|20,000 USD|20,000 USD|\n|Hedged Margin|Based on the larger legs|Based on the larger legs|\n|Pending Order Distance|100 pips away from market price|100 pips away from market price|\n|Minimum Volume Size|0.01 lot|0.01 lot|\n|Stepping|0.01 lot|0.01 lot|\n|Overnight Swap|Long: 55 USD/lot<br/>Short: 20 USD/lot<br/>Triple charge on Wednesday (subject to the platform)|Long: 20 USD/lot<br/>Short: 10 USD/lot<br/>Triple charge on Wednesday (subject to the platform)|\n|Forced Liquidation|Trading hours: Equity/Margin Requirement ≤80%<br/>Weekend/Holiday: Equity/Margin Requirement ≤100%|Trading hours: Equity/Margin Requirement ≤80%<br/>Weekend/Holiday: Equity/Margin Requirement ≤100%|\n|Trading Hours|Mon–Thu: 01:00 – 24:00<br/>Fri: 01:00 – 23:30 (holidays subject to notice)|Mon–Thu: 01:00 – 24:00<br/>Fri: 01:00 – 23:30 (holidays subject to notice)|\n|Server Timezone|DST: GMT+3 (UTC+3)<br/>Standard: GMT+2 (UTC+2)|DST: GMT+3 (UTC+3)<br/>Standard: GMT+2 (UTC+2)|"
+      "question": "5. Thông số giao dịch",
+      "answer": "|Mục|XAUUSDnn (Vàng)|XAGUSDnn (Bạc)|\n|Quy mô hợp đồng|100 oz mỗi lô|5.000 oz mỗi lô|\n|Đơn vị báo giá|USD mỗi oz|USD mỗi oz|\n|Bước giá tối thiểu|0,01 USD/oz|0,001 USD/oz|\n|Spread|Thả nổi ~30 pip|Thả nổi|\n|Yêu cầu ký quỹ mỗi lô|20.000 USD|20.000 USD|\n|Ký quỹ phòng hộ|Theo phần (leg) lớn hơn|Theo phần (leg) lớn hơn|\n|Khoảng cách lệnh chờ|Cách giá thị trường 100 pip|Cách giá thị trường 100 pip|\n|Khối lượng tối thiểu|0,01 lô|0,01 lô|\n|Bước khối lượng|0,01 lô|0,01 lô|\n|Phí qua đêm|Long: 55 USD/lô<br/>Short: 20 USD/lô<br/>Tính gấp ba vào thứ Tư (theo nền tảng)|Long: 20 USD/lô<br/>Short: 10 USD/lô<br/>Tính gấp ba vào thứ Tư (theo nền tảng)|\n|Đóng vị thế bắt buộc|Giờ giao dịch: Vốn chủ sở hữu/Yêu cầu ký quỹ ≤80%<br/>Cuối tuần/Ngày lễ: Vốn chủ sở hữu/Yêu cầu ký quỹ ≤100%|Giờ giao dịch: Vốn chủ sở hữu/Yêu cầu ký quỹ ≤80%<br/>Cuối tuần/Ngày lễ: Vốn chủ sở hữu/Yêu cầu ký quỹ ≤100%|\n|Giờ giao dịch|T2–T5: 01:00 – 24:00<br/>T6: 01:00 – 23:30 (ngày lễ theo thông báo)|T2–T5: 01:00 – 24:00<br/>T6: 01:00 – 23:30 (ngày lễ theo thông báo)|\n|Múi giờ máy chủ|DST: GMT+3 (UTC+3)<br/>Chuẩn: GMT+2 (UTC+2)|DST: GMT+3 (UTC+3)<br/>Chuẩn: GMT+2 (UTC+2)|"
     }
   ],
   "faq": [
     {
       "id": 1,
-      "question": "How do I sign up for the trader evaluation?",
-      "answer": "You can sign up for the Xtrader Trader Evaluation via the following official channels:\n- Official website: https://xtrader.xwgold19.com/\n- Xtrader WeChat Service Account: bottom menu → [Free Evaluation]"
+      "question": "Làm thế nào để đăng ký đánh giá nhà giao dịch?",
+      "answer": "Bạn có thể đăng ký Đánh giá Nhà giao dịch Xtrader qua các kênh chính thức sau:\n- Trang web chính thức: https://xtrader.xwgold19.com/\n- Tài khoản Dịch vụ WeChat Xtrader: menu phía dưới → [Đánh giá miễn phí]"
     },
     {
       "id": 2,
-      "question": "What are the rules of the trader evaluation?",
-      "answer": "The trader evaluation consists of Stage 1 and Stage 2, and the rules are the same for both stages. You can advance to the next stage once you meet all three conditions below:\n- Cumulative profit ≥ 10%\n- Total trades completed ≥ 30 lots (closed positions)\n- Total ≥ 10 trading days\nThere are no additional restrictions beyond the above.\nFor details: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
+      "question": "Quy tắc của đánh giá nhà giao dịch là gì?",
+      "answer": "Đánh giá nhà giao dịch gồm Giai đoạn 1 và Giai đoạn 2, quy tắc giống nhau ở cả hai giai đoạn. Bạn có thể tiến lên giai đoạn tiếp theo khi đáp ứng cả ba điều kiện dưới đây:\n- Lợi nhuận tích lũy ≥ 10%\n- Tổng giao dịch hoàn thành ≥ 30 lô (vị thế đã đóng)\n- Tổng ≥ 10 ngày giao dịch\nNgoài các điều kiện trên không có thêm hạn chế nào.\nChi tiết: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
     },
     {
       "id": 3,
-      "question": "Why do I need identity verification (KYC) if this is not live trading?",
-      "answer": "Identity verification helps prevent multiple accounts, repeated participation, and other issues, ensuring that evaluation results are authentic, fair, and verifiable. It also provides the compliance basis for issuing a live account later."
+      "question": "Tại sao tôi cần xác minh danh tính (KYC) nếu đây không phải giao dịch thực?",
+      "answer": "Xác minh danh tính giúp ngăn chặn việc tạo nhiều tài khoản, tham gia lặp lại và các vấn đề khác, đảm bảo kết quả đánh giá là xác thực, công bằng và có thể kiểm chứng. Đây cũng là cơ sở tuân thủ để cấp tài khoản thực sau này."
     },
     {
       "id": 4,
-      "question": "How do I complete identity verification (KYC)? Is there a tutorial?",
-      "answer": "Yes. Please follow the Xtrader WeChat Service Account and view the KYC tutorial here: https://mp.weixin.qq.com/s/27susSs-t-BDgQ34O_2WyQ"
+      "question": "Làm thế nào để hoàn tất xác minh danh tính (KYC)? Có hướng dẫn không?",
+      "answer": "Có. Vui lòng theo dõi Tài khoản Dịch vụ WeChat Xtrader và xem hướng dẫn KYC tại đây: https://mp.weixin.qq.com/s/27susSs-t-BDgQ34O_2WyQ"
     },
     {
       "id": 5,
-      "question": "How can I invite friends to join the evaluation?",
-      "answer": "Go to [Profile] and share your exclusive invitation code with your friends. After a successful invitation, you can view the records under [Referral]."
+      "question": "Làm thế nào để mời bạn bè tham gia đánh giá?",
+      "answer": "Vào [Hồ sơ] và chia sẻ mã mời độc quyền của bạn với bạn bè. Sau khi mời thành công, bạn có thể xem hồ sơ tại [Giới thiệu]."
     },
     {
       "id": 6,
-      "question": "If I refer someone and they pass, will I receive a commission reward?",
-      "answer": "Yes. If the friend you referred successfully receives a live account and generates profit sharing, you will receive 10% of the company's profit as a referral reward."
+      "question": "Nếu tôi giới thiệu một người và họ vượt qua, tôi có nhận được thưởng hoa hồng không?",
+      "answer": "Có. Nếu người bạn giới thiệu nhận được tài khoản thực thành công và tạo ra chia sẻ lợi nhuận, bạn sẽ nhận được 10% lợi nhuận của công ty làm thưởng giới thiệu."
     },
     {
       "id": 7,
-      "question": "Is the trader evaluation paid?",
-      "answer": "No. There is no fee. All users who complete identity verification (KYC) can participate in the trader evaluation for free."
+      "question": "Đánh giá nhà giao dịch có mất phí không?",
+      "answer": "Không. Không có phí. Tất cả người dùng hoàn tất xác minh danh tính (KYC) đều có thể tham gia đánh giá nhà giao dịch miễn phí."
     },
     {
       "id": 8,
-      "question": "What's the difference between the new evaluation and the previous one?",
-      "answer": "The evaluation rules remain the same. The difference is:\n- Previously, if you failed Stage 1, your existing trading account would be reset\n- Now, if you fail Stage 1, the system will issue a brand-new trading account"
+      "question": "Đánh giá mới và đánh giá trước đây khác nhau ở điểm nào?",
+      "answer": "Quy tắc đánh giá vẫn giữ nguyên. Điểm khác biệt là:\n- Trước đây, nếu trượt Giai đoạn 1, tài khoản giao dịch hiện tại của bạn sẽ bị đặt lại\n- Bây giờ, nếu trượt Giai đoạn 1, hệ thống sẽ cấp một tài khoản giao dịch hoàn toàn mới"
     },
     {
       "id": 9,
-      "question": "I can't find the broker/server provider 'xinwang'.",
-      "answer": "We recommend:\n- Turn off Wi-Fi and try using mobile data\n- Or download the latest MT5 trading app from the official website"
+      "question": "Tôi không tìm thấy nhà môi giới/nhà cung cấp máy chủ 'xinwang'.",
+      "answer": "Chúng tôi khuyến nghị:\n- Tắt Wi-Fi và thử dùng dữ liệu di động\n- Hoặc tải ứng dụng giao dịch MT5 mới nhất từ trang web chính thức"
     },
     {
       "id": 10,
-      "question": "When installing MT5 on my computer, a pop-up asks for proxy server settings.",
-      "answer": "In the Server field, enter: xinwang. Leave the other fields blank and click [OK].\nIf you still can't install it, we recommend using Google Chrome and downloading from the official website:\n- Official website: www.xwgold19.com"
+      "question": "Khi cài MT5 trên máy tính, một cửa sổ bật lên yêu cầu thiết lập máy chủ proxy.",
+      "answer": "Ở trường Server, nhập: xinwang. Để trống các trường khác và nhấp [OK].\nNếu vẫn không cài được, chúng tôi khuyến nghị dùng Google Chrome và tải từ trang web chính thức:\n- Trang web chính thức: www.xwgold19.com"
     },
     {
       "id": 11,
-      "question": "It shows authorization failed / I logged in but can't place a new order.",
-      "answer": "Please copy again or manually enter your trading password. Extra spaces may be added when copying, which can cause authorization failures, login issues, or inability to place orders."
+      "question": "Hiển thị ủy quyền thất bại / tôi đã đăng nhập nhưng không đặt được lệnh mới.",
+      "answer": "Vui lòng sao chép lại hoặc nhập thủ công mật khẩu giao dịch. Khoảng trắng thừa có thể bị thêm vào khi sao chép, gây ra lỗi ủy quyền, sự cố đăng nhập hoặc không đặt được lệnh."
     },
     {
       "id": 12,
-      "question": "Is the requirement of 30 lots too high?",
-      "answer": "The core goal of the evaluation is to identify traders with long-term, stable profitability. Too few trades or too short a period makes it difficult to fully assess strategy and risk control, as well as determine the appropriate live capital allocation later."
+      "question": "Yêu cầu 30 lô có quá cao không?",
+      "answer": "Mục tiêu cốt lõi của đánh giá là xác định những nhà giao dịch có khả năng sinh lời ổn định dài hạn. Quá ít giao dịch hoặc thời gian quá ngắn sẽ khó đánh giá đầy đủ chiến lược và kiểm soát rủi ro, cũng như xác định mức phân bổ vốn thực phù hợp sau này."
     },
     {
       "id": 13,
-      "question": "Does one buy count as 1 lot and one sell count as 1 lot?",
-      "answer": "A “lot” refers to position size, not the number of trades.\n- It is calculated based on the lot size when opening a position\n- It is counted only after the position is closed\n- All data is based on daily closed-position records"
+      "question": "Một lệnh mua có tính là 1 lô và một lệnh bán tính là 1 lô không?",
+      "answer": "“Lô” chỉ quy mô vị thế, không phải số lần giao dịch.\n- Được tính dựa trên khối lượng lô khi mở vị thế\n- Chỉ được tính sau khi đóng vị thế\n- Tất cả dữ liệu dựa trên hồ sơ vị thế đã đóng hằng ngày"
     },
     {
       "id": 14,
-      "question": "The evaluation seems difficult.",
-      "answer": "The evaluation is indeed challenging, but overall it is less difficult than many competitors. Many traders have successfully passed and obtained live accounts. Since Stage 1 and Stage 2 follow the same rules, if you pass Stage 1, Stage 2 is usually not a big issue."
+      "question": "Việc đánh giá có vẻ khó.",
+      "answer": "Đánh giá quả thực có thách thức, nhưng nhìn chung dễ hơn nhiều đối thủ cạnh tranh. Nhiều nhà giao dịch đã vượt qua thành công và nhận được tài khoản thực. Vì Giai đoạn 1 và Giai đoạn 2 áp dụng cùng quy tắc, nếu bạn vượt qua Giai đoạn 1 thì Giai đoạn 2 thường không phải vấn đề lớn."
     },
     {
       "id": 15,
-      "question": "Are there requirements for daily profit, daily drawdown, or holding time?",
-      "answer": "No. You only need to meet these three conditions: 10% profit + 30 lots + 10 trading days. There are no other restrictions.\nFor details: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
+      "question": "Có yêu cầu về lợi nhuận hằng ngày, mức sụt giảm hằng ngày hay thời gian giữ lệnh không?",
+      "answer": "Không. Bạn chỉ cần đáp ứng ba điều kiện này: lợi nhuận 10% + 30 lô + 10 ngày giao dịch. Không có hạn chế nào khác.\nChi tiết: https://mp.weixin.qq.com/s/Lt5fiA1dBWgW8m5JkSJtPA"
     },
     {
       "id": 16,
-      "question": "What is the leverage in the evaluation trading account?",
-      "answer": "The evaluation uses a fixed-margin model. Gold/Silver: margin is USD 20,000 per lot.\nLeverage = Contract value / Margin = Price × Contract size / Margin. The contract size is 100.\nExamples:\n- Gold price USD 4,000 → leverage about 20x\n- Gold price USD 5,000 → leverage about 25x"
+      "question": "Đòn bẩy trong tài khoản giao dịch đánh giá là bao nhiêu?",
+      "answer": "Đánh giá sử dụng mô hình ký quỹ cố định. Vàng/Bạc: ký quỹ là 20.000 USD mỗi lô.\nĐòn bẩy = Giá trị hợp đồng / Ký quỹ = Giá × Quy mô hợp đồng / Ký quỹ. Quy mô hợp đồng là 100.\nVí dụ:\n- Giá vàng 4.000 USD → đòn bẩy khoảng 20x\n- Giá vàng 5.000 USD → đòn bẩy khoảng 25x"
     },
     {
       "id": 17,
-      "question": "How much live capital can I get in the end? How is it evaluated?",
-      "answer": "We will comprehensively evaluate your Stage 2 trading data, including Sharpe ratio, profit factor, returns, win/loss ratio, drawdown, position sizing, etc., to determine the final live capital allocation."
+      "question": "Cuối cùng tôi có thể nhận được bao nhiêu vốn thực? Được đánh giá thế nào?",
+      "answer": "Chúng tôi sẽ đánh giá toàn diện dữ liệu giao dịch Giai đoạn 2 của bạn, bao gồm tỷ lệ Sharpe, profit factor, tỷ suất sinh lời, tỷ lệ thắng/thua, mức sụt giảm, quy mô vị thế, v.v., để xác định mức phân bổ vốn thực cuối cùng."
     },
     {
       "id": 18,
-      "question": "Can I retake the evaluation?",
-      "answer": "Yes.\n- If you fail Stage 1: the system automatically issues a new evaluation account every weekend; no need to sign up again\n- If you fail Stage 2: you can retake via a referrer or by using a Revive Card"
+      "question": "Tôi có thể đánh giá lại không?",
+      "answer": "Có.\n- Nếu trượt Giai đoạn 1: hệ thống tự động cấp tài khoản đánh giá mới vào mỗi cuối tuần; không cần đăng ký lại\n- Nếu trượt Giai đoạn 2: bạn có thể đánh giá lại thông qua người giới thiệu hoặc bằng cách dùng Thẻ Hồi sinh"
     },
     {
       "id": 19,
-      "question": "Your 30% profit split seems a bit low!",
-      "answer": "After passing the 2-stage evaluation, you can trade a live account without using your own capital. If your trading remains stable and profitable, after several profit-sharing cycles you can use the profit share earned from the company's starting capital as drawdown buffer to increase the profit split ratio:\n- Funding ratio 10% → profit split 50%\n- 20% → 70%\n- 30% → 90%"
+      "question": "Mức chia 30% lợi nhuận của bạn có vẻ hơi thấp!",
+      "answer": "Sau khi vượt qua đánh giá 2 giai đoạn, bạn có thể giao dịch tài khoản thực mà không cần dùng vốn của mình. Nếu giao dịch của bạn duy trì ổn định và có lãi, sau vài chu kỳ chia sẻ lợi nhuận, bạn có thể dùng phần chia sẻ lợi nhuận kiếm được từ vốn ban đầu của công ty làm lớp đệm sụt giảm để tăng tỷ lệ chia sẻ lợi nhuận:\n- Tỷ lệ vốn 10% → chia lợi nhuận 50%\n- 20% → 70%\n- 30% → 90%"
     },
     {
       "id": 20,
-      "question": "If I pass the evaluation, can the live capital be increased?",
-      "answer": "Yes. The company will periodically evaluate accounts with consistent and stable profits and adjust the capital allocation accordingly. Strong performers will have greater growth opportunities."
+      "question": "Nếu tôi vượt qua đánh giá, vốn thực có thể được tăng lên không?",
+      "answer": "Có. Công ty sẽ định kỳ đánh giá các tài khoản có lợi nhuận ổn định, nhất quán và điều chỉnh mức phân bổ vốn tương ứng. Người có hiệu suất tốt sẽ có cơ hội tăng trưởng lớn hơn."
     },
     {
       "id": 21,
-      "question": "How much initial capital will I receive for live trading?",
-      "answer": "The initial live capital is typically USD 1,000–10,000. The actual amount will be evaluated and adjusted gradually based on your trading performance. For traders who pass the evaluation, the initial live account is often USD 2,000–3,000 or more."
+      "question": "Tôi sẽ nhận được bao nhiêu vốn ban đầu cho giao dịch thực?",
+      "answer": "Vốn thực ban đầu thường là 1.000–10.000 USD. Số tiền thực tế sẽ được đánh giá và điều chỉnh dần dựa trên hiệu suất giao dịch của bạn. Đối với nhà giao dịch vượt qua đánh giá, tài khoản thực ban đầu thường là 2.000–3.000 USD hoặc hơn."
     }
   ],
   "company": {
     "hero": {
-      "titleEm": "Why",
-      "titleMain": "Choose XW Gold?",
+      "titleEm": "Tại sao",
+      "titleMain": "Chọn XW Gold?",
       "cards": [
         {
           "parts": [
             {
-              "text": "Hong Kong Gold Exchange",
+              "text": "Sàn Vàng Hồng Kông",
               "hl": false
             },
             {
-              "text": "AA Member No.019",
+              "text": "Thành viên AA Số 019",
               "hl": true
             }
           ]
@@ -170,7 +170,7 @@
         {
           "parts": [
             {
-              "text": "Holding",
+              "text": "Sở hữu",
               "hl": false
             },
             {
@@ -178,7 +178,7 @@
               "hl": true
             },
             {
-              "text": "market trading license",
+              "text": "giấy phép giao dịch thị trường",
               "hl": false
             }
           ]
@@ -186,20 +186,20 @@
         {
           "parts": [
             {
-              "text": "Qualified for electronic trading",
+              "text": "Đủ điều kiện giao dịch điện tử",
               "hl": false
             }
           ]
         }
       ],
-      "desc": "Leveraging Hong Kong’s status as a global financial hub, we provide clients with one-stop, professional trading services for spot gold, silver, and other precious metals products."
+      "desc": "Tận dụng vị thế trung tâm tài chính toàn cầu của Hồng Kông, chúng tôi cung cấp cho khách hàng dịch vụ giao dịch chuyên nghiệp, trọn gói cho vàng giao ngay, bạc và các sản phẩm kim loại quý khác."
     },
     "stats": [
       {
         "key": "s1",
         "labelParts": [
           {
-            "text": "Clients served",
+            "text": "Khách hàng đã phục vụ",
             "hl": false
           }
         ],
@@ -214,21 +214,21 @@
         "key": "s2",
         "labelParts": [
           {
-            "text": "Focus on",
+            "text": "Tập trung vào",
             "hl": false
           },
           {
-            "text": "Gold",
+            "text": "Vàng",
             "hl": true
           }
         ],
         "valueParts": [
           {
-            "text": "Silver",
+            "text": "Bạc",
             "hl": true
           },
           {
-            "text": "Precious metals",
+            "text": "Kim loại quý",
             "hl": false
           }
         ]
@@ -237,13 +237,13 @@
         "key": "s3",
         "labelParts": [
           {
-            "text": "Regulatory license",
+            "text": "Giấy phép quản lý",
             "hl": true
           }
         ],
         "valueParts": [
           {
-            "text": "Compliant",
+            "text": "Tuân thủ",
             "hl": false
           }
         ]
@@ -256,54 +256,54 @@
             "hl": true
           },
           {
-            "text": "hours",
+            "text": "giờ",
             "hl": false
           }
         ],
         "valueParts": [
           {
-            "text": "Multilingual support",
+            "text": "Hỗ trợ đa ngôn ngữ",
             "hl": false
           }
         ]
       }
     ],
     "sections": {
-      "certsTitle": "Authoritative Certificates",
-      "contactTitle": "Contact"
+      "certsTitle": "Chứng nhận có thẩm quyền",
+      "contactTitle": "Liên hệ"
     },
     "certs": {
       "cert1": {
-        "title": "Membership Certificate",
-        "org": "(Hong Kong Gold Exchange)"
+        "title": "Chứng nhận thành viên",
+        "org": "(Sàn Vàng Hồng Kông)"
       },
       "cert2": {
-        "title": "Class A Precious Metals Dealer",
-        "org": "(Hong Kong Customs)"
+        "title": "Đại lý kim loại quý hạng A",
+        "org": "(Hải quan Hồng Kông)"
       },
       "cert3": {
-        "title": "Business License",
-        "org": "(Hong Kong Gold Exchange)"
+        "title": "Giấy phép kinh doanh",
+        "org": "(Sàn Vàng Hồng Kông)"
       }
     },
     "features": {
       "f1": {
-        "title": "Authoritative Qualifications & Compliant Regulation",
-        "desc": "A major precious metals trading platform in Hong Kong with a long history, primarily offering spot gold, silver and other precious metals trading services.\n\nThe exchange implements a strict membership system and regulatory mechanisms to ensure that trading is open, fair, and transparent. As an important part of an international financial center, the Hong Kong Gold Exchange provides global investors with highly liquid and diversified trading instruments and convenient settlement services."
+        "title": "Chứng chỉ có thẩm quyền & Quản lý tuân thủ",
+        "desc": "Một nền tảng giao dịch kim loại quý lớn tại Hồng Kông với lịch sử lâu đời, chủ yếu cung cấp dịch vụ giao dịch vàng giao ngay, bạc và các kim loại quý khác.\n\nSàn giao dịch áp dụng hệ thống thành viên nghiêm ngặt và cơ chế quản lý để đảm bảo giao dịch cởi mở, công bằng và minh bạch. Là một phần quan trọng của trung tâm tài chính quốc tế, Sàn Vàng Hồng Kông cung cấp cho nhà đầu tư toàn cầu các công cụ giao dịch có tính thanh khoản cao, đa dạng cùng dịch vụ thanh toán bù trừ thuận tiện."
       },
       "f2": {
-        "title": "15+ years of experience in precious metals services",
-        "desc": "Xinwang Gold's team has an average of over 15 years of professional service experience in the field of spot gold, silver, and other precious metals investment.\n\nWe have a deep understanding of global market operating rules and market characteristics, and can provide investors with professional analysis, strategy planning and 1-on-1 services to help clients seize opportunities, effectively manage risks and achieve long-term steady growth in a volatile market environment."
+        "title": "Hơn 15 năm kinh nghiệm trong dịch vụ kim loại quý",
+        "desc": "Đội ngũ Xinwang Gold có trung bình hơn 15 năm kinh nghiệm dịch vụ chuyên nghiệp trong lĩnh vực đầu tư vàng giao ngay, bạc và các kim loại quý khác.\n\nChúng tôi có hiểu biết sâu sắc về các quy tắc vận hành và đặc điểm của thị trường toàn cầu, có thể cung cấp cho nhà đầu tư phân tích chuyên nghiệp, hoạch định chiến lược và dịch vụ 1 kèm 1 để giúp khách hàng nắm bắt cơ hội, quản lý rủi ro hiệu quả và đạt được tăng trưởng ổn định, dài hạn trong môi trường thị trường biến động."
       },
       "f3": {
-        "title": "Genuine STP Brokers",
-        "desc": "Xinwang Gold is a true STP broker, where all client trading orders are directly connected to the global market through the Straight Through Processing model.\n\nNo human intervention is required, ensuring transparent pricing, rapid execution, and fairness. We match trades with multiple top-tier liquidity providers, offering clients a low-spread, high-liquidity, and stable trading environment, making every trade closer to the true market price."
+        "title": "Nhà môi giới STP đích thực",
+        "desc": "Xinwang Gold là một nhà môi giới STP đích thực, nơi mọi lệnh giao dịch của khách hàng được kết nối trực tiếp ra thị trường toàn cầu thông qua mô hình Straight Through Processing.\n\nKhông cần can thiệp thủ công, đảm bảo định giá minh bạch, khớp lệnh nhanh và công bằng. Chúng tôi khớp giao dịch với nhiều nhà cung cấp thanh khoản hàng đầu, mang đến cho khách hàng môi trường giao dịch spread thấp, thanh khoản cao và ổn định, giúp mỗi giao dịch gần với giá thị trường thực hơn."
       }
     },
     "contact": {
-      "biz": "Business:",
+      "biz": "Lĩnh vực:",
       "email": "Email:",
-      "addressLabel": "Address:",
+      "addressLabel": "Địa chỉ:",
       "phone": "(+852) 53723536",
       "emailValue": "marketing@xwgold19.com",
       "address": "Room 1006, 10/F, Gold & Silver Commercial Building, 12-18 Mercer Street, Sheung Wan, Hong Kong"
@@ -565,29 +565,29 @@
   },
   "refundPolicy": [
     {
-      "title": "I. Special Agreement on Contract Cancellation and Refunds",
+      "title": "I. Thỏa thuận đặc biệt về Hủy hợp đồng và Hoàn tiền",
       "paragraphs": [
-        "I hereby acknowledge and agree that the services provided by this platform are virtual digital services. From the date the order payment is successful and the service is activated (including but not limited to account creation, permission granting, and activation of the simulated trading system), the service has been irreversibly delivered and begins to be consumed. Therefore, the 7-day no-reason cancellation/refund policy does not apply.",
-        "I confirm that:"
+        "Tôi xác nhận và đồng ý rằng các dịch vụ do nền tảng này cung cấp là dịch vụ số ảo. Kể từ ngày thanh toán đơn hàng thành công và dịch vụ được kích hoạt (bao gồm nhưng không giới hạn ở việc tạo tài khoản, cấp quyền và kích hoạt hệ thống giao dịch mô phỏng), dịch vụ đã được cung cấp một cách không thể đảo ngược và bắt đầu được tiêu dùng. Do đó, chính sách hủy/hoàn tiền không cần lý do trong 7 ngày không áp dụng.",
+        "Tôi xác nhận rằng:"
       ],
       "bullets": [
-        "1. After successful payment, regardless of whether I actually log in, use, or start simulated trading, the order cannot be cancelled and no refund can be requested.",
-        "2. Refund requests made for personal reasons (such as giving up, failing the assessment, leaving the account unused, operational mistakes, change of mind, etc.) may be directly rejected by the platform.",
-        "3. If I violate the platform’s Terms and Conditions and related rules, the platform may freeze the account, terminate the service, or cancel eligibility in accordance with the agreement, and no paid fees will be refunded."
+        "1. Sau khi thanh toán thành công, bất kể tôi có thực sự đăng nhập, sử dụng hay bắt đầu giao dịch mô phỏng hay không, đơn hàng không thể bị hủy và không thể yêu cầu hoàn tiền.",
+        "2. Yêu cầu hoàn tiền vì lý do cá nhân (như từ bỏ, không vượt qua đánh giá, để tài khoản không sử dụng, thao tác nhầm, đổi ý, v.v.) có thể bị nền tảng từ chối trực tiếp.",
+        "3. Nếu tôi vi phạm Điều khoản & Điều kiện của nền tảng và các quy tắc liên quan, nền tảng có thể đóng băng tài khoản, chấm dứt dịch vụ hoặc hủy tư cách theo thỏa thuận, và mọi khoản phí đã thanh toán sẽ không được hoàn lại."
       ]
     },
     {
-      "title": "II. Defective Performance",
+      "title": "II. Thực hiện có lỗi",
       "paragraphs": [],
       "bullets": [
-        "The platform shall not be responsible for refunds or compensation for service abnormalities caused by non-platform reasons such as improper user operation, network issues, or third-party software failures."
+        "Nền tảng không chịu trách nhiệm hoàn tiền hoặc bồi thường cho các bất thường về dịch vụ do nguyên nhân ngoài nền tảng như thao tác không đúng của người dùng, sự cố mạng hoặc lỗi phần mềm bên thứ ba."
       ]
     },
     {
-      "title": "III. Acknowledgement Statement",
+      "title": "III. Tuyên bố xác nhận",
       "paragraphs": [
-        "I have carefully read and fully understood the above cancellation and refund policy, and I acknowledge the nature of the platform’s virtual services and the agreement that they are non-cancellable and non-refundable. I voluntarily accept these rules and bear the corresponding consequences.",
-        "Entering “I have acknowledged the above content” indicates that I have read, understood, and agreed to all terms of this policy."
+        "Tôi đã đọc kỹ và hiểu đầy đủ chính sách hủy và hoàn tiền nêu trên, và tôi thừa nhận bản chất dịch vụ ảo của nền tảng cùng thỏa thuận rằng các dịch vụ đó không thể hủy và không thể hoàn tiền. Tôi tự nguyện chấp nhận các quy tắc này và chịu các hậu quả tương ứng.",
+        "Việc nhập “Tôi đã công nhận nội dung trên” cho biết tôi đã đọc, hiểu và đồng ý với tất cả các điều khoản của chính sách này."
       ],
       "bullets": []
     }
